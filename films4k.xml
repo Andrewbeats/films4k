@@ -1,37 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <items>
-<playlist_name>
-<![CDATA[ KinoBOOM ]]>
-</playlist_name>
-<options>
-<playlist_limits>nosavefav,no_save_fav,no_save_playlist</playlist_limits>
-</options>
-<channel>
-<title>
-<![CDATA[ СЕРВЕР 1 ]]>
-</title>
-<logo_20x20>http://223307.cf/kinoboom/start.png</logo_20x20>
-<description>
-<![CDATA[
-<center><H2>Добро пожаловать в KinoBOOM!<br>Наша группа ВК vk.com/plkinoboom</H2><br>Ссылки на весь контент настоящего проекта взяты из открытых интернет источников, не классифицированы по возрастным категориям, могут принадлежать третьим лицам в плане авторских прав, размещены в Интернете третьеми лицами. <br>КиноБум не ретранслирует и не хранит у себя данный контент, <br>а лишь предоставляет упорядоченные ссылки на него.<br>Кинобум не принимает к себе никаких претензий, как экономических, правовых, так и морально-этических, связанных с данным контентом.<br><H2>Переходя по следующей ссылке,<br> Вы соглашаетесь с данными условиями.</H2>Свои замечания пишите vk.com/plkinoboom</center>
-]]>
-</description>
-<playlist_url>
-<![CDATA[ http://223307.cf/kinoboom/kb.xml ]]>
-</playlist_url>
-</channel>
-<channel>
-<title>
-<![CDATA[ СЕРВЕР 2 (Kodi, Enigma2) ]]>
-</title>
-<logo_20x20>http://223307.cf/kinoboom/start.png</logo_20x20>
-<description>
-<![CDATA[
-<center><H2>Добро пожаловать в KinoBOOM!<br>Наша группа ВК vk.com/plkinoboom</H2><br>Ссылки на весь контент настоящего проекта взяты из открытых интернет источников, не классифицированы по возрастным категориям, могут принадлежать третьим лицам в плане авторских прав, размещены в Интернете третьеми лицами. <br>КиноБум не ретранслирует и не хранит у себя данный контент, <br>а лишь предоставляет упорядоченные ссылки на него.<br>Кинобум не принимает к себе никаких претензий, как экономических, правовых, так и морально-этических, связанных с данным контентом.<br><H2>Переходя по следующей ссылке,<br> Вы соглашаетесь с данными условиями.</H2>Свои замечания пишите vk.com/plkinoboom</center>
-]]>
-</description>
-<playlist_url>
-<![CDATA[ http://223307.tk/kb/kb2.xml ]]>
-</playlist_url>
-</channel>
+  <channel>
+    <title><![CDATA[ElephantsDream]]></title>
+    <description><![CDATA[<img src="https://edem.tv/favicon.ico">Edem IPTV]]></description>
+    <stream_url><![CDATA[https://archive.org/download/ElephantsDream/ed_1024_512kb.mp4]]></stream_url>
+  </channel>
 </items>
