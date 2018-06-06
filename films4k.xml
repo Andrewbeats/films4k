@@ -23,7 +23,6 @@
 </style>
 <body>
 				<p>
-		<span style="font-size: 13px">
 					<img src="https://ia.media-imdb.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@.jpg" alt="Иллюстрация" width="200" height="272" class="rightpic">
 					<img src="http://imdb.hurtom.com/tt1375666.png">
 					<br/>
@@ -43,7 +42,8 @@
 					<span style="color: #a2b0d8">#14:</span>
 					AC3, 6 ch, 640 kbps - Русский
 					<img src="http://lostpix.com/img/2018-02/12/emv56e3ve7yj9thvs9b5jqkpx.gif">
-		</span>
+					<br/>
+
 				</table>
 				]]>
 			</description>
