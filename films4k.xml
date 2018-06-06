@@ -18,7 +18,7 @@
 				<style>
    .rightpic {
     float: left; /* Выравнивание по правому краю */
-    margin: 10px 10px 10px 5px; /* Отступы вокруг фотографии */
+    margin: 10px 10px 10px 10px; /* Отступы вокруг фотографии */
    }
 </style>
 <body>
