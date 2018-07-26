@@ -1,49 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <items>
-	<channel>
-		<title><![CDATA[4K]]></title> 
-		<logo_30x30>
-https://img.purch.com/w/755/aHR0cDovL21lZGlhLmJlc3RvZm1pY3JvLmNvbS8yL1UvNjYzNjU0L29yaWdpbmFsL1doYXQtaXMtNGstVFZfbGVkZV8wMzI3LTE3LmpwZw==
-		</logo_30x30>
-				
-<playlist_url>http://obovse.ru/smarttv/fex.php?id=key&search=482362594493</playlist_url>
-		
-		<description>
-			<![CDATA[
+  <channel>
+    <title><![CDATA[4K]]></title> 
+    <logo_30x30>
+      https://img.purch.com/w/755/aHR0cDovL21lZGlhLmJlc3RvZm1pY3JvLmNvbS8yL1UvNjYzNjU0L29yaWdpbmFsL1doYXQtaXMtNGstVFZfbGVkZV8wMzI3LTE3LmpwZw==
+    </logo_30x30>
+
+    <playlist_url>http://obovse.ru/smarttv/fex.php?id=key&search=482362594493</playlist_url>
+
+    <description>
+      <![CDATA[
 <table>
-	<h2>
-				<center>Фильмы в формате 4K</center>
-	</h2>
-			<p>
-				<style>
-
-   .rightpic {
-
-    float: left; /* Выравнивание по правому краю */
-
-    margin: 10px 10px 10px 10px; /* Отступы вокруг фотографии */
-
-   }
-
-</style>
-
+      <h2>
+        <center>Фильмы в формате 4K</center>
+      </h2>
+      <p>
 <body>
-
-				<p>
-
-					<img src="https://img.purch.com/w/755/aHR0cDovL21lZGlhLmJlc3RvZm1pY3JvLmNvbS8yL1UvNjYzNjU0L29yaWdpbmFsL1doYXQtaXMtNGstVFZfbGVkZV8wMzI3LTE3LmpwZw==" alt="Иллюстрация" width="200" height="272" class="rightpic">
-
-
-				</table>
-
-				]]>
-
-			</description>
-
-		</channel>
-
-
-
-
-
-		</items>
+        <p>
+          <img src="https://img.purch.com/w/755/aHR0cDovL21lZGlhLmJlc3RvZm1pY3JvLmNvbS8yL1UvNjYzNjU0L29yaWdpbmFsL1doYXQtaXMtNGstVFZfbGVkZV8wMzI3LTE3LmpwZw==" alt="Иллюстрация" width="200" height="272" class="rightpic"></table>
+        ]]>
+      </description>
+    </channel>
+  </items>
