@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <items>
   <channel>
-    <title><![Фильмы 4К]></title>
+    <title>4K</title>
     <description><![CDATA[<img src="https://img.purch.com/w/755/aHR0cDovL21lZGlhLmJlc3RvZm1pY3JvLmNvbS8yL1UvNjYzNjU0L29yaWdpbmFsL1doYXQtaXMtNGstVFZfbGVkZV8wMzI3LTE3LmpwZw==">В данном разделе собраны фильмы в формате 4К. Так как данный формат набирает все большую популярнось, администраторы будут его обновлять по мере появления фильмов в формате 4К]]></description>
-    <stream_url>
-      <![CDATA[http://obovse.ru/smarttv/fex.php?id=key&search=482362594493]]>
-      </stream_url>
+  <playlist_url>
+    http://obovse.ru/smarttv/fex.php?id=key&search=
+      482362594493
+  </playlist_url>
   </channel>
 </items>
