@@ -13,7 +13,10 @@
 		</logo_30x30>
 		
 					<playlist_url>
-http://moonwalk.cc/api/movies_updates.xml?api_token=dd6bc17ff127e54dbdea5872063e3568  	</playlist_url>
+						
+http://95.46.99.45/api/mw.json
+						
+		</playlist_url>
 		
 		<description>
 
