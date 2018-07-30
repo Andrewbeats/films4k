@@ -1,134 +1,24 @@
-<?xml version="1.0"?>
-<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
- xmlns:o="urn:schemas-microsoft-com:office:office"
- xmlns:x="urn:schemas-microsoft-com:office:excel"
- xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
- xmlns:html="http://www.w3.org/TR/REC-html40">
- <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
-  <LastAuthor>пользователь Microsoft Office</LastAuthor>
-  <Created>2018-07-30T21:41:53Z</Created>
-  <LastSaved>2018-07-30T22:09:28Z</LastSaved>
-  <Version>15.0</Version>
- </DocumentProperties>
- <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
-  <AllowPNG/>
-  <PixelsPerInch>96</PixelsPerInch>
- </OfficeDocumentSettings>
- <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
-  <WindowHeight>16000</WindowHeight>
-  <WindowWidth>25600</WindowWidth>
-  <WindowTopX>0</WindowTopX>
-  <WindowTopY>0</WindowTopY>
-  <TabRatio>600</TabRatio>
-  <ProtectStructure>False</ProtectStructure>
-  <ProtectWindows>False</ProtectWindows>
- </ExcelWorkbook>
- <Styles>
-  <Style ss:ID="Default" ss:Name="Normal">
-   <Alignment ss:Vertical="Bottom"/>
-   <Borders/>
-   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
-   <Interior/>
-   <NumberFormat/>
-   <Protection/>
-  </Style>
-  <Style ss:ID="s63" ss:Name="Гиперссылка">
-   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#0000D4"
-    ss:Underline="Single"/>
-  </Style>
-  <Style ss:ID="s16">
-   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
-    ss:Bold="1"/>
-  </Style>
-  <Style ss:ID="s64">
-   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
-  </Style>
- </Styles>
- <Worksheet ss:Name="Sheet1">
-  <Table ss:ExpandedColumnCount="6" ss:ExpandedRowCount="16" x:FullColumns="1"
-   x:FullRows="1" ss:DefaultColumnWidth="53" ss:DefaultRowHeight="15">
-   <Column ss:Index="2" ss:Width="42"/>
-   <Column ss:Width="204"/>
-   <Column ss:AutoFitWidth="0" ss:Width="91"/>
-   <Column ss:Width="192"/>
-   <Column ss:Width="362"/>
-   <Row>
-    <Cell ss:StyleID="s16"><Data ss:Type="String">items</Data></Cell>
-    <Cell ss:StyleID="s16"><Data ss:Type="String">channel</Data></Cell>
-    <Cell ss:StyleID="s16"><Data ss:Type="String">title</Data></Cell>
-    <Cell ss:StyleID="s16"><Data ss:Type="String">logo_30x30</Data></Cell>
-    <Cell ss:StyleID="s16"><Data ss:Type="String">playlist_url</Data></Cell>
-    <Cell><Data ss:Type="String">stream_url</Data></Cell>
-   </Row>
-   <Row>
-    <Cell ss:Index="3"><Data ss:Type="String">4K</Data></Cell>
-    <Cell><Data ss:Type="String">&#13;https://img.purch.com/w/755/aHR0cDovL21lZGlhLmJlc3RvZm1pY3JvLmNvbS8yL1UvNjYzNjU0L29yaWdpbmFsL1doYXQtaXMtNGstVFZfbGVkZV8wMzI3LTE3LmpwZw==&#13;</Data></Cell>
-    <Cell ss:HRef="http://obovse.ru/smarttv/fex.php?id=key"><Data ss:Type="String">http://obovse.ru/smarttv/fex.php?id=key</Data></Cell>
-    <Cell ss:StyleID="s64"/>
-   </Row>
-   <Row>
-    <Cell ss:Index="3"><Data ss:Type="String">Великий уравнитель / The Equalizer (2014)</Data></Cell>
-    <Cell ss:Index="6"><Data ss:Type="String">https://fex.net/get/482362594493/618773415</Data></Cell>
-   </Row>
-   <Row>
-    <Cell ss:Index="6" ss:StyleID="s63"/>
-   </Row>
-   <Row>
-    <Cell ss:Index="6" ss:StyleID="s63"/>
-   </Row>
-   <Row>
-    <Cell ss:Index="6" ss:StyleID="s63"/>
-   </Row>
-   <Row>
-    <Cell ss:Index="6" ss:StyleID="s63"/>
-   </Row>
-   <Row>
-    <Cell ss:Index="6" ss:StyleID="s63"/>
-   </Row>
-   <Row>
-    <Cell ss:Index="6" ss:StyleID="s63"/>
-   </Row>
-   <Row>
-    <Cell ss:Index="6" ss:StyleID="s63"/>
-   </Row>
-   <Row>
-    <Cell ss:Index="6" ss:StyleID="s63"/>
-   </Row>
-   <Row>
-    <Cell ss:Index="6" ss:StyleID="s63"/>
-   </Row>
-   <Row>
-    <Cell ss:Index="6" ss:StyleID="s63"/>
-   </Row>
-   <Row>
-    <Cell ss:Index="6" ss:StyleID="s63"/>
-   </Row>
-   <Row>
-    <Cell ss:Index="6" ss:StyleID="s63"/>
-   </Row>
-   <Row>
-    <Cell ss:Index="6" ss:StyleID="s63"/>
-   </Row>
-  </Table>
-  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
-   <PageSetup>
-    <Header x:Margin="0.3"/>
-    <Footer x:Margin="0.3"/>
-    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
-   </PageSetup>
-   <Print>
-   </Print>
-   <PageLayoutZoom>0</PageLayoutZoom>
-   <Selected/>
-   <Panes>
-    <Pane>
-     <Number>3</Number>
-     <ActiveRow>10</ActiveRow>
-     <ActiveCol>2</ActiveCol>
-    </Pane>
-   </Panes>
-   <ProtectObjects>False</ProtectObjects>
-   <ProtectScenarios>False</ProtectScenarios>
-  </WorksheetOptions>
- </Worksheet>
-</Workbook>
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+  <channel>
+    <title><![CDATA[4K]]></title> 
+    <logo_30x30>
+<img src="https://img.purch.com/w/755/aHR0cDovL21lZGlhLmJlc3RvZm1pY3JvLmNvbS8yL1UvNjYzNjU0L29yaWdpbmFsL1doYXQtaXMtNGstVFZfbGVkZV8wMzI3LTE3LmpwZw==" alt="Иллюстрация" width="755" height="453" class="rightpic">    </logo_30x30>
+    <playlist_url>http://obovse.ru/smarttv/fex.php?id=key&search=641406595580</playlist_url>
+    <description>
+      <![CDATA[
+<table>
+      <h2>
+        <center>Фильмы в формате 4K</center>
+      </h2>
+      <p>
+<body>
+        <p>
+          <center>
+<img src="https://img.purch.com/w/755/aHR0cDovL21lZGlhLmJlc3RvZm1pY3JvLmNvbS8yL1UvNjYzNjU0L29yaWdpbmFsL1doYXQtaXMtNGstVFZfbGVkZV8wMzI3LTE3LmpwZw==" alt="Иллюстрация" width="755" height="453" class="rightpic">
+</center>
+</table>
+        ]]>
+      </description>
+    </channel>
+  </items>
