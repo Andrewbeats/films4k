@@ -1,37 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <items>
-  <channel>
-    <title><![CDATA[4K]]></title>
-    <playlist_url><![CDATA[http://obovse.ru/smarttv/fex.php?id=key&search=577460137874]]></playlist_url>
-    <description>
-      <![CDATA[
+<channel>
+<title><![CDATA[4K]]></title>
+<playlist_url><![CDATA[http://obovse.ru/smarttv/fex.php?id=key&search=577460137874]]></playlist_url>
+<description>
+<![CDATA[
 <table>
-      <h2>
-        <center>Фильмы в формате 4K</center>
-      </h2>
-      <p>
+<h2>
+<center>Фильмы в формате 4K</center>
+</h2>
+<p>
 <body>
-        <p>
-          <center>
+<p>
+<center>
 <img src="https://img.purch.com/w/755/aHR0cDovL21lZGlhLmJlc3RvZm1pY3JvLmNvbS8yL1UvNjYzNjU0L29yaWdpbmFsL1doYXQtaXMtNGstVFZfbGVkZV8wMzI3LTE3LmpwZw==" alt="Иллюстрация" width="755" height="453" class="rightpic">
 </center>
 </table>
-        ]]>
+]]>
       </description>
-    </channel>
-    <channel>
+</channel>
+  
+<channel>
 <title>
 <![CDATA[Начало / Inception (2010)]]>
 </title>
-
 <stream_url><![CDATA[http://moonwalk.cc/video/9e9076a29df2c622/iframe]]></stream_url>
-      
 <description>
 <![CDATA[
-<table> <h2><center>Начало / Inception (2010)</center></h2> <p><img height="285" 
+<table>
+<h2>
+<center>Начало / Inception (2010)</center>
+</h2>
+<p><img height="285" 
 src="https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@.jpg"
  style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid;" width="210"> <b>Год: </b>2017<br> <b>Страна: </b>США<br> <b>Жанр: </b>детектив, триллер, ужасы<br> <b>Перевод: </b>Полное дублирование<br> <p><hr><b>Описание: </b> 
-У Дома Кобба редкая и не вполне легальная профессия — он и его специально обученные помощники проникают в сны людей и крадут оттуда ценную информацию. Однако после не слишком удачной попытки взломать подсознание японского магната, Кобб получает от него же задание иного свойства. В обмен на право вернуться к детям в США, где взломщика разыскивают госорганы, тот должен подсадить наследнику монополистской корпорации идею о том, чтобы эту корпорацию развалить. Крепко озадаченный, Кобб начинает собирать команду специалистов: из Парижа выписывает "архитектора", которая должна будет сон построить, из Момбасы — "имитатора", который станет доставать субтильного коббова напарника, а заодно и "химика", который всех усыпит. </p></table>
+У Дома Кобба редкая и не вполне легальная профессия — он и его специально обученные помощники проникают в сны людей и крадут оттуда ценную информацию. Однако после не слишком удачной попытки взломать подсознание японского магната, Кобб получает от него же задание иного свойства. В обмен на право вернуться к детям в США, где взломщика разыскивают госорганы, тот должен подсадить наследнику монополистской корпорации идею о том, чтобы эту корпорацию развалить. Крепко озадаченный, Кобб начинает собирать команду специалистов: из Парижа выписывает "архитектора", которая должна будет сон построить, из Момбасы — "имитатора", который станет доставать субтильного коббова напарника, а заодно и "химика", который всех усыпит.
+</p>
+</table>
 ]]>
 </description>
 </channel>
