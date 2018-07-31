@@ -22,7 +22,7 @@
 
 <channel>
 <title><![CDATA[Moonwalk]]></title>
-<playlist_url><![CDATA[http://moonwalk.cc/api/movies_updates.json]]></playlist_url>
+<stream_url><![CDATA[http://moonwalk.cc/api/movies_updates.json]]></stream_url>
 <description>
 <![CDATA[
 <table>
@@ -44,7 +44,7 @@
 <title>
 <![CDATA[Начало / Inception (2010)]]>
 </title>
-      <iframe_url>http://moonwalk.cc/video/816ae107df5f708c/iframe</iframe_url>
+      <stream_url>http://moonwalk.cc/video/ebb022b61832976833fa0f875829961d/iframe</stream_url>
 <description>
 <![CDATA[
 <table>
