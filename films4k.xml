@@ -22,7 +22,7 @@
 
 <channel>
 <title><![CDATA[Moonwalk]]></title>
-<stream_url><![CDATA[http://moonwalk.cc/api/movies_updates.json]]></stream_url>
+<playlist_url><![CDATA[http://moonwalk.cc/api/movies_updates.json]]></playlist_url>
 <description>
 <![CDATA[
 <table>
