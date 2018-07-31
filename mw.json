@@ -1,5 +1,5 @@
 {"channels":[{"title":"Поиск","playlist_url":"http://95.46.99.45/api/mw.json","description":"Поиск по базе Moonwalk.cc","search_on":"Поиск"},
-{"title":"Зарубежные фильмы","playlist_url":"http://moonwalk.cc/api/movies_updates.json","description":"Зарубежные фильмы"},
+{"title":"Зарубежные фильмы","playlist_url":"http://95.46.99.45/api/mw.json?Category=1","description":"Зарубежные фильмы"},
 {"title":"Зарубежные сериалы","playlist_url":"http://95.46.99.45/api/mw.json?Category=2","description":"Зарубежные сериалы"},
 {"title":"Фильмы","playlist_url":"http://95.46.99.45/api/mw.json?Category=3","description":"Фильмы"},
 {"title":"Сериалы","playlist_url":"http://95.46.99.45/api/mw.json?Category=4","description":"Сериалы"},
