@@ -22,7 +22,7 @@
 
 <channel>
 <title><![CDATA[Moonwalk]]></title>
-<playlist_url><![CDATA[http://95.46.99.45/api/mw.json]]></playlist_url>
+<playlist_url><![CDATA[http://moonwalk.cc/api/movies_updates.json?api_token=dd6bc17ff127e54dbdea5872063e3568]]></playlist_url>
 <description>
 <![CDATA[
 <table>
