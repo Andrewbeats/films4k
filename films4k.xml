@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<items>
 <movies_updates>
   <current_page>1</current_page>
   <updates>
@@ -1193,3 +1194,4 @@
     </movie_update>
   </updates>
 </movies_updates>
+  </items>
