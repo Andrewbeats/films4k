@@ -1,8 +1,8 @@
 #EXTM3U
 
-#EXTINF:0,Начало / Inception (2010) //название канала
-#EXTGRP:Фильмы //название группы, необязательно
-http://moonwalk.cc/video/ebb022b61832976833fa0f875829961d/iframe //ссылка на канал. поддерживаемые потоколы - http://, https://, udp://, rtmp://, rtp://, rtsp://, mms://, acestream://, 
+#EXTINF:0,Начало / Inception (2010)
+#EXTGRP:Фильмы
+http://moonwalk.cc/video/ebb022b61832976833fa0f875829961d/iframe/
 
 #EXTINF:0,Bunny(1080p)
 http://distribution.bbb3d.renderfarming.net/video/mp4/bbb_sunflower_1080p_60fps_normal.mp4
