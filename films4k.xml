@@ -1,13 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<bookstore xmlns:xlink="http://www.w3.org/1999/xlink">
-   <book title="Harry Potter">
-      <description xlink:type="simple" xlink:href="/images/HPotter.gif" xlink:show="new">
-         As his fifth year at Hogwarts School of Witchcraft and Wizardry approaches, 15-year-old Harry Potter is...
-      </description>
-   </book>
-   <book title="XQuery Kick Start">
-      <description xlink:type="simple" xlink:href="/images/XQuery.gif" xlink:show="new">
-         XQuery Kick Start delivers a concise introduction to the XQuery standard...
-      </description>
-   </book>
-</bookstore>
+<items>
+<channel>
+<title><![CDATA[4K]]></title>
+<playlist_url><![CDATA[http://obovse.ru/smarttv/fex.php?id=key&search=200340795895]]></playlist_url>
+<description>
+<![CDATA[
+<table>
+<h2>
+<center>Фильмы в формате 4K</center>
+</h2>
+<p>
+<body>
+<p>
+<center>
+</center>
+</table>
+]]>
+</description>
+</channel>
+
+<channel>
+<title><![CDATA[Moonwalk]]></title>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/Andrewbeats/films4k/master/mw.json]]></playlist_url>
+<description>
+<![CDATA[
+<table>
+<h2>
+<center>База данных Moonwalk.cc</center>
+</h2>
+<p>
+<body>
+<p>
+</table>
+]]>
+</description>
+</channel>
+      
+<channel>
+<title>
+<![CDATA[Начало / Inception (2010)]]>
+</title>
+      <stream_url>http://moonwalk.cc/video/ebb022b61832976833fa0f875829961d/iframe</stream_url>
+<description>
+<![CDATA[
+<table>
+<h2>
+<center>Начало / Inception (2010)</center>
+</h2>
+<p><img height="285" 
+src="https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@.jpg"
+ style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid;" width="210"> https://rating.kinopoisk.ru/84049.xml <br> <b>Год: </b>2017<br> <b>Страна: </b>США<br> <b>Жанр: </b>детектив, триллер, ужасы<br> <b>Перевод: </b>Полное дублирование<br> <p><hr><b>Описание: </b> 
+У Дома Кобба редкая и не вполне легальная профессия — он и его специально обученные помощники проникают в сны людей и крадут оттуда ценную информацию. Однако после не слишком удачной попытки взломать подсознание японского магната, Кобб получает от него же задание иного свойства. В обмен на право вернуться к детям в США, где взломщика разыскивают госорганы, тот должен подсадить наследнику монополистской корпорации идею о том, чтобы эту корпорацию развалить. Крепко озадаченный, Кобб начинает собирать команду специалистов: из Парижа выписывает "архитектора", которая должна будет сон построить, из Момбасы — "имитатора", который станет доставать субтильного коббова напарника, а заодно и "химика", который всех усыпит.
+</p>
+</table>
+]]>
+</description>
+</channel>
+  </items>
