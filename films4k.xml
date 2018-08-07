@@ -68,8 +68,7 @@
 <![CDATA[
 <table>
 <h2><center>Начало / Inception (2010)</center></h2>
-<p><img height="500"; width="350"
-src="https://st.kp.yandex.net/images/film_big/447301.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid">
+<p><img src="https://st.kp.yandex.net/images/film_big/447301.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid; height="290"; width="205">
   <title2>Качество: UHD Blu-ray (HDR)</title2> <br>
   <title3>Аудио: 15 (AC3, 6 ch, 640 kbps) Русский <img src="http://lostpix.com/img/2018-02/12/emv56e3ve7yj9thvs9b5jqkpx.gif"></img></title3> <br>
   <title4>Видео: HEVC/H.265, 3840x2160, (16:9), 59,2 Мбит/сек, 23.976 fps</title4> <br>
@@ -86,16 +85,15 @@ src="https://st.kp.yandex.net/images/film_big/447301.jpg" style=" float: left; m
 ]]>
   </description>
 </channel>
-
-<channel>
+  
+  <channel>
   <title><![CDATA[Начало / Inception (2010)]]></title>
   <stream_url>https://fex.net/get/200340795895/642182356</stream_url>
   <description>
 <![CDATA[
 <table>
 <h2><center>Начало / Inception (2010)</center></h2>
-<p><img height="285" 
-src="https://st.kp.yandex.net/images/film_big/447301.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid;" width="210">
+<p><img src="https://st.kp.yandex.net/images/film_big/447301.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid; height="290"; width="205">
   <title2>Качество: UHD Blu-ray (HDR)</title2> <br>
   <title3>Аудио: 15 (AC3, 6 ch, 640 kbps) Русский <img src="http://lostpix.com/img/2018-02/12/emv56e3ve7yj9thvs9b5jqkpx.gif"></img></title3> <br>
   <title4>Видео: HEVC/H.265, 3840x2160, (16:9), 59,2 Мбит/сек, 23.976 fps</title4> <br>
@@ -112,16 +110,15 @@ src="https://st.kp.yandex.net/images/film_big/447301.jpg" style=" float: left; m
 ]]>
   </description>
 </channel>
-
-<channel>
+  
+  <channel>
   <title><![CDATA[Начало / Inception (2010)]]></title>
   <stream_url>https://fex.net/get/200340795895/642182356</stream_url>
   <description>
 <![CDATA[
 <table>
 <h2><center>Начало / Inception (2010)</center></h2>
-<p><img height="285" 
-src="https://st.kp.yandex.net/images/film_big/447301.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid;" width="210">
+<p><img src="https://st.kp.yandex.net/images/film_big/447301.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid; height="290"; width="205">
   <title2>Качество: UHD Blu-ray (HDR)</title2> <br>
   <title3>Аудио: 15 (AC3, 6 ch, 640 kbps) Русский <img src="http://lostpix.com/img/2018-02/12/emv56e3ve7yj9thvs9b5jqkpx.gif"></img></title3> <br>
   <title4>Видео: HEVC/H.265, 3840x2160, (16:9), 59,2 Мбит/сек, 23.976 fps</title4> <br>
@@ -138,16 +135,15 @@ src="https://st.kp.yandex.net/images/film_big/447301.jpg" style=" float: left; m
 ]]>
   </description>
 </channel>
-
-<channel>
+  
+  <channel>
   <title><![CDATA[Начало / Inception (2010)]]></title>
   <stream_url>https://fex.net/get/200340795895/642182356</stream_url>
   <description>
 <![CDATA[
 <table>
 <h2><center>Начало / Inception (2010)</center></h2>
-<p><img height="285" 
-src="https://st.kp.yandex.net/images/film_big/447301.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid;" width="210">
+<p><img src="https://st.kp.yandex.net/images/film_big/447301.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid; height="290"; width="205">
   <title2>Качество: UHD Blu-ray (HDR)</title2> <br>
   <title3>Аудио: 15 (AC3, 6 ch, 640 kbps) Русский <img src="http://lostpix.com/img/2018-02/12/emv56e3ve7yj9thvs9b5jqkpx.gif"></img></title3> <br>
   <title4>Видео: HEVC/H.265, 3840x2160, (16:9), 59,2 Мбит/сек, 23.976 fps</title4> <br>
@@ -164,5 +160,4 @@ src="https://st.kp.yandex.net/images/film_big/447301.jpg" style=" float: left; m
 ]]>
   </description>
 </channel>
-
   </items>
