@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <items>
 <channel>
-<title><![CDATA[4K]]></title>
-<playlist_url><![CDATA[http://obovse.ru/smarttv/fex.php?id=key&search=200340795895]]></playlist_url>
-<description>
+	<title><![CDATA[4K]]></title>
+	<playlist_url><![CDATA[http://obovse.ru/smarttv/fex.php?id=key&search=200340795895]]></playlist_url>
+	<description>
 <![CDATA[
 <table>
 <h2>
@@ -16,13 +16,13 @@
 </center>
 </table>
 ]]>
-</description>
+	</description>
 </channel>
 
 <channel>
-<title><![CDATA[Moonwalk]]></title>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/Andrewbeats/films4k/master/mw.json]]></playlist_url>
-<description>
+	<title><![CDATA[Moonwalk]]></title>
+	<playlist_url><![CDATA[https://raw.githubusercontent.com/Andrewbeats/films4k/master/mw.json]]></playlist_url>
+	<description>
 <![CDATA[
 <table>
 <h2>
@@ -33,7 +33,7 @@
 <p>
 </table>
 ]]>
-</description>
+	</description>
 </channel>
 
 <channel>
