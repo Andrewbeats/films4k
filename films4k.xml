@@ -20,6 +20,25 @@
 </channel>
 
 <channel>
+	<title><![CDATA[бд]]></title>
+	<playlist_url><![CDATA[https://raw.githubusercontent.com/Andrewbeats/films4k/master/videodb.xml]]></playlist_url>
+	<description>
+<![CDATA[
+<table>
+<h2>
+<center>бд</center>
+</h2>
+<p>
+<body>
+<p>
+<center>
+</center>
+</table>
+]]>
+	</description>
+</channel>
+	
+<channel>
 	<title><![CDATA[Moonwalk]]></title>
 	<playlist_url><![CDATA[https://raw.githubusercontent.com/Andrewbeats/films4k/master/mw.json]]></playlist_url>
 	<description>
