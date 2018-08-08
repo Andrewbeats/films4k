@@ -20,25 +20,6 @@
 </channel>
 
 <channel>
-      <title><![CDATA[бд]]></title>
-      <playlist_url><![CDATA[https://raw.githubusercontent.com/Andrewbeats/films4k/master/videodb.xml]]></playlist_url>
-      <description>
-<![CDATA[
-<table>
-<h2>
-<center>бд</center>
-</h2>
-<p>
-<body>
-<p>
-<center>
-</center>
-</table>
-]]>
-      </description>
-</channel>
-      
-<channel>
       <title><![CDATA[Moonwalk]]></title>
       <playlist_url><![CDATA[https://raw.githubusercontent.com/Andrewbeats/films4k/master/mw.json]]></playlist_url>
       <description>
@@ -57,25 +38,25 @@
 
 <channel>
       <title><![CDATA[Начало / Inception (2010)]]></title>
-      <stream_url>https://fex.net/get/200340795895/642182356</stream_url>
+      <stream_url>http://uafilm.tv/embed/3353/</stream_url>
       <description>
 <![CDATA[
 <table>
 <h2><center>Начало / Inception (2010)</center></h2>
 <p><img src="https://st.kp.yandex.net/images/film_big/447301.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid; height="290"; width="205">
-  <title14>Рейтинг: 8.6</title14><br>
+  <title14>Рейтинг IMDb: <span style="color: #159ff6">8.6</span></title14><br>
   <title5>--------------------</title5> <br>
   <title2>Качество: UHD Blu-ray (HDR)</title2> <br>
-  <title3>Аудио: 15 (AC3, 6 ch, 640 kbps) <img src="http://lostpix.com/img/2018-02/12/emv56e3ve7yj9thvs9b5jqkpx.gif"></img></title3> <br>
+  <title3>Аудио <span style="color: #94d3a2">15 </span> (AC3, 6 ch, 640 kbps) <img src="http://lostpix.com/img/2018-02/12/emv56e3ve7yj9thvs9b5jqkpx.gif"></img></title3> <br>
   <title4>Видео: HEVC/H.265, 3840x2160, (16:9), 59,2 Мбит/сек, 23.976 fps</title4> <br>
   <title5>--------------------</title5> <br>
-  <title7>Год: 2017</title7> <br>
-  <title8>Страна: США</title8> <br>
-  <title9>Жанр: детектив, триллер, ужасы</title9> <br>
-  <title10>Режиссер: Кристофер Нолан</title10> <br>
-  <title11>В ролях: Леонардо ДиКаприо, Джозеф Гордон-Левитт, Эллен Пейдж, Том Харди, Кен Ватанабе, Дилип Рао, Киллиан Мёрфи, Том Беренджер, Марион Котийяр, Пит Постлетуэйт</title11> <br>
+  <title7><span style="color: #b283f4">Год: </span>2017</title7> <br>
+  <title8><span style="color: #b283f4">Страна: </span>США</title8> <br>
+  <title9><span style="color: #b283f4">Жанр: </span>детектив, триллер, ужасы</title9> <br>
+  <title10><span style="color: #b283f4">Режиссер: </span>Кристофер Нолан</title10> <br>
+  <title11><span style="color: #b283f4">В ролях: </span>Леонардо ДиКаприо, Джозеф Гордон-Левитт, Эллен Пейдж, Том Харди, Кен Ватанабе, Дилип Рао, Киллиан Мёрфи, Том Беренджер, Марион Котийяр, Пит Постлетуэйт</title11> <br>
   <title5>--------------------</title5> <br>
-  <title13>Описание:</title13> <br>
+  <title13><span style="color: #b283f4">Описание</span></title13> <br>
 </table>
 ]]>
       </description>
@@ -83,25 +64,103 @@
 
 <channel>
       <title><![CDATA[Начало / Inception (2010)]]></title>
-      <stream_url>https://fex.net/get/200340795895/642182356</stream_url>
+      <stream_url>http://uafilm.tv/embed/3353/</stream_url>
       <description>
 <![CDATA[
 <table>
 <h2><center>Начало / Inception (2010)</center></h2>
 <p><img src="https://st.kp.yandex.net/images/film_big/447301.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid; height="290"; width="205">
-  <title14>Рейтинг: 8.6</title14><br>
+  <title14>Рейтинг IMDb: <span style="color: #159ff6">8.6</span></title14><br>
   <title5>--------------------</title5> <br>
   <title2>Качество: UHD Blu-ray (HDR)</title2> <br>
-  <title3>Аудио: 15 (AC3, 6 ch, 640 kbps) <img src="http://lostpix.com/img/2018-02/12/emv56e3ve7yj9thvs9b5jqkpx.gif"></img></title3> <br>
+  <title3>Аудио <span style="color: #94d3a2">15 </span> (AC3, 6 ch, 640 kbps) <img src="http://lostpix.com/img/2018-02/12/emv56e3ve7yj9thvs9b5jqkpx.gif"></img></title3> <br>
   <title4>Видео: HEVC/H.265, 3840x2160, (16:9), 59,2 Мбит/сек, 23.976 fps</title4> <br>
   <title5>--------------------</title5> <br>
-  <title7>Год: 2017</title7> <br>
-  <title8>Страна: США</title8> <br>
-  <title9>Жанр: детектив, триллер, ужасы</title9> <br>
-  <title10>Режиссер: Кристофер Нолан</title10> <br>
-  <title11>В ролях: Леонардо ДиКаприо, Джозеф Гордон-Левитт, Эллен Пейдж, Том Харди, Кен Ватанабе, Дилип Рао, Киллиан Мёрфи, Том Беренджер, Марион Котийяр, Пит Постлетуэйт</title11> <br>
+  <title7><span style="color: #b283f4">Год: </span>2017</title7> <br>
+  <title8><span style="color: #b283f4">Страна: </span>США</title8> <br>
+  <title9><span style="color: #b283f4">Жанр: </span>детектив, триллер, ужасы</title9> <br>
+  <title10><span style="color: #b283f4">Режиссер: </span>Кристофер Нолан</title10> <br>
+  <title11><span style="color: #b283f4">В ролях: </span>Леонардо ДиКаприо, Джозеф Гордон-Левитт, Эллен Пейдж, Том Харди, Кен Ватанабе, Дилип Рао, Киллиан Мёрфи, Том Беренджер, Марион Котийяр, Пит Постлетуэйт</title11> <br>
   <title5>--------------------</title5> <br>
-  <title13>Описание:</title13> <br>
+  <title13><span style="color: #b283f4">Описание</span></title13> <br>
+</table>
+]]>
+      </description>
+</channel>
+
+<channel>
+      <title><![CDATA[Начало / Inception (2010)]]></title>
+      <stream_url>http://uafilm.tv/embed/3353/</stream_url>
+      <description>
+<![CDATA[
+<table>
+<h2><center>Начало / Inception (2010)</center></h2>
+<p><img src="https://st.kp.yandex.net/images/film_big/447301.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid; height="290"; width="205">
+  <title14>Рейтинг IMDb: <span style="color: #159ff6">8.6</span></title14><br>
+  <title5>--------------------</title5> <br>
+  <title2>Качество: UHD Blu-ray (HDR)</title2> <br>
+  <title3>Аудио <span style="color: #94d3a2">15 </span> (AC3, 6 ch, 640 kbps) <img src="http://lostpix.com/img/2018-02/12/emv56e3ve7yj9thvs9b5jqkpx.gif"></img></title3> <br>
+  <title4>Видео: HEVC/H.265, 3840x2160, (16:9), 59,2 Мбит/сек, 23.976 fps</title4> <br>
+  <title5>--------------------</title5> <br>
+  <title7><span style="color: #b283f4">Год: </span>2017</title7> <br>
+  <title8><span style="color: #b283f4">Страна: </span>США</title8> <br>
+  <title9><span style="color: #b283f4">Жанр: </span>детектив, триллер, ужасы</title9> <br>
+  <title10><span style="color: #b283f4">Режиссер: </span>Кристофер Нолан</title10> <br>
+  <title11><span style="color: #b283f4">В ролях: </span>Леонардо ДиКаприо, Джозеф Гордон-Левитт, Эллен Пейдж, Том Харди, Кен Ватанабе, Дилип Рао, Киллиан Мёрфи, Том Беренджер, Марион Котийяр, Пит Постлетуэйт</title11> <br>
+  <title5>--------------------</title5> <br>
+  <title13><span style="color: #b283f4">Описание</span></title13> <br>
+</table>
+]]>
+      </description>
+</channel>
+
+<channel>
+      <title><![CDATA[Начало / Inception (2010)]]></title>
+      <stream_url>http://uafilm.tv/embed/3353/</stream_url>
+      <description>
+<![CDATA[
+<table>
+<h2><center>Начало / Inception (2010)</center></h2>
+<p><img src="https://st.kp.yandex.net/images/film_big/447301.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid; height="290"; width="205">
+  <title14>Рейтинг IMDb: <span style="color: #159ff6">8.6</span></title14><br>
+  <title5>--------------------</title5> <br>
+  <title2>Качество: UHD Blu-ray (HDR)</title2> <br>
+  <title3>Аудио <span style="color: #94d3a2">15 </span> (AC3, 6 ch, 640 kbps) <img src="http://lostpix.com/img/2018-02/12/emv56e3ve7yj9thvs9b5jqkpx.gif"></img></title3> <br>
+  <title4>Видео: HEVC/H.265, 3840x2160, (16:9), 59,2 Мбит/сек, 23.976 fps</title4> <br>
+  <title5>--------------------</title5> <br>
+  <title7><span style="color: #b283f4">Год: </span>2017</title7> <br>
+  <title8><span style="color: #b283f4">Страна: </span>США</title8> <br>
+  <title9><span style="color: #b283f4">Жанр: </span>детектив, триллер, ужасы</title9> <br>
+  <title10><span style="color: #b283f4">Режиссер: </span>Кристофер Нолан</title10> <br>
+  <title11><span style="color: #b283f4">В ролях: </span>Леонардо ДиКаприо, Джозеф Гордон-Левитт, Эллен Пейдж, Том Харди, Кен Ватанабе, Дилип Рао, Киллиан Мёрфи, Том Беренджер, Марион Котийяр, Пит Постлетуэйт</title11> <br>
+  <title5>--------------------</title5> <br>
+  <title13><span style="color: #b283f4">Описание</span></title13> <br>
+</table>
+]]>
+      </description>
+</channel>
+
+<channel>
+      <title><![CDATA[Начало / Inception (2010)]]></title>
+      <stream_url>http://uafilm.tv/embed/3353/</stream_url>
+      <description>
+<![CDATA[
+<table>
+<h2><center>Начало / Inception (2010)</center></h2>
+<p><img src="https://st.kp.yandex.net/images/film_big/447301.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid; height="290"; width="205">
+  <title14>Рейтинг IMDb: <span style="color: #159ff6">8.6</span></title14><br>
+  <title5>--------------------</title5> <br>
+  <title2>Качество: UHD Blu-ray (HDR)</title2> <br>
+  <title3>Аудио <span style="color: #94d3a2">15 </span> (AC3, 6 ch, 640 kbps) <img src="http://lostpix.com/img/2018-02/12/emv56e3ve7yj9thvs9b5jqkpx.gif"></img></title3> <br>
+  <title4>Видео: HEVC/H.265, 3840x2160, (16:9), 59,2 Мбит/сек, 23.976 fps</title4> <br>
+  <title5>--------------------</title5> <br>
+  <title7><span style="color: #b283f4">Год: </span>2017</title7> <br>
+  <title8><span style="color: #b283f4">Страна: </span>США</title8> <br>
+  <title9><span style="color: #b283f4">Жанр: </span>детектив, триллер, ужасы</title9> <br>
+  <title10><span style="color: #b283f4">Режиссер: </span>Кристофер Нолан</title10> <br>
+  <title11><span style="color: #b283f4">В ролях: </span>Леонардо ДиКаприо, Джозеф Гордон-Левитт, Эллен Пейдж, Том Харди, Кен Ватанабе, Дилип Рао, Киллиан Мёрфи, Том Беренджер, Марион Котийяр, Пит Постлетуэйт</title11> <br>
+  <title5>--------------------</title5> <br>
+  <title13><span style="color: #b283f4">Описание</span></title13> <br>
 </table>
 ]]>
       </description>
