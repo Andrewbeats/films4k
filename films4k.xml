@@ -189,4 +189,29 @@
 ]]>
       </description>
 </channel>
+      
+    <movie_update>
+<title_ru>Безумно счастлива</title_ru>
+<title_en>Gek van Geluk</title_en>
+<year>2017</year>
+<duration seconds="6334" human="01:45"/>
+<kinopoisk_id>1056575</kinopoisk_id>
+<world_art_id/>
+<pornolab_id/>
+<token>6bcd9f148d253e29</token>
+<type>movie</type>
+<camrip>false</camrip>
+<source_type>DVDRip</source_type>
+<instream_ads>true</instream_ads>
+<directors_version>false</directors_version>
+<iframe_url>http://moonwalk.cc/video/6bcd9f148d253e29/iframe</iframe_url>
+<trailer_token/>
+<trailer_iframe_url/>
+<translator>многоголосый закадровый</translator>
+<translator_id>67</translator_id>
+<added_at>2018-08-15 02:18:12</added_at>
+<category/>
+<block blocked_at="" block_ru="false" block_ua="false"/>
+<material_data updated_at="2018-08-15 02:18:12" year="2017" tagline="-" description="" age="" countries="[]" genres="["мелодрама", "комедия"]" actors="["Плиен ван Беннеком", "Карли Виджс", "Маттео ван дер Грийн", "Marie-Mae van Zuilen", "Генри ван Лон", "Беппи Мелиссен", "Лоэс Хаверкорт", "Marc Bosch", "Daniël Brongers", "Yasmin Karssing"]" directors="["Йохан Нийенхейс"]" studios="["Johan Nijenhuis &#x26; Co"]" kinopoisk_rating="0.0" kinopoisk_votes="" imdb_rating="5.2" imdb_votes="120" mpaa_rating="" mpaa_votes=""/>
+</movie_update>
 </items>
