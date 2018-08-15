@@ -190,7 +190,7 @@
       </description>
 </channel>
       
-    <movie_update>
+<channel>
 <title_ru>Безумно счастлива</title_ru>
 <title_en>Gek van Geluk</title_en>
 <year>2017</year>
@@ -213,5 +213,5 @@
 <category/>
 <block blocked_at="" block_ru="false" block_ua="false"/>
 <material_data updated_at="2018-08-15 02:18:12" year="2017" tagline="-" description="" age="" countries="[]" genres="["мелодрама", "комедия"]" actors="["Плиен ван Беннеком", "Карли Виджс", "Маттео ван дер Грийн", "Marie-Mae van Zuilen", "Генри ван Лон", "Беппи Мелиссен", "Лоэс Хаверкорт", "Marc Bosch", "Daniël Brongers", "Yasmin Karssing"]" directors="["Йохан Нийенхейс"]" studios="["Johan Nijenhuis &#x26; Co"]" kinopoisk_rating="0.0" kinopoisk_votes="" imdb_rating="5.2" imdb_votes="120" mpaa_rating="" mpaa_votes=""/>
-</movie_update>
+</channel>
 </items>
