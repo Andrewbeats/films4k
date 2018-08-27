@@ -191,4 +191,23 @@
 ]]>
       </description>
 </channel>
+      
+      <channel>
+      <title><![CDATA[parse]]></title>
+      <playlist_url><![CDATA[https://raw.githubusercontent.com/Andrewbeats/films4k/master/104228.json]]></playlist_url>
+      <description>
+<![CDATA[
+<table>
+<h2>
+<center>парсер tmdb</center>
+</h2>
+<p>
+<body>
+<p>
+<center>
+</center>
+</table>
+]]>
+      </description>
+</channel>
 </items>
