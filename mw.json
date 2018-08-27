@@ -2,7 +2,7 @@
 {"title":"Зарубежные фильмы","playlist_url":"http://95.46.99.45/api/mw.json?Category=1","description":"Зарубежные фильмы"},
 {"title":"Зарубежные сериалы","playlist_url":"http://95.46.99.45/api/mw.json?Category=2","description":"Зарубежные сериалы"},
 {"title":"Фильмы","playlist_url":"http://95.46.99.45/api/mw.json?Category=3","description":"Фильмы"},
-             {"title":"tmdb","playlist_url":"https://api.themoviedb.org/3/movie/popular?page=1&language=ru-RUS&api_key=ff743742b3b6c89feb59dfc138b4c12f","description":"tmdb"},
+             {"title":"tmdb","playlist_url":"https://raw.githubusercontent.com/Andrewbeats/films4k/master/104228.php","description":"tmdb"},
 {"title":"Сериалы","playlist_url":"http://95.46.99.45/api/mw.json?Category=4","description":"Сериалы"},
 {"title":"Аниме фильмы","playlist_url":"http://95.46.99.45/api/mw.json?Category=5","description":"Аниме фильмы"},
 {"title":"Аниме сериалы","playlist_url":"http://95.46.99.45/api/mw.json?Category=6","description":"Аниме сериалы"}],
