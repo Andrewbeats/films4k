@@ -1,25 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <items>
-
-<channel>
-      <title><![CDATA[tmdb]]></title>
-      <playlist_url><![CDATA[https://raw.githubusercontent.com/Andrewbeats/films4k/master/104228.php]]></playlist_url>
-      <description>
-<![CDATA[
-<table>
-<h2>
-<center>tmdb</center>
-</h2>
-<p>
-<body>
-<p>
-<center>
-</center>
-</table>
-]]>
-      </description>
-</channel>
-
 <channel>
       <title><![CDATA[4K]]></title>
       <playlist_url><![CDATA[http://obovse.ru/smarttv/fex.php?id=key&search=542372197799]]></playlist_url>
@@ -164,5 +144,5 @@
 ]]>
       </description>
 </channel>
-      
 </items>
+
