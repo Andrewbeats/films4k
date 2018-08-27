@@ -3,7 +3,7 @@
 $curl = curl_init();
 
 curl_setopt_array($curl, array(
-  CURLOPT_URL => "https://api.themoviedb.org/3/movie/tt5463162?language=ru-RUS&api_key=ff743742b3b6c89feb59dfc138b4c12f",
+  CURLOPT_URL => "https://api.themoviedb.org/3/movie/popular?page=1&language=ru-RUS&api_key=ff743742b3b6c89feb59dfc138b4c12f",
   CURLOPT_RETURNTRANSFER => true,
   CURLOPT_ENCODING => "",
   CURLOPT_MAXREDIRS => 10,
