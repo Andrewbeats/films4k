@@ -4,5 +4,6 @@
 {"title":"Фильмы","playlist_url":"http://95.46.99.45/api/mw.json?Category=3","description":"Фильмы"},
 {"title":"Сериалы","playlist_url":"http://95.46.99.45/api/mw.json?Category=4","description":"Сериалы"},
 {"title":"Аниме фильмы","playlist_url":"http://95.46.99.45/api/mw.json?Category=5","description":"Аниме фильмы"},
+             {"title":" Дэдпул 2 (2018)","playlist_url":"https://raw.githubusercontent.com/Andrewbeats/films4k/master/104228.json","description":" Дэдпул 2 (2018)"},
 {"title":"Аниме сериалы","playlist_url":"http://95.46.99.45/api/mw.json?Category=6","description":"Аниме сериалы"}],
 "playlist_name":"Moonwalk by SC"}
