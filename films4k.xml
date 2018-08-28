@@ -12,24 +12,10 @@
       <stream_url>https://fex.net/get/278634293852/643861519</stream_url>
       <description>
 <![CDATA[
-<div class="properties">
-    <a href="/movies/2016" itemprop="datePublished" content="2016">2016</a>
-    <a href="/movies/us" itemprop="productionCountry" content="US">США</a>
-    <span>
-        <a class="" itemprop="genre" href="/movies/drama">Драмы</a>,
-        <a class="" itemprop="genre" href="/movies/thriller">Триллеры</a>,
-        <a class="" itemprop="genre" href="/movies/foreign">Зарубежные</a>,
-        <a class="" itemprop="genre" href="/movies/disaster">Фильм-катастрофа</a>
-    </span>
-    <span class="separate">
-        <time datetime="PT1H47M0S" itemprop="duration">107&nbsp;мин.</time>
-        <span class="feature" title="Видео доступно в HD-качестве">HD</span>
-        <span class="feature" content="16+" itemprop="contentRating">16+</span>
-    </span>
-</div>
 ]]>
       </description>
 </channel>
+
 
   
 </items>
