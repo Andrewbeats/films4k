@@ -1,16 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <items>
   <channel>
-    <title><![CDATA[4K]]></title>
-    <playlist_url><![CDATA[http://obovse.ru/smarttv/fex.php?id=key&search=542372197799]]></playlist_url>
-    <description><![CDATA[<h2><center>Фильмы в формате 4K</center></h2>]]></description>
+  <title><![CDATA[4K]]></title>
+  <playlist_url><![CDATA[http://obovse.ru/smarttv/fex.php?id=key&search=542372197799]]></playlist_url>
+  <description><![CDATA[<h2><center>Фильмы в формате 4K</center></h2>]]></description>
   </channel>
 
   <channel>
   <title>The Distinguished Gentleman</title>
   <stream_url>http://uafilm.tv/embed/3353/</stream_url>
   <logo_30x30>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2JqIFvbTFSwwEs8q7urgBroNI8W.jpg</logo_30x30>
-  <description><![CDATA[<h2><center>Фильмы в формате 4K</center></h2>]]></description>
+  <description>
+    <![CDATA[<h2><center>Фильмы в формате 4K</center></h2>
+
+  ]]>
+Год выпуска: 2018<br>
+Жанр: Фантастика, боевик, комедия, приключения<br>
+Выпущено: США, Donners' Company, Kinberg Genre, Marvel Entertainmen<br>
+Режиссер: Дэвид Литч<br>
+В ролях: Джош Бролин, Райан Рейнольдс, Морена Баккарин, Зази Битц, Брианна Хилдебранд, Брэд Питт, Билл Скарсгард, ТиДжей Миллер, Терри Крюс, Роб Делани<br>
+Продолжительность: 01:59:20<br>
+Перевод: Дублированный<br>
+Описание: <br>
+Единственный и неповторимый болтливый наемник — вернулся! Ещё более масштабный, ещё более разрушительный и даже ещё более голозадый, чем прежде! Когда в его жизнь врывается суперсолдат с убийственной миссией, Дэдпул вынужден задуматься о дружбе, семье и о том, что на самом деле значит быть героем, попутно надирая 50 оттенков задниц. Потому что иногда чтобы делать хорошие вещи, нужно использовать грязные приёмчики.<br>
+<hr>
+Файл<br>
+Контейнер: МКV <br>
+Качество: Blu-Ray Remux (2160p)<br>
+Видео: HEVC, 3840x2160 (16:9), 23.976 fps, 50.5 Mb/s (0.254 bit/pixel)<br>
+Аудио #1: DTS, 48.0 kHz, 6 ch, 768 kb/s, CBR (Russian) | Дублированный |<br>
+Аудио #2: AC-3, 48.0 kHz, 6 ch, 448 kb/s, CBR (Russian) | Дублированный |<br>
+Аудио #3: TrueHD+Atmos, 48.0 kHz, 8 ch, 4 566 kb/s, VBR (English) | Original |<br>
+Аудио #4: AC-3, 48.0 kHz, 6 ch, 640 kb/s, CBR (English) | Original, AC3 Core |<br>
+Аудио #5: AC-3, 48.0 kHz, 6 ch, 448 kb/s, CBR (English) | Audiodeion |<br>
+Аудио #6: AC-3, 48.0 kHz, 2 ch, 224 kb/s, CBR (English) | Commentary |<br>
+Субтитры: Russian (полные, без цензуры), English (full, SDH)<br>
+  </description>
   </channel>
 
   <channel>
