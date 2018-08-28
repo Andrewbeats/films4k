@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- In this collection, we will keep each title "as is" -->
+<videos>
+  <video>
+	<title>The Distinguished Gentleman</title>
+	<director>Jonathan Lynn</director>
+	<length>112 Minutes</length>
+	<format>DVD</format>
+	<rating>R</rating>
+  </video>
+  <video>
+	<title>Her Alibi</title>
+	<director>Bruce Beresford</director>
+	<length>94 Mins</length>
+	<format>DVD</format>
+	<rating>PG-13</rating>
+  </video>
+</videos>
