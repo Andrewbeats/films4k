@@ -1,48 +1,153 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <items>
   <channel>
-  <title><![CDATA[4K]]></title>
-  <playlist_url><![CDATA[http://obovse.ru/smarttv/fex.php?id=key&search=542372197799]]></playlist_url>
-  <description><![CDATA[<h2><center>Фильмы в формате 4K</center></h2>]]></description>
+    <title><![CDATA[4K]]></title>
+    <playlist_url><![CDATA[http://obovse.ru/smarttv/fex.php?id=key&search=542372197799]]></playlist_url>
+    <description><![CDATA[<h2><center>Фильмы в формате 4K</center></h2>]]></description>
   </channel>
 
-  <channel>
-  <title>The Distinguished Gentleman</title>
-  <stream_url>http://uafilm.tv/embed/3353/</stream_url>
-  <logo_30x30>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2JqIFvbTFSwwEs8q7urgBroNI8W.jpg</logo_30x30>
-  <description>
-    <![CDATA[<h2><center>Фильмы в формате 4K</center></h2><br>
-Год выпуска: 2018<br>
-Жанр: Фантастика, боевик, комедия, приключения<br>
-Выпущено: США, Donners' Company, Kinberg Genre, Marvel Entertainmen<br>
-Режиссер: Дэвид Литч<br>
-В ролях: Джош Бролин, Райан Рейнольдс, Морена Баккарин, Зази Битц, Брианна Хилдебранд, Брэд Питт, Билл Скарсгард, ТиДжей Миллер, Терри Крюс, Роб Делани<br>
-Продолжительность: 01:59:20<br>
-Перевод: Дублированный<br>
-Описание: <br>
-Единственный и неповторимый болтливый наемник — вернулся! Ещё более масштабный, ещё более разрушительный и даже ещё более голозадый, чем прежде! Когда в его жизнь врывается суперсолдат с убийственной миссией, Дэдпул вынужден задуматься о дружбе, семье и о том, что на самом деле значит быть героем, попутно надирая 50 оттенков задниц. Потому что иногда чтобы делать хорошие вещи, нужно использовать грязные приёмчики.<br>
+<channel>
+      <title><![CDATA[4K]]></title>
+      <playlist_url><![CDATA[http://obovse.ru/smarttv/fex.php?id=key&search=542372197799]]></playlist_url>
+      <description>
+<![CDATA[
+<table>
+<h2>
+<center>Фильмы в формате 4K</center>
+</h2>
+<p>
+<body>
+<p>
+<center>
+</center>
+</table>
+]]>
+      </description>
+</channel>
+
+<channel>
+      <title><![CDATA[Moonwalk]]></title>
+      <playlist_url><![CDATA[https://raw.githubusercontent.com/Andrewbeats/films4k/master/mw.json]]></playlist_url>
+      <description>
+<![CDATA[
+<table>
+<h2>
+<center>База данных Moonwalk.cc</center>
+</h2>
+<p>
+<body>
+<p>
+</table>
+]]>
+      </description>
+</channel>
+
+<channel>
+      <title><![CDATA[Начало / Inception (2010)]]></title>
+      <logo_30x30>https://upload.wikimedia.org/wikipedia/ru/thumb/2/2d/Kinopoisk.ru-Inception-1113797.jpg/213px-Kinopoisk.ru-Inception-1113797.jpg</logo_30x30>
+      <stream_url>http://uafilm.tv/embed/3353/</stream_url>
+      <description>
+<![CDATA[
+<table>
+<h2><center>Начало / Inception (2010)</center></h2>
+<p><img src="https://upload.wikimedia.org/wikipedia/ru/thumb/2/2d/Kinopoisk.ru-Inception-1113797.jpg/213px-Kinopoisk.ru-Inception-1113797.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid; height="290"; width="205">
+  <title14>Рейтинг IMDb: <span style="color: #159ff6">8.6</span></title14><br>
+  <title5>--------------------</title5> <br>
+  <title2>Качество: UHD (HDR)</title2> <br>
+  <title4>Видео: HEVC/H.265, 3840x2160, (16:9), 59,2 Мбит/сек, 23.976 fps</title4> <br>
+  <title5>--------------------</title5> <br>
+  <title7><span style="color: #b283f4">Год: </span>2017</title7> <br>
+  <title8><span style="color: #b283f4">Страна: </span>США</title8> <br>
+  <title9><span style="color: #b283f4">Жанр: </span>детектив, триллер, ужасы</title9> <br>
+  <title10><span style="color: #b283f4">Режиссер: </span>Кристофер Нолан</title10> <br>
+  <title11><span style="color: #b283f4">В ролях: </span>Леонардо ДиКаприо, Джозеф Гордон-Левитт, Эллен Пейдж, Том Харди, Кен Ватанабе, Дилип Рао, Киллиан Мёрфи, Том Беренджер, Марион Котийяр, Пит Постлетуэйт</title11> <br>
 <hr>
-Файл<br>
-Контейнер: МКV <br>
-Качество: Blu-Ray Remux (2160p)<br>
-Видео: HEVC, 3840x2160 (16:9), 23.976 fps, 50.5 Mb/s (0.254 bit/pixel)<br>
-Аудио #1: DTS, 48.0 kHz, 6 ch, 768 kb/s, CBR (Russian) | Дублированный |<br>
-Аудио #2: AC-3, 48.0 kHz, 6 ch, 448 kb/s, CBR (Russian) | Дублированный |<br>
-Аудио #3: TrueHD+Atmos, 48.0 kHz, 8 ch, 4 566 kb/s, VBR (English) | Original |<br>
-Аудио #4: AC-3, 48.0 kHz, 6 ch, 640 kb/s, CBR (English) | Original, AC3 Core |<br>
-Аудио #5: AC-3, 48.0 kHz, 6 ch, 448 kb/s, CBR (English) | Audiodeion |<br>
-Аудио #6: AC-3, 48.0 kHz, 2 ch, 224 kb/s, CBR (English) | Commentary |<br>
-Субтитры: Russian (полные, без цензуры), English (full, SDH)<br>
-  ]]>
-  </description>
-  </channel>
+  <title13><span style="color: #b283f4">Описание</span><br>
+У Дома Кобба редкая и не вполне легальная профессия — он и его специально обученные помощники проникают в сны людей и крадут оттуда ценную информацию. Однако после не слишком удачной попытки взломать подсознание японского магната, Кобб получает от него же задание иного свойства. В обмен на право вернуться к детям в США, где взломщика разыскивают госорганы, тот должен подсадить наследнику монополистской корпорации идею о том, чтобы эту корпорацию развалить. Крепко озадаченный, Кобб начинает собирать команду специалистов: из Парижа выписывает "архитектора", которая должна будет сон построить, из Момбасы — "имитатора", который станет доставать субтильного коббова напарника, а заодно и "химика", который всех усыпит</title13> <br>
+</table>
+]]>
+      </description>
+</channel>
 
-  <channel>
-  <title>Her Alibi</title>
-  <director>Bruce Beresford</director>
-  <length>94 Mins</length>
-  <format>DVD</format>
-  <rating>PG-13</rating>
-  </channel>
+<channel>
+      <title><![CDATA[Не в себе / Unsane (2018)]]></title>
+      <logo_30x30>https://upload.wikimedia.org/wikipedia/ru/thumb/a/aa/Не_в_себе_%28фильм%2C_2018%29.jpg/211px-Не_в_себе_%28фильм%2C_2018%29.jpg</logo_30x30>
+      <stream_url>https://fex.net/get/278634293852/643861519</stream_url>
+      <description>
+<![CDATA[
+<table>
+<h2><center>Не в себе / Unsane (2018)</center></h2>
+<p><img src="https://upload.wikimedia.org/wikipedia/ru/thumb/a/aa/Не_в_себе_%28фильм%2C_2018%29.jpg/211px-Не_в_себе_%28фильм%2C_2018%29.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid; height="290"; width="205">
+  <title14>Рейтинг IMDb: <span style="color: #159ff6">6.5</span></title14><br>
+  <title5>--------------------</title5> <br>
+  <title2>Качество: UHD (HDR)</title2> <br>
+  <title4>Видео: HEVC, 3840x2160 (16:9), 23.976 fps, 72.7 Mb/s (0.365 bit/pixel)</title4> <br>
+  <title5>--------------------</title5> <br>
+  <title7><span style="color: #b283f4">Год: </span>2018</title7> <br>
+  <title8><span style="color: #b283f4">Страна: </span>США</title8> <br>
+  <title9><span style="color: #b283f4">Жанр: </span>триллер, ужасы</title9> <br>
+  <title10><span style="color: #b283f4">Режиссер: </span>Стивен Содерберг</title10> <br>
+  <title11><span style="color: #b283f4">В ролях: </span>Джошуа Леонард, Клер Фой, Сара Стайлс, Марк Кадиш, Эми Ирвинг, Колин Вуделл, Мира Лукреция Тейлор, Линда Моз, Зак Черри, Полли МакКи</title11> <br>
+<hr>
+  <title13><span style="color: #b283f4">Описание</span><br>
+Девушка покидает родной город, чтобы сбежать от проблемного прошлого и найти новую работу. Но когда она не по своей воле оказывается в психиатрическом учреждении, ей приходится столкнуться со своим самым большим страхом. Но реален ли он, или это - просто плод ее воображения? Героине кажется, что никто не верит ей, а власти не могут или не хотят помочь, поэтому она должна в одиночку противостоять своим страхам.</title13> <br>
+</table>
+]]>
+      </description>
+</channel>
+
+<channel>
+      <title><![CDATA[Железный человек / Iron Man (2008)]]></title>
+      <logo_30x30>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bpqolbKYANKSms5UaAhJxxzqhoq.jpg</logo_30x30>
+      <stream_url>https://fex.net/get/278634293852/643861519</stream_url>
+      <description>
+<![CDATA[
+<table>
+<h2><center>Железный человек / Iron Man (2008)</center></h2>
+<p><img src="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bpqolbKYANKSms5UaAhJxxzqhoq.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid; height="290"; width="205">
+  <title14>Рейтинг IMDb: <span style="color: #159ff6">7.9</span></title14><br>
+  <title5>--------------------</title5> <br>
+  <title2>Качество: UHD (HDR)</title2> <br>
+  <title4>Видео: HEVC/H.265, 3840x2160p, (16:9), 56.0 Mb/s, 23.976 FPS</title4> <br>
+  <title5>--------------------</title5> <br>
+  <title7><span style="color: #b283f4">Год: </span>2008</title7> <br>
+  <title8><span style="color: #b283f4">Страна: </span>США / Marvel Studios Inc.</title8> <br>
+  <title9><span style="color: #b283f4">Жанр: </span>фантастика, боевик, приключения</title9> <br>
+  <title10><span style="color: #b283f4">Режиссер: </span>Джон Фавро</title10> <br>
+  <title11><span style="color: #b283f4">В ролях: </span>Роберт Дауни мл., Джефф Бриджес, Гвинет Пэлтроу, Терренс Ховард, Лесли Бибб, Шон Тоуб, Фаран Таир, Кларк Грегг, Джон Фавро, Саид Бадрия</title11> <br>
+<hr>
+  <title13><span style="color: #b283f4">Описание</span><br>
+Миллиардер-изобретатель Тони Старк попадает в плен к Афганским террористам, которые пытаются заставить его создать оружие массового поражения. В тайне от своих захватчиков Старк конструирует высокотехнологичную киберброню, которая помогает ему сбежать. Однако по возвращении в США он узнаёт, что в совете директоров его фирмы плетётся заговор, чреватый страшными последствиями. Используя своё последнее изобретение, Старк пытается решить проблемы своей компании радикально…
+</title13> <br>
+</table>
+]]>
+      </description>
+</channel>
+
+<channel>
+      <title><![CDATA[Железный человек 2 / Iron Man 2 (2010)]]></title>
+      <logo_30x30>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2JqIFvbTFSwwEs8q7urgBroNI8W.jpg</logo_30x30>
+      <stream_url>https://fex.net/get/278634293852/643861519</stream_url>
+      <description>
+<![CDATA[
+<table>
+<h2><center>Железный человек 2 / Iron Man 2 (2010)</center></h2>
+<p><img src="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2JqIFvbTFSwwEs8q7urgBroNI8W.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid; height="290"; width="205">
+  <title14>Рейтинг IMDb: <span style="color: #159ff6">6.5</span></title14><br>
+  <title5>--------------------</title5> <br>
+  <title2>Качество: UHD (HDR)</title2> <br>
+  <title4>Видео: HEVC, 3840x2160 (16:9), 23.976 fps, 72.7 Mb/s (0.365 bit/pixel)</title4> <br>
+  <title5>--------------------</title5> <br>
+  <title7><span style="color: #b283f4">Год: </span>2018</title7> <br>
+  <title8><span style="color: #b283f4">Страна: </span>США</title8> <br>
+  <title9><span style="color: #b283f4">Жанр: </span>триллер, ужасы</title9> <br>
+  <title10><span style="color: #b283f4">Режиссер: </span>Стивен Содерберг</title10> <br>
+  <title11><span style="color: #b283f4">В ролях: </span>Джошуа Леонард, Клер Фой, Сара Стайлс, Марк Кадиш, Эми Ирвинг, Колин Вуделл, Мира Лукреция Тейлор, Линда Моз, Зак Черри, Полли МакКи</title11> <br>
+<hr>
+  <title13><span style="color: #b283f4">Описание</span><br>
+Девушка покидает родной город, чтобы сбежать от проблемного прошлого и найти новую работу. Но когда она не по своей воле оказывается в психиатрическом учреждении, ей приходится столкнуться со своим самым большим страхом. Но реален ли он, или это - просто плод ее воображения? Героине кажется, что никто не верит ей, а власти не могут или не хотят помочь, поэтому она должна в одиночку противостоять своим страхам.</title13> <br>
+</table>
+]]>
+      </description>
+</channel>
 </items>
-
