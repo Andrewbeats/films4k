@@ -6,7 +6,6 @@
     <description><![CDATA[<h2><center>Фильмы в формате 4K</center></h2>]]></description>
   </channel>
 
-<videos>
   <video>
   <title>The Distinguished Gentleman</title>
   <director>Jonathan Lynn</director>
@@ -14,7 +13,7 @@
   <format>DVD</format>
   <rating>R</rating>
   </video>
-  
+
   <video>
   <title>Her Alibi</title>
   <director>Bruce Beresford</director>
@@ -22,5 +21,4 @@
   <format>DVD</format>
   <rating>PG-13</rating>
   </video>
-</videos>
 </items>
