@@ -8,10 +8,12 @@
 
   <channel>
   <title>The Distinguished Gentleman</title>
-  <director>Jonathan Lynn</director>
-  <length>112 Minutes</length>
-  <format>DVD</format>
-  <rating>R</rating>
+      <description>
+        <director>Jonathan Lynn</director>
+        <length>112 Minutes</length>
+        <format>DVD</format>
+        <rating>R</rating>
+      </description>
   </channel>
 
   <channel>
