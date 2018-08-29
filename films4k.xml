@@ -7,7 +7,45 @@
   </channel>
 
   <channel>
+    <title><![CDATA[Bunny(1080p)]]></title><?xml version="1.0" encoding="UTF-8"?>
+<items>
+  <channel>
+    <title><![CDATA[Ocean(mp4)]]></title>
+    <description><![CDATA[<img src="https://edem.tv/favicon.ico">Edem IPTV]]></description>
+    <stream_url><![CDATA[http://vjs.zencdn.net/v/oceans.mp4]]></stream_url>
+  </channel>
+
+  <channel>
     <title><![CDATA[Bunny(1080p)]]></title>
+    <description><![CDATA[<img src="https://edem.tv/favicon.ico">Edem IPTV]]></description>
+    <stream_url><![CDATA[http://distribution.bbb3d.renderfarming.net/video/mp4/bbb_sunflower_1080p_60fps_normal.mp4]]></stream_url>
+  </channel>
+
+  <channel>
+    <title><![CDATA[ElephantsDream]]></title>
+    <description><![CDATA[<img src="https://edem.tv/favicon.ico">Edem IPTV]]></description>
+    <stream_url><![CDATA[https://archive.org/download/ElephantsDream/ed_1024_512kb.mp4]]></stream_url>
+  </channel>
+
+<channel>
+	<title>Начало / Inception (2010)</title>
+	<logo_30x30>http://kino-live2.org/uploads/posts/2014-02/1392391182_716861.jpg</logo_30x30>
+	<stream_url>http://212.113.38.99/hls/7cc21bca82b9cc51e91751f0945b7368//fhd/Inception.2010.BDRip.1080p.MediaClub.m3u8</stream_url>
+	<description>
+		<table>
+<h2><center>Начало / Inception (2010)</center></h2>
+<p><img height="285" src="http://kino-live2.org/uploads/posts/2014-02/1392391182_716861.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid;" width="210">
+<b>Год: </b>2010<br>
+<b>Жанр: </b> Детективы, Боевики, Фантастика, Триллеры<br>
+<b>Страна: </b><br>
+<p><hr><b>Описание: </b>
+ Кобб — талантливый вор, лучший из лучших в опасном искусстве извлечения: он крадет ценные секреты из глубин подсознания во время сна, когда человеческий разум наиболее уязвим. Редкие способности Кобба сделали его ценным игроком в привычном к предательству мире промышленного шпионажа, но они же превратили его в извечного беглеца и лишили всего, что он когда-либо любил. И вот у Кобба появляется шанс исправить ошибки. Его последнее дело может вернуть все назад, но для этого ему нужно совершить невозможное — инициацию. Вместо идеальной кражи Кобб и его команда спецов должны будут провернуть обратное. Теперь их задача — не украсть идею, а внедрить ее. Если у них получится, это и станет идеальным преступлением. Но никакое планирование или мастерство не могут подготовить команду к встрече с опасным противником, который, кажется, предугадывает каждый их ход. Врагом, увидеть которого мог бы лишь Кобб.
+</p>
+</table>
+	</description>
+</channel>
+</items>
+
     <description><![CDATA[<img src="https://edem.tv/favicon.ico">Edem IPTV]]></description>
     <stream_url><![CDATA[http://distribution.bbb3d.renderfarming.net/video/mp4/bbb_sunflower_1080p_60fps_normal.mp4]]></stream_url>
   </channel>
