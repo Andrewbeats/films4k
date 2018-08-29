@@ -1,26 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <items>
-
-   <Row>
+<channel>
     <Cell><Data ss:Type="String">title</Data></Cell>
     <Cell><Data ss:Type="String">logo_30x30</Data></Cell>
     <Cell><Data ss:Type="String">stream_url</Data></Cell>
     <Cell><Data ss:Type="String">description</Data></Cell>
-   </Row>
-   <Row>
+</channel>
+<channel>
     <Cell><Data ss:Type="String">Начало / Inception (2010)</Data></Cell>
     <Cell><Data ss:Type="String">https://upload.wikimedia.org/wikipedia/ru/thumb/2/2d/Kinopoisk.ru-Inception-1113797.jpg/213px-Kinopoisk.ru-Inception-1113797.jpg</Data></Cell>
     <Cell><Data ss:Type="String">http://uafilm.tv/embed/3353/</Data></Cell>
-   </Row>
-   <Row>
+</channel>
+<channel>
     <Cell><Data ss:Type="String">Не в себе / Unsane (2018)</Data></Cell>
     <Cell><Data ss:Type="String">https://upload.wikimedia.org/wikipedia/ru/thumb/a/aa/Не_в_себе_%28фильм%2C_2018%29.jpg/211px-Не_в_себе_%28фильм%2C_2018%29.jpg</Data></Cell>
     <Cell><Data ss:Type="String">https://fex.net/get/278634293852/643861519</Data></Cell>
-   </Row>
-   <Row>
+</channel>
+<channel>
     <Cell><Data ss:Type="String">Железный человек / Iron Man (2008)</Data></Cell>
     <Cell><Data ss:Type="String">https://image.tmdb.org/t/p/w600_and_h900_bestv2/bpqolbKYANKSms5UaAhJxxzqhoq.jpg</Data></Cell>
     <Cell><Data ss:Type="String">https://fex.net/get/278634293852/643861519</Data></Cell>
     <Cell ss:StyleID="s71"/>
-   </Row>
+</channel>
   <items>
