@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<items>
-<channel>
+<items xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<channel>
 		<title>Начало / Inception (2010)</title>
 		<logo_30x30>https://upload.wikimedia.org/wikipedia/ru/thumb/2/2d/Kinopoisk.ru-Inception-1113797.jpg/213px-Kinopoisk.ru-Inception-1113797.jpg</logo_30x30>
 		<stream_url>http://uafilm.tv/embed/3353/</stream_url>
 		<description>
-&lt;table&gt;
+<table>
 &lt;h2&gt;&lt;center&gt;Начало / Inception (2010)&lt;/center&gt;&lt;/h2&gt;
 &lt;p&gt;&lt;img src="https://upload.wikimedia.org/wikipedia/ru/thumb/2/2d/Kinopoisk.ru-Inception-1113797.jpg/213px-Kinopoisk.ru-Inception-1113797.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid; height="290"; width="205"&gt;
   &lt;title14&gt;Рейтинг IMDb: &lt;span style="color: #159ff6"&gt;8.6&lt;/span&gt;&lt;/title14&gt;&lt;br&gt;
@@ -21,7 +21,7 @@
 &lt;hr&gt;
   &lt;title13&gt;&lt;span style="color: #b283f4"&gt;Описание&lt;/span&gt;&lt;br&gt;
 У Дома Кобба редкая и не вполне легальная профессия — он и его специально обученные помощники проникают в сны людей и крадут оттуда ценную информацию. Однако после не слишком удачной попытки взломать подсознание японского магната, Кобб получает от него же задание иного свойства. В обмен на право вернуться к детям в США, где взломщика разыскивают госорганы, тот должен подсадить наследнику монополистской корпорации идею о том, чтобы эту корпорацию развалить. Крепко озадаченный, Кобб начинает собирать команду специалистов: из Парижа выписывает "архитектора", которая должна будет сон построить, из Момбасы — "имитатора", который станет доставать субтильного коббова напарника, а заодно и "химика", который всех усыпит&lt;/title13&gt; &lt;br&gt;
-&lt;/table&gt;
+</table>
 </description>
 	</channel>
 	<channel>
