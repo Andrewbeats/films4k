@@ -1,10 +1,6 @@
-<?xml version="1.0"?>
-  <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="4" x:FullColumns="1"
-   x:FullRows="1" ss:DefaultColumnWidth="53" ss:DefaultRowHeight="15">
-   <Column ss:Width="210"/>
-   <Column ss:AutoFitWidth="0" ss:Width="84"/>
-   <Column ss:Width="250"/>
-   <Column ss:AutoFitWidth="0" ss:Width="816"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+
    <Row>
     <Cell><Data ss:Type="String">title</Data></Cell>
     <Cell><Data ss:Type="String">logo_30x30</Data></Cell>
@@ -27,4 +23,4 @@
     <Cell><Data ss:Type="String">https://fex.net/get/278634293852/643861519</Data></Cell>
     <Cell ss:StyleID="s71"/>
    </Row>
-  </Table>
+  <items>
