@@ -1,33 +1,93 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<items xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-	<channel>
-		<title>Начало / Inception (2010)</title>
-		<logo_30x30>https://upload.wikimedia.org/wikipedia/ru/thumb/2/2d/Kinopoisk.ru-Inception-1113797.jpg/213px-Kinopoisk.ru-Inception-1113797.jpg</logo_30x30>
-		<stream_url>https://fex.net/get/009045524460/690832373</stream_url>
-		<description>
-
-начало
-
-</description>
-	</channel>
-	<channel>
-		<title>Не в себе / Unsane (2018)</title>
-		<logo_30x30>https://upload.wikimedia.org/wikipedia/ru/thumb/a/aa/Не_в_себе_%28фильм%2C_2018%29.jpg/211px-Не_в_себе_%28фильм%2C_2018%29.jpg</logo_30x30>
-		<stream_url>https://fex.net/get/009045524460/690832374</stream_url>
-		<description>
-
-не в себе
-
-</description>
-	</channel>
-	<channel>
-		<title>Железный человек / Iron Man (2008)</title>
-		<logo_30x30>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bpqolbKYANKSms5UaAhJxxzqhoq.jpg</logo_30x30>
-		<stream_url>https://fex.net/get/009045524460/690832375</stream_url>
-		<description>
-
-железный
-
-</description>
-	</channel>
-</items>
+<?xml version="1.0"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Пользователь Windows</Author>
+  <LastAuthor>пользователь Microsoft Office</LastAuthor>
+  <Created>2018-08-29T10:21:04Z</Created>
+  <LastSaved>2018-08-29T11:27:21Z</LastSaved>
+  <Company>SPecialiST RePack</Company>
+  <Version>15.0</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+  <PixelsPerInch>96</PixelsPerInch>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>12300</WindowHeight>
+  <WindowWidth>25600</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>440</WindowTopY>
+  <TabRatio>600</TabRatio>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:CharSet="204" x:Family="Swiss" ss:Size="11"
+    ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s71">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Лист1">
+  <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="4" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="53" ss:DefaultRowHeight="15">
+   <Column ss:Width="210"/>
+   <Column ss:AutoFitWidth="0" ss:Width="84"/>
+   <Column ss:Width="250"/>
+   <Column ss:AutoFitWidth="0" ss:Width="816"/>
+   <Row>
+    <Cell><Data ss:Type="String">title</Data></Cell>
+    <Cell><Data ss:Type="String">logo_30x30</Data></Cell>
+    <Cell><Data ss:Type="String">stream_url</Data></Cell>
+    <Cell><Data ss:Type="String">description</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Начало / Inception (2010)</Data></Cell>
+    <Cell><Data ss:Type="String">https://upload.wikimedia.org/wikipedia/ru/thumb/2/2d/Kinopoisk.ru-Inception-1113797.jpg/213px-Kinopoisk.ru-Inception-1113797.jpg</Data></Cell>
+    <Cell><Data ss:Type="String">http://uafilm.tv/embed/3353/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Не в себе / Unsane (2018)</Data></Cell>
+    <Cell><Data ss:Type="String">https://upload.wikimedia.org/wikipedia/ru/thumb/a/aa/Не_в_себе_%28фильм%2C_2018%29.jpg/211px-Не_в_себе_%28фильм%2C_2018%29.jpg</Data></Cell>
+    <Cell><Data ss:Type="String">https://fex.net/get/278634293852/643861519</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Железный человек / Iron Man (2008)</Data></Cell>
+    <Cell><Data ss:Type="String">https://image.tmdb.org/t/p/w600_and_h900_bestv2/bpqolbKYANKSms5UaAhJxxzqhoq.jpg</Data></Cell>
+    <Cell><Data ss:Type="String">https://fex.net/get/278634293852/643861519</Data></Cell>
+    <Cell ss:StyleID="s71"/>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Print>
+   </Print>
+   <PageLayoutZoom>0</PageLayoutZoom>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>3</ActiveRow>
+     <ActiveCol>3</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
