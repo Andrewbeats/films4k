@@ -1,76 +1,136 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <items>
-  <channel>
-    <title><![CDATA[Ocean(mp4)]]></title>
-    <description><![CDATA[<img src="https://edem.tv/favicon.ico">Edem IPTV]]></description>
-    <stream_url><![CDATA[http://vjs.zencdn.net/v/oceans.mp4]]></stream_url>
-  </channel>
-
-  <channel>
-    <title><![CDATA[Bunny(1080p)]]></title><?xml version="1.0" encoding="UTF-8"?>
-<items>
-  <channel>
-    <title><![CDATA[Ocean(mp4)]]></title>
-    <description><![CDATA[<img src="https://edem.tv/favicon.ico">Edem IPTV]]></description>
-    <stream_url><![CDATA[http://vjs.zencdn.net/v/oceans.mp4]]></stream_url>
-  </channel>
-
-  <channel>
-    <title><![CDATA[Bunny(1080p)]]></title>
-    <description><![CDATA[<img src="https://edem.tv/favicon.ico">Edem IPTV]]></description>
-    <stream_url><![CDATA[http://distribution.bbb3d.renderfarming.net/video/mp4/bbb_sunflower_1080p_60fps_normal.mp4]]></stream_url>
-  </channel>
-
-  <channel>
-    <title><![CDATA[ElephantsDream]]></title>
-    <description><![CDATA[<img src="https://edem.tv/favicon.ico">Edem IPTV]]></description>
-    <stream_url><![CDATA[https://archive.org/download/ElephantsDream/ed_1024_512kb.mp4]]></stream_url>
-  </channel>
-
 <channel>
-	<title>Начало / Inception (2010)</title>
-	<logo_30x30>http://kino-live2.org/uploads/posts/2014-02/1392391182_716861.jpg</logo_30x30>
-	<stream_url>http://212.113.38.99/hls/7cc21bca82b9cc51e91751f0945b7368//fhd/Inception.2010.BDRip.1080p.MediaClub.m3u8</stream_url>
-	<description>
-		<table>
-<h2><center>Начало / Inception (2010)</center></h2>
-<p><img height="285" src="http://kino-live2.org/uploads/posts/2014-02/1392391182_716861.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid;" width="210">
-<b>Год: </b>2010<br>
-<b>Жанр: </b> Детективы, Боевики, Фантастика, Триллеры<br>
-<b>Страна: </b><br>
-<p><hr><b>Описание: </b>
- Кобб — талантливый вор, лучший из лучших в опасном искусстве извлечения: он крадет ценные секреты из глубин подсознания во время сна, когда человеческий разум наиболее уязвим. Редкие способности Кобба сделали его ценным игроком в привычном к предательству мире промышленного шпионажа, но они же превратили его в извечного беглеца и лишили всего, что он когда-либо любил. И вот у Кобба появляется шанс исправить ошибки. Его последнее дело может вернуть все назад, но для этого ему нужно совершить невозможное — инициацию. Вместо идеальной кражи Кобб и его команда спецов должны будут провернуть обратное. Теперь их задача — не украсть идею, а внедрить ее. Если у них получится, это и станет идеальным преступлением. Но никакое планирование или мастерство не могут подготовить команду к встрече с опасным противником, который, кажется, предугадывает каждый их ход. Врагом, увидеть которого мог бы лишь Кобб.
-</p>
-</table>
-	</description>
+<title><![CDATA[4K]]></title>
+<playlist_url><![CDATA[http://obovse.ru/smarttv/fex.php?id=key&search=542372197799]]></playlist_url>
+<description><![CDATA[<h2><center>Фильмы в формате 4K</center></h2>]]></description>
 </channel>
-</items>
-
-    <description><![CDATA[<img src="https://edem.tv/favicon.ico">Edem IPTV]]></description>
-    <stream_url><![CDATA[http://distribution.bbb3d.renderfarming.net/video/mp4/bbb_sunflower_1080p_60fps_normal.mp4]]></stream_url>
-  </channel>
-
-  <channel>
-    <title><![CDATA[ElephantsDream]]></title>
-    <description><![CDATA[<img src="https://edem.tv/favicon.ico">Edem IPTV]]></description>
-    <stream_url><![CDATA[https://archive.org/download/ElephantsDream/ed_1024_512kb.mp4]]></stream_url>
-  </channel>
 
 <channel>
-	<title>Начало</title>
-	<logo_30x30>http://kino-live2.org/uploads/posts/2014-02/1392391182_716861.jpg</logo_30x30>
-	<stream_url>http://212.113.38.99/hls/7cc21bca82b9cc51e91751f0945b7368//fhd/Inception.2010.BDRip.1080p.MediaClub.m3u8</stream_url>
-	<description>
-		<table>
-<h2><center>Начало</center></h2>
-<p><img height="285" src="http://kino-live2.org/uploads/posts/2014-02/1392391182_716861.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid;" width="210">
-<b>Год: </b>2010<br>
-<b>Жанр: </b> Детективы, Боевики, Фантастика, Триллеры<br>
-<b>Страна: </b><br>
-<p><hr><b>Описание: </b>
- Кобб — талантливый вор, лучший из лучших в опасном искусстве извлечения: он крадет ценные секреты из глубин подсознания во время сна, когда человеческий разум наиболее уязвим. Редкие способности Кобба сделали его ценным игроком в привычном к предательству мире промышленного шпионажа, но они же превратили его в извечного беглеца и лишили всего, что он когда-либо любил. И вот у Кобба появляется шанс исправить ошибки. Его последнее дело может вернуть все назад, но для этого ему нужно совершить невозможное — инициацию. Вместо идеальной кражи Кобб и его команда спецов должны будут провернуть обратное. Теперь их задача — не украсть идею, а внедрить ее. Если у них получится, это и станет идеальным преступлением. Но никакое планирование или мастерство не могут подготовить команду к встрече с опасным противником, который, кажется, предугадывает каждый их ход. Врагом, увидеть которого мог бы лишь Кобб.
-</p>
+      <title><![CDATA[4K]]></title>
+      <playlist_url><![CDATA[http://obovse.ru/smarttv/fex.php?id=key&search=542372197799]]></playlist_url>
+      <description>
+<![CDATA[
+<table>
+<h2>
+<center>Фильмы в формате 4K</center>
+</h2>
+<p>
+<body>
+<p>
+<center>
+</center>
 </table>
-	</description>
+]]>
+      </description>
+</channel>
+
+<channel>
+      <title><![CDATA[Moonwalk]]></title>
+      <playlist_url><![CDATA[https://raw.githubusercontent.com/Andrewbeats/films4k/master/mw.json]]></playlist_url>
+      <description>
+<![CDATA[
+<table>
+<h2>
+<center>База данных Moonwalk.cc</center>
+</h2>
+<p>
+<body>
+<p>
+</table>
+]]>
+      </description>
+</channel>
+
+<channel>
+      <title><![CDATA[Начало / Inception (2010)]]></title>
+      <logo_30x30>https://upload.wikimedia.org/wikipedia/ru/thumb/2/2d/Kinopoisk.ru-Inception-1113797.jpg/213px-Kinopoisk.ru-Inception-1113797.jpg</logo_30x30>
+      <stream_url>http://uafilm.tv/embed/3353/</stream_url>
+      <description>
+<![CDATA[
+<table>
+<h2><center>Начало / Inception (2010)</center></h2>
+<p><img src="https://upload.wikimedia.org/wikipedia/ru/thumb/2/2d/Kinopoisk.ru-Inception-1113797.jpg/213px-Kinopoisk.ru-Inception-1113797.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid; height="290"; width="205">
+  <title14>Рейтинг IMDb: <span style="color: #159ff6">8.6</span></title14><br>
+  <title5>--------------------</title5> <br>
+  <title2>Качество: UHD (HDR)</title2> <br>
+  <title4>Видео: HEVC/H.265, 3840x2160, (16:9), 59,2 Мбит/сек, 23.976 fps</title4> <br>
+  <title5>--------------------</title5> <br>
+  <title7><span style="color: #b283f4">Год: </span>2017</title7> <br>
+  <title8><span style="color: #b283f4">Страна: </span>США</title8> <br>
+  <title9><span style="color: #b283f4">Жанр: </span>детектив, триллер, ужасы</title9> <br>
+  <title10><span style="color: #b283f4">Режиссер: </span>Кристофер Нолан</title10> <br>
+  <title11><span style="color: #b283f4">В ролях: </span>Леонардо ДиКаприо, Джозеф Гордон-Левитт, Эллен Пейдж, Том Харди, Кен Ватанабе, Дилип Рао, Киллиан Мёрфи, Том Беренджер, Марион Котийяр, Пит Постлетуэйт</title11> <br>
+<hr>
+  <title13><span style="color: #b283f4">Описание</span><br>
+У Дома Кобба редкая и не вполне легальная профессия — он и его специально обученные помощники проникают в сны людей и крадут оттуда ценную информацию. Однако после не слишком удачной попытки взломать подсознание японского магната, Кобб получает от него же задание иного свойства. В обмен на право вернуться к детям в США, где взломщика разыскивают госорганы, тот должен подсадить наследнику монополистской корпорации идею о том, чтобы эту корпорацию развалить. Крепко озадаченный, Кобб начинает собирать команду специалистов: из Парижа выписывает "архитектора", которая должна будет сон построить, из Момбасы — "имитатора", который станет доставать субтильного коббова напарника, а заодно и "химика", который всех усыпит</title13> <br>
+</table>
+]]>
+      </description>
+</channel>
+
+<channel>
+      <title><![CDATA[Не в себе / Unsane (2018)]]></title>
+      <logo_30x30>https://upload.wikimedia.org/wikipedia/ru/thumb/a/aa/Не_в_себе_%28фильм%2C_2018%29.jpg/211px-Не_в_себе_%28фильм%2C_2018%29.jpg</logo_30x30>
+      <stream_url>https://fex.net/get/278634293852/643861519</stream_url>
+      <description>
+<![CDATA[
+<table>
+<h2><center>Не в себе / Unsane (2018)</center></h2>
+<p><img src="https://upload.wikimedia.org/wikipedia/ru/thumb/a/aa/Не_в_себе_%28фильм%2C_2018%29.jpg/211px-Не_в_себе_%28фильм%2C_2018%29.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid; height="290"; width="205">
+  <title14>Рейтинг IMDb: <span style="color: #159ff6">6.5</span></title14><br>
+  <title5>--------------------</title5> <br>
+  <title2>Качество: UHD (HDR)</title2> <br>
+  <title4>Видео: HEVC, 3840x2160 (16:9), 23.976 fps, 72.7 Mb/s (0.365 bit/pixel)</title4> <br>
+  <title5>--------------------</title5> <br>
+  <title7><span style="color: #b283f4">Год: </span>2018</title7> <br>
+  <title8><span style="color: #b283f4">Страна: </span>США</title8> <br>
+  <title9><span style="color: #b283f4">Жанр: </span>триллер, ужасы</title9> <br>
+  <title10><span style="color: #b283f4">Режиссер: </span>Стивен Содерберг</title10> <br>
+  <title11><span style="color: #b283f4">В ролях: </span>Джошуа Леонард, Клер Фой, Сара Стайлс, Марк Кадиш, Эми Ирвинг, Колин Вуделл, Мира Лукреция Тейлор, Линда Моз, Зак Черри, Полли МакКи</title11> <br>
+<hr>
+  <title13><span style="color: #b283f4">Описание</span><br>
+Девушка покидает родной город, чтобы сбежать от проблемного прошлого и найти новую работу. Но когда она не по своей воле оказывается в психиатрическом учреждении, ей приходится столкнуться со своим самым большим страхом. Но реален ли он, или это - просто плод ее воображения? Героине кажется, что никто не верит ей, а власти не могут или не хотят помочь, поэтому она должна в одиночку противостоять своим страхам.</title13> <br>
+</table>
+]]>
+      </description>
+</channel>
+
+<channel>
+      <title><![CDATA[Железный человек / Iron Man (2008)]]></title>
+      <logo_30x30>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bpqolbKYANKSms5UaAhJxxzqhoq.jpg</logo_30x30>
+      <stream_url>https://fex.net/get/278634293852/643861519</stream_url>
+      <description>
+<![CDATA[
+<table>
+<h2><center>Железный человек / Iron Man (2008)</center></h2>
+<p><img src="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bpqolbKYANKSms5UaAhJxxzqhoq.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid; height="290"; width="205">
+  <title14>Рейтинг IMDb: <span style="color: #159ff6">7.9</span></title14><br>
+  <title5>--------------------</title5> <br>
+  <title2>Качество: UHD (HDR)</title2> <br>
+  <title4>Видео: HEVC/H.265, 3840x2160p, (16:9), 56.0 Mb/s, 23.976 FPS</title4> <br>
+  <title5>--------------------</title5> <br>
+  <title7><span style="color: #b283f4">Год: </span>2008</title7> <br>
+  <title8><span style="color: #b283f4">Страна: </span>США / Marvel Studios Inc.</title8> <br>
+  <title9><span style="color: #b283f4">Жанр: </span>фантастика, боевик, приключения</title9> <br>
+  <title10><span style="color: #b283f4">Режиссер: </span>Джон Фавро</title10> <br>
+  <title11><span style="color: #b283f4">В ролях: </span>Роберт Дауни мл., Джефф Бриджес, Гвинет Пэлтроу, Терренс Ховард, Лесли Бибб, Шон Тоуб, Фаран Таир, Кларк Грегг, Джон Фавро, Саид Бадрия</title11> <br>
+<hr>
+  <title13><span style="color: #b283f4">Описание</span><br>
+Миллиардер-изобретатель Тони Старк попадает в плен к Афганским террористам, которые пытаются заставить его создать оружие массового поражения. В тайне от своих захватчиков Старк конструирует высокотехнологичную киберброню, которая помогает ему сбежать. Однако по возвращении в США он узнаёт, что в совете директоров его фирмы плетётся заговор, чреватый страшными последствиями. Используя своё последнее изобретение, Старк пытается решить проблемы своей компании радикально…
+</title13> <br>
+</table>
+]]>
+      </description>
+</channel>
+
+<channel>
+      <title><![CDATA[Железный человек 2 / Iron Man 2 (2010)]]></title>
+      <logo_30x30>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2JqIFvbTFSwwEs8q7urgBroNI8W.jpg</logo_30x30>
+      <stream_url>https://fex.net/get/278634293852/643861519</stream_url>
+      <description>
+<![CDATA[
+]]>
+      </description>
 </channel>
 </items>
