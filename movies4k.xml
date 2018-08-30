@@ -5,6 +5,7 @@
       <title><![CDATA[Начало / Inception (2010)]]></title>
       <logo_30x30>https://upload.wikimedia.org/wikipedia/ru/thumb/2/2d/Kinopoisk.ru-Inception-1113797.jpg/213px-Kinopoisk.ru-Inception-1113797.jpg</logo_30x30>
       <stream_url>http://uafilm.tv/embed/3353/</stream_url>
+      <category_id>2010,детектив,триллер,ужасы,Warner Bros. Pictures</category_id>
       <description>
 <![CDATA[
 <table>
@@ -17,6 +18,7 @@
   <title5>--------------------</title5> <br>
   <title7><span style="color: #b283f4">Год: </span>2017</title7> <br>
   <title8><span style="color: #b283f4">Страна: </span>США</title8> <br>
+  <title15><span style="color: #b283f4">Студия: </span>Warner Bros. Pictures</title15> <br>
   <title9><span style="color: #b283f4">Жанр: </span>детектив, триллер, ужасы</title9> <br>
   <title10><span style="color: #b283f4">Режиссер: </span>Кристофер Нолан</title10> <br>
   <title11><span style="color: #b283f4">В ролях: </span>Леонардо ДиКаприо, Джозеф Гордон-Левитт, Эллен Пейдж, Том Харди, Кен Ватанабе, Дилип Рао, Киллиан Мёрфи, Том Беренджер, Марион Котийяр, Пит Постлетуэйт</title11> <br>
@@ -32,6 +34,7 @@
       <title><![CDATA[Железный человек / Iron Man (2008)]]></title>
       <logo_30x30>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bpqolbKYANKSms5UaAhJxxzqhoq.jpg</logo_30x30>
       <stream_url>https://fex.net/get/278634293852/643861519</stream_url>
+      <category_id>2008,фантастика,боевик,приключения,Marvel Studios Inc.</category_id>
       <description>
 <![CDATA[
 <table>
@@ -43,7 +46,8 @@
   <title4>Видео: HEVC/H.265, 3840x2160p, (16:9), 56.0 Mb/s, 23.976 FPS</title4> <br>
   <title5>--------------------</title5> <br>
   <title7><span style="color: #b283f4">Год: </span>2008</title7> <br>
-  <title8><span style="color: #b283f4">Страна: </span>США / Marvel Studios Inc.</title8> <br>
+  <title8><span style="color: #b283f4">Страна: </span>США</title8> <br>
+  <title15><span style="color: #b283f4">Студия: </span>Marvel Studios Inc.</title15> <br>
   <title9><span style="color: #b283f4">Жанр: </span>фантастика, боевик, приключения</title9> <br>
   <title10><span style="color: #b283f4">Режиссер: </span>Джон Фавро</title10> <br>
   <title11><span style="color: #b283f4">В ролях: </span>Роберт Дауни мл., Джефф Бриджес, Гвинет Пэлтроу, Терренс Ховард, Лесли Бибб, Шон Тоуб, Фаран Таир, Кларк Грегг, Джон Фавро, Саид Бадрия</title11> <br>
@@ -54,5 +58,5 @@
 </table>
 ]]>
       </description>
-</channel>  
+</channel>
 </items>
