@@ -11,23 +11,6 @@
 <playlist_url><![CDATA[https://raw.githubusercontent.com/Andrewbeats/films4k/master/mw.json]]></playlist_url>
 <description><![CDATA[<h2><center>База данных Moonwalk.cc</center></h2>]]></description>
 </channel>
-      
-<channel>
-      <title><![CDATA[Moonwalk]]></title>
-      <playlist_url><![CDATA[https://raw.githubusercontent.com/Andrewbeats/films4k/master/mw.json]]></playlist_url>
-      <description>
-<![CDATA[
-<table>
-<h2>
-<center>База данных Moonwalk.cc</center>
-</h2>
-<p>
-<body>
-<p>
-</table>
-]]>
-      </description>
-</channel>
 
 <channel>
 <title><![CDATA[Films4K]]></title>
