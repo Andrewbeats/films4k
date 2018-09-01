@@ -26,7 +26,7 @@
       
 <channel>
 <title><![CDATA[Test Films4K]]></title>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/Andrewbeats/films4k/master/movies4k.xml]]></playlist_url>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/Andrewbeats/films4k/master/primer.xml]]></playlist_url>
 <description><![CDATA[<h2><center>Фильмы в формате 4K с описанием и постером</center></h2>]]></description>
 </channel>
 
