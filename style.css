@@ -1,4 +1,9 @@
-title {
+ .title {
 	font-size: 15px;
 	color: red;
+}
+
+.nazvanie {
+	color: green;
+	
 }
