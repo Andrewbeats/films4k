@@ -8,9 +8,10 @@
       <description>
 <![CDATA[
 <h2><center>Начало / Inception (2010)</center></h2>
-<p><img src="https://upload.wikimedia.org/wikipedia/ru/thumb/2/2d/Kinopoisk.ru-Inception-1113797.jpg/213px-Kinopoisk.ru-Inception-1113797.jpg" <br>  Рейтинг IMDb: <span style="color: #159ff6">8.6</span><br>
- style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid; height="290"; width="205">
-  Рейтинг IMDb: <span style="color: #159ff6">8.6</span><br>
+  <poster>
+    <img src="https://upload.wikimedia.org/wikipedia/ru/thumb/2/2d/Kinopoisk.ru-Inception-1113797.jpg/213px-Kinopoisk.ru-Inception-1113797.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid; height="290"; width="205"> <br>
+    <rating>IMDb: <span style="color: #159ff6">8.6</span><br></rating>
+  </poster>  Рейтинг IMDb: <span style="color: #159ff6">8.6</span><br>
   -------------------- <br>
   Качество: UHD (HDR) <br>
   Видео: HEVC/H.265, 3840x2160, (16:9), 59,2 Мбит/сек, 23.976 fps <br>
