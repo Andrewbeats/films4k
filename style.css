@@ -13,8 +13,12 @@ nazvanie {
 
 rating {
 	color: #159ff6;
+		display: block;
+
 }
 
 kach {
 	color: #b283f4;
+		display: block;
+
 }
