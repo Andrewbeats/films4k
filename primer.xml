@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/Andrewbeats/films4k/master/style.css" ?>
+<?xml-stylesheet type="text/css" href="" ?>
 <items>
 
 <channel>
@@ -31,36 +31,6 @@ https://image.tmdb.org/t/p/w600_and_h900_bestv2/7SivRwOLuA6DR09zNJ9JIo14GyX.jpg
 ]]>
       </description>
 </channel>
-
-<channel>
-      <title><![CDATA[Начало / Inception (2010)]]></title>
-      <logo_30x30>
-https://image.tmdb.org/t/p/w600_and_h900_bestv2/7SivRwOLuA6DR09zNJ9JIo14GyX.jpg
-      </logo_30x30>
-      <stream_url>https://fex.net/get/255051510786/711135646</stream_url>
-      <description>
-<![CDATA[
-<h2><center>Начало / Inception (2010)</center></h2>
-<p><img src="
-https://image.tmdb.org/t/p/w600_and_h900_bestv2/7SivRwOLuA6DR09zNJ9JIo14GyX.jpg
-  " style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid; height="290"; width="205">
-  Рейтинг IMDb: <rating>8.6</rating><br>
-  -------------------- <br>
-  <kach>Качество: </kach>UHD (HDR) <br>
-  Видео: HEVC/H.265, 3840x2160, (16:9), 59,2 Мбит/сек, 23.976 fps <br>
-  -------------------- <br>
-  Год: 2017 <br>
-  Страна: США <br>
-  Студия: Warner Bros. Pictures <br>
-  Жанр: детектив, триллер, ужасы <br>
-  Режиссер: Кристофер Нолан <br>
-  В ролях: Леонардо ДиКаприо, Джозеф Гордон-Левитт, Эллен Пейдж, Том Харди, Кен Ватанабе, Дилип Рао, Киллиан Мёрфи, Том Беренджер, Марион Котийяр, Пит Постлетуэйт <br>
-<hr>
-  Описание<br>
-У Дома Кобба редкая и не вполне легальная профессия — он и его специально обученные помощники проникают в сны людей и крадут оттуда ценную информацию. Однако после не слишком удачной попытки взломать подсознание японского магната, Кобб получает от него же задание иного свойства. В обмен на право вернуться к детям в США, где взломщика разыскивают госорганы, тот должен подсадить наследнику монополистской корпорации идею о том, чтобы эту корпорацию развалить. Крепко озадаченный, Кобб начинает собирать команду специалистов: из Парижа выписывает "архитектора", которая должна будет сон построить, из Момбасы — "имитатора", который станет доставать субтильного коббова напарника, а заодно и "химика", который всех усыпит <br>
-]]>
-      </description>
-    </channel>>
 
 <channel>
       <title><![CDATA[Железный человек / Iron Man (2008)]]></title>
