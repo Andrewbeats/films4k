@@ -1,9 +1,20 @@
  title {
 	font-size: 15px;
 	color: red;
+	display: block;
+
 }
 
 nazvanie {
 	color: green;
-	
+	display: block;
+
+}
+
+rating {
+	color: #159ff6;
+}
+
+kach {
+	color: #b283f4;
 }
