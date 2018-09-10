@@ -1,23 +1,23 @@
- title {
+#title {
 	font-size: 15px;
 	color: red;
 	display: block;
 
 }
 
-nazvanie {
+#nazvanie {
 	color: green;
 	display: block;
 
 }
 
-rating {
+#rating {
 	color: #159ff6;
 		display: block;
 
 }
 
-kach {
+#kach {
 	color: #b283f4;
 		display: block;
 
