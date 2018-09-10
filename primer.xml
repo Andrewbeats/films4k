@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/css" href="" ?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/Andrewbeats/films4k/master/style.css" ?>
 <items>
 
 <channel>
@@ -13,7 +13,7 @@ https://image.tmdb.org/t/p/w600_and_h900_bestv2/7SivRwOLuA6DR09zNJ9JIo14GyX.jpg
 <h2><center>Начало / Inception (2010)</center></h2>
 <p><img src="
 https://image.tmdb.org/t/p/w600_and_h900_bestv2/7SivRwOLuA6DR09zNJ9JIo14GyX.jpg
-  " style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid; height="290"; width="205" 	opacity: 0.9;>
+  " style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid; height="290"; width="205">
   Рейтинг IMDb: <span style="color: #159ff6">8.6</span><br>
   -------------------- <br>
   Качество: UHD (HDR) <br>
@@ -39,7 +39,7 @@ https://image.tmdb.org/t/p/w600_and_h900_bestv2/7SivRwOLuA6DR09zNJ9JIo14GyX.jpg
       <description>
 <![CDATA[
 <h2><center>Железный человек / Iron Man (2008)</center></h2>
-<p><img src="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bpqolbKYANKSms5UaAhJxxzqhoq.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid; height="290"; width="205">
+<p><img src="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bpqolbKYANKSms5UaAhJxxzqhoq.jpg" id="poster" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid; height="290"; width="205">
   Рейтинг IMDb: <span style="color: #159ff6">7.9</span><br>
   -------------------- <br>
   Качество: UHD (HDR) <br>

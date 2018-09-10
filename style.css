@@ -22,3 +22,10 @@ kach {
 		display: block;
 
 }
+
+#poster
+{
+	transition: opacity 1s;
+	opacity: 0.3;
+	width:200px;
+}
