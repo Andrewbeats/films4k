@@ -31,19 +31,9 @@
 </channel>
 
 <channel>
-<title><![CDATA[робин гуд]]></title>
-<stream_url>https://fex.net/get/569562371540/745828275</stream_url>
-<description><![CDATA[
-<html>
-        <head>
-            <script/>
-        </head>
-        <body>
-          <h3><center>Мстители / The Avengers (2012)</center></h3>
-          <p>описание</p>
-        </body>
-        </html>
-]]></description>
+<title><![CDATA[Test]]></title>
+<playlist_url><![CDATA[https:\/\/fex.net\/j_object_view\/362207694227\/]]></playlist_url>
+<description><![CDATA[<h2><center>Фильмы в формате 4K с описанием и постером</center></h2>]]></description>
 </channel>
 
 
