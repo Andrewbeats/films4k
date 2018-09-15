@@ -30,11 +30,4 @@
 <description><![CDATA[<h2><center>Фильмы в формате 4K с описанием и постером</center></h2>]]></description>
 </channel>
 
-<channel>
-<title><![CDATA[Test]]></title>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/Andrewbeats/films4k/master/104228.json]]></playlist_url>
-<description><![CDATA[<h2><center>Фильмы в формате 4K с описанием и постером</center></h2>]]></description>
-</channel>
-
-
 </items>
