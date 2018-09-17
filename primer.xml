@@ -15,7 +15,15 @@ https://image.tmdb.org/t/p/w600_and_h900_bestv2/7SivRwOLuA6DR09zNJ9JIo14GyX.jpg
 https://image.tmdb.org/t/p/w600_and_h900_bestv2/7SivRwOLuA6DR09zNJ9JIo14GyX.jpg
   " style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid; height="290"; width="205">
   Рейтинг IMDb: <span style="color: #159ff6">8.6</span><br>
-  <img src="http://s.rutor.info/imdb/pic/3778644.gif">
+  <div class="imdbRating">
+                <div class="ratingValue">
+<strong title="8,8 based on 1&nbsp;746&nbsp;009 user ratings"><span>8,8</span></strong><span class="grey">/</span><span class="grey">10</span>                </div>
+                <a href="/title/tt1375666/ratings?ref_=tt_ov_rt"><span class="small">1&nbsp;746&nbsp;009</span></a>
+                    <div class="hiddenImportant">
+                            <span>3&nbsp;104 user</span>
+                            <span>673 critic</span>
+                    </div>
+        </div>
   -------------------- <br>
   Качество: UHD (HDR) <br>
   Видео: HEVC/H.265, 3840x2160, (16:9), 59,2 Мбит/сек, 23.976 fps <br>
