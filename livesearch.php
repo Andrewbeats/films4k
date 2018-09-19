@@ -1,6 +1,6 @@
 <?php
 $xmlDoc=new DOMDocument();
-$xmlDoc->load("links.xml");
+$xmlDoc->load("https://raw.githubusercontent.com/Andrewbeats/films4k/master/links.xml");
 $x=$xmlDoc->getElementsByTagName('link');
 $q=$_GET["q"];
 if (strlen($q)>1) {
