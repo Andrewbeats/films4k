@@ -31,6 +31,12 @@
 </channel>
 
 <channel>
+<title><![CDATA[ProxyTV]]></title>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/Andrewbeats/films4k/master/ProxyTV.m3u]]></playlist_url>
+<description><![CDATA[<h2><center>ProxyTV</center></h2>]]></description>
+</channel>
+
+<channel>
 <title><![CDATA[Поиск]]></title>
 <playlist_url><![CDATA["<div  style=\"background-color:#424242; color:#ECEFF1; padding-bottom:8px; \">\r\n<div  style=\"background-color:#212121; color:#8FC4F2;  margin:0 auto; text-align:center;  font-weight:600; font-size:150%; padding:5px; border-bottom:1px solid #121212\">Поиск</div>\r\n<div  style=\"width:45%; float:left; padding-top:5px; padding-left:1%;\">\r\n<img src=\"http://95.46.99.45/images/icons/input.png\" style=\"width:100%; height:auto; box-shadow:3px 3px 3px 2px #191919; \" />\r\n</div>\r\n\r\n<div style =\"clear: both;\" ></div></div>"]]></playlist_url>
 <description><![CDATA[<h2><center>Фильмы в формате 4K</center></h2>]]></description>
