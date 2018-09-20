@@ -1,0 +1,278 @@
+#EXTM3U url-autor="смотреть IPTV бесплатно - https://www.youtube.com/channel/UCQGGNWAIMrlmfMZN-oO3fPQ"
+
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="AST_TLT",РЕН ТВ
+http://81.177.215.157:4022/udp/232.0.1.38:1234
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="AST_TLT",Россия 1 HD
+http://81.177.215.157:4022/udp/232.0.1.57:1234
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="AST_TLT",Первый канал
+http://81.177.215.157:4022/udp/232.0.3.1:1234
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="AST_TLT",Матч!
+http://81.177.215.157:4022/udp/232.0.3.3:1234
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="AST_TLT",Пятница
+http://81.177.215.157:4022/udp/232.0.3.16:1234
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="AST_TLT",1HD
+http://81.177.215.157:4022/udp/232.0.1.26:1234
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="AST_TLT",2x2
+http://81.177.215.157:4022/udp/232.0.2.4:1234
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="AST_TLT",Культура
+http://81.177.215.157:4022/udp/232.0.3.6:1234
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="AST_TLT",Авто 24
+http://81.177.215.157:4022/udp/232.0.2.11:1235
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="AST_TLT",Россия 24
+http://81.177.215.157:4022/udp/232.0.3.7:1234
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="AST_TLT",НТВ
+http://81.177.215.157:4022/udp/232.0.3.4:1234
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="AST_TLT",Звезда
+http://81.177.215.157:4022/udp/232.0.2.10:1234
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="AST_TLT",Матч! HD
+http://81.177.215.157:4022/udp/232.0.2.63:1234
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="AST_TLT",iz.ru
+http://81.177.215.157:4022/udp/232.0.2.48:1235
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="DGT_MSK",Brazzers
+http://85.192.51.240:5050/udp/230.3.4.143:5678
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="DGT_MSK",Матч! Футбол 1
+http://85.192.51.240:5050/udp/230.3.4.61:5678
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="DGT_MSK",Матч! Футбол 2
+http://85.192.51.240:5050/udp/230.3.4.67:5678
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="DGT_MSK",Матч! Футбол 3
+http://85.192.51.240:5050/udp/230.3.4.68:5678
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="DGT_MSK",Ностальгия
+http://85.192.51.240:5050/udp/224.0.42.64:5000
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="DGT_MSK",Матч! Арена
+http://85.192.51.240:5050/udp/224.0.42.54:5000
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="DGT_MSK",Матч! Игра HD
+http://85.192.51.240:5050/udp/230.3.4.70:5678
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="ILD_TLT",Дождь
+http://178.163.100.156:4022/udp/234.0.0.234:2000
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="ILD_TLT",2x2
+http://178.163.100.156:4022/udp/234.0.0.244:2000
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="ILD_TLT",Мультимания
+http://178.163.100.156:4022/udp/234.0.0.210:2000
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="ILD_TLT",Русский роман
+http://178.163.100.156:4022/udp/234.0.0.224:2000
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="ILD_TLT",Матч! Боец
+http://178.163.100.156:4022/udp/234.0.0.211:2000
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="ILD_TLT",Galaxy
+http://178.163.100.156:4022/udp/234.0.0.111:2000
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="ILD_TLT",Ностальгия
+http://178.163.100.156:4022/udp/234.0.0.190:2000
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="ILD_TLT",Мужское кино
+http://178.163.100.156:4022/udp/234.0.0.213:2000
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="ILD_TLT",Матч! Игра
+http://178.163.100.156:4022/udp/234.0.0.6:2000
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Россия 1
+http://109.248.72.167:3371/udp/239.195.32.2:1234
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Матч!
+http://109.248.72.167:3371/udp/239.195.52.3:1234
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Пятница
+http://109.248.72.167:3371/udp/239.195.32.32:1234
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",2x2
+http://109.248.72.167:3371/udp/239.195.0.21:1234
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",ТНТ
+http://109.248.72.167:3371/udp/239.195.32.11:1234
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",History
+http://109.248.72.167:3371/udp/239.195.1.42:1234
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Культура
+http://109.248.72.167:3371/udp/239.195.32.5:1234
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Europa Plus TV
+http://109.248.72.167:3371/udp/239.195.0.71:1234
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",English Club TV
+http://109.248.72.167:3371/udp/239.195.0.73:1234
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",КВН
+http://109.248.72.167:3371/udp/239.195.1.107:1234
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Россия 24
+http://109.248.72.167:3371/udp/239.195.32.4:1234
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Мультимания
+http://109.248.72.167:3371/udp/239.195.1.74:1234
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Bridge TV
+http://109.248.72.167:3371/udp/239.195.0.36:1234
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",euronews
+http://109.248.72.167:3371/udp/239.195.0.26:1234
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",НТВ
+http://109.248.72.167:3371/udp/239.195.32.7:1234
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Матч! Боец
+http://109.248.72.167:3371/udp/239.195.1.67:1234
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Звезда
+http://109.248.72.167:3371/udp/239.195.32.17:1234
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",78
+http://109.248.72.167:3371/udp/239.195.0.70:1234
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",КХЛ
+http://109.248.72.167:3371/udp/239.195.1.73:1234
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",КХЛ HD
+http://109.248.72.167:3371/udp/239.195.5.12:1234
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Матч! Арена
+http://109.248.72.167:3371/udp/239.195.1.68:1234
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Дождь
+http://37.194.115.80:81/udp/239.1.13.6:1234
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Дождь HD
+http://37.194.115.80:81/udp/239.1.13.19:1234
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",РЕН ТВ
+http://37.194.115.80:81/udp/239.1.15.5:1234
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Россия 1
+http://37.194.115.80:81/udp/239.1.15.2:1234
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Первый канал
+http://37.194.115.80:81/udp/239.1.15.1:1234
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Матч!
+http://37.194.115.80:81/udp/239.1.15.16:1234
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",National Geographic
+http://37.194.115.80:81/udp/239.1.5.8:1234
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",National Geographic HD
+http://37.194.115.80:81/udp/239.1.17.1:1234
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Мульт
+http://37.194.115.80:81/udp/239.1.3.1:1234
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Русский детектив
+http://37.194.115.80:81/udp/239.1.4.16:1234
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Пятница
+http://37.194.115.80:81/udp/239.1.15.17:1234
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",1HD
+http://37.194.115.80:81/udp/239.1.9.6:1234
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",2x2
+http://37.194.115.80:81/udp/239.1.2.1:1234
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Охота и рыбалка
+http://37.194.115.80:81/udp/239.1.2.5:1234
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",ТНТ
+http://37.194.115.80:81/udp/239.1.15.7:1234
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Культура
+http://37.194.115.80:81/udp/239.1.10.7:1234
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Eurosport 1
+http://37.194.115.80:81/udp/239.1.12.3:1234
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Eurosport 1 HD
+http://37.194.115.80:81/udp/239.1.11.6:1234
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Europa Plus TV
+http://37.194.115.80:81/udp/239.1.8.10:1234
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Авто 24
+http://37.194.115.80:81/udp/239.1.20.23:1234
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Viasat History
+http://37.194.115.80:81/udp/239.1.21.34:1234
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",НСТ
+http://37.194.115.80:81/udp/239.1.4.15:1234
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",English Club TV
+http://37.194.115.80:81/udp/239.1.20.35:1234
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Россия 24
+http://37.194.115.80:81/udp/239.1.15.3:1234
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Мультимания
+http://37.194.115.80:81/udp/239.1.20.8:1234
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Bridge TV
+http://37.194.115.80:81/udp/239.1.8.8:1234
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Футбол
+http://37.194.115.80:81/udp/239.1.12.5:1234
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Da Vinci
+http://37.194.115.80:81/udp/239.1.5.6:1234
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",НТВ
+http://37.194.115.80:81/udp/239.1.15.4:1234
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Матч! Футбол 1 HD
+http://37.194.115.80:81/udp/239.1.23.1:1234
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Матч! Футбол 2 HD
+http://37.194.115.80:81/udp/239.1.23.2:1234
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Матч! Футбол 3 HD
+http://37.194.115.80:81/udp/239.1.23.3:1234
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Наш футбол
+http://37.194.115.80:81/udp/239.1.20.11:1234
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Наш футбол HD
+http://37.194.115.80:81/udp/239.1.16.1:1234
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Discovery Channel
+http://37.194.115.80:81/udp/239.1.5.1:1234
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Discovery Channel HD
+http://37.194.115.80:81/udp/239.1.17.17:1234
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Discovery Science
+http://37.194.115.80:81/udp/239.1.5.9:1234
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Звезда
+http://37.194.115.80:81/udp/239.1.15.9:1234
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",MTV
+http://37.194.115.80:81/udp/239.1.20.33:1234
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Ля минор
+http://37.194.115.80:81/udp/239.1.8.13:1234
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",VIP Megahit HD
+http://37.194.115.80:81/udp/239.1.21.39:1234
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",VIP Premiere HD
+http://37.194.115.80:81/udp/239.1.21.38:1234
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",VIP Comedy HD
+http://37.194.115.80:81/udp/239.1.21.40:1234
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Матч! Арена
+http://37.194.115.80:81/udp/239.1.12.7:1234
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="PST_PTG",РЕН ТВ
+http://89.107.32.110:81/udp/239.195.0.9:1234
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="PST_PTG",Россия 1
+http://89.107.32.110:81/udp/239.195.0.10:1234
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="PST_PTG",Первый канал
+http://89.107.32.110:81/udp/239.195.1.101:1234
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="PST_PTG",Первый канал HD
+http://89.107.32.110:81/udp/239.195.6.2:1234
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="PST_PTG",Матч!
+http://89.107.32.110:81/udp/239.195.1.3:1234
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="PST_PTG",Мульт
+http://89.107.32.110:81/udp/239.195.4.64:1234
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="PST_PTG",Русский детектив
+http://89.107.32.110:81/udp/239.195.4.62:1234
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="PST_PTG",Пятница
+http://89.107.32.110:81/udp/239.195.1.16:1234
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="PST_PTG",Супер
+http://89.107.32.110:81/udp/239.195.3.66:1234
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="PST_PTG",2x2
+http://89.107.32.110:81/udp/239.195.0.16:1234
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="PST_PTG",Охота и рыбалка
+http://89.107.32.110:81/udp/239.195.4.79:1234
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="PST_PTG",ТНТ
+http://89.107.32.110:81/udp/239.195.0.17:1234
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="PST_PTG",Культура
+http://89.107.32.110:81/udp/239.195.0.12:1234
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="PST_PTG",Europa Plus TV
+http://89.107.32.110:81/udp/239.195.2.20:1234
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="PST_PTG",Авто 24
+http://89.107.32.110:81/udp/239.195.4.77:1234
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="PST_PTG",НСТ
+http://89.107.32.110:81/udp/239.195.4.58:1234
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="PST_PTG",Мультимания
+http://89.107.32.110:81/udp/239.195.5.30:1234
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="PST_PTG",Bridge TV
+http://89.107.32.110:81/udp/239.195.4.67:1234
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="PST_PTG",Футбол
+http://89.107.32.110:81/udp/239.195.4.74:1234
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="PST_PTG",Русский роман
+http://89.107.32.110:81/udp/239.195.4.60:1234
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="PST_PTG",НТВ
+http://89.107.32.110:81/udp/239.195.5.38:1234
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="PST_PTG",Звезда
+http://89.107.32.110:81/udp/239.195.1.20:1234
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="PST_PTG",Здоровое ТВ
+http://89.107.32.110:81/udp/239.195.4.80:1234
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="PST_PTG",Россия 24(мск)
+http://89.107.32.110:81/udp/239.195.1.107:1234
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="PST_PTG",Ностальгия
+http://89.107.32.110:81/udp/239.195.5.5:1234
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="PST_PTG",Ля минор
+http://89.107.32.110:81/udp/239.195.2.35:1234
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="PST_PTG",Вопросы и ответы
+http://89.107.32.110:81/udp/239.195.4.95:1234
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="PST_PTG",Ретро
+http://89.107.32.110:81/udp/239.195.4.93:1234
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="PST_PTG",Мужское кино
+http://89.107.32.110:81/udp/239.195.5.9:1234
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RTK_NSK",National Geographic
+http://176.51.27.150:1234/udp/233.7.70.43:5000
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RTK_NSK",Русский детектив
+http://176.51.27.150:1234/udp/233.7.70.34:5000
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RTK_NSK",2x2
+http://176.51.27.150:1234/udp/225.54.223.243:5000
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RTK_NSK",Охота и рыбалка
+http://176.51.27.150:1234/udp/233.7.70.44:5000
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RTK_NSK",Eurosport 1
+http://176.51.27.150:1234/udp/233.7.70.13:5000
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RTK_NSK",Viasat History
+http://176.51.27.150:1234/udp/233.7.70.17:5000
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RTK_NSK",English Club TV
+http://176.51.27.150:1234/udp/233.7.70.48:5000
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RTK_NSK",Bridge TV
+http://176.51.27.150:1234/udp/233.7.70.4:5000
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RTK_NSK",euronews
+http://176.51.27.150:1234/udp/233.7.70.32:5000
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RTK_NSK",Здоровое ТВ
+http://176.51.27.150:1234/udp/233.7.70.47:5000
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RTK_NSK",Ля минор
+http://176.51.27.150:1234/udp/233.7.70.1:5000
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RTK_NSK",Ретро
+http://176.51.27.150:1234/udp/233.7.70.42:5000
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RTK_NSK",КХЛ
+http://176.51.27.150:1234/udp/233.7.70.5:5000
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RTK_NSK",Матч! Арена
+http://176.51.27.150:1234/udp/233.7.70.6:5000
