@@ -2785,3 +2785,5 @@ http://46.158.46.243:6689/stream?cid=6821
 http://46.158.46.243:6689/stream?cid=6885
 #EXTINF:-1,ЯТБ
 http://46.158.46.243:6689/stream?cid=5475
+#EXTINF:-1 tvg-shift="" tvg-id="" tvg-logo="" group-title="",Матч! HD
+http://193.106.241.178:4022/udp/232.0.2.63:1234
