@@ -1,1547 +1,1547 @@
 #EXTM3U url-autor="смотреть IPTV бесплатно - https://www.youtube.com/channel/UCQGGNWAIMrlmfMZN-oO3fPQ"
 
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Первый Канал
-http://109.248.69.126:4022/udp/239.195.32.1:1234
+http://109.248.87.13:3371/udp/239.195.32.1:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Россия 1
-http://109.248.69.126:4022/udp/239.195.32.2:1234
+http://109.248.87.13:3371/udp/239.195.32.2:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Матч!
-http://109.248.69.126:4022/udp/239.195.32.3:1234
+http://109.248.87.13:3371/udp/239.195.32.3:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Россия 24
-http://109.248.69.126:4022/udp/239.195.32.4:1234
+http://109.248.87.13:3371/udp/239.195.32.4:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Россия К
-http://109.248.69.126:4022/udp/239.195.32.5:1234
+http://109.248.87.13:3371/udp/239.195.32.5:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",НТВ
-http://109.248.69.126:4022/udp/239.195.32.7:1234
+http://109.248.87.13:3371/udp/239.195.32.7:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",СТС
-http://109.248.69.126:4022/udp/239.195.32.8:1234
+http://109.248.87.13:3371/udp/239.195.32.8:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Домашний
-http://109.248.69.126:4022/udp/239.195.32.10:1234
+http://109.248.87.13:3371/udp/239.195.32.10:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",ТНТ
-http://109.248.69.126:4022/udp/239.195.32.11:1234
+http://109.248.87.13:3371/udp/239.195.32.11:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",ТВЦ
-http://109.248.69.126:4022/udp/239.195.32.12:1234
+http://109.248.87.13:3371/udp/239.195.32.12:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Мир
-http://109.248.69.126:4022/udp/239.195.32.13:1234
+http://109.248.87.13:3371/udp/239.195.32.13:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Пятый Канал
-http://109.248.69.126:4022/udp/239.195.32.14:1234
+http://109.248.87.13:3371/udp/239.195.32.14:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",ТВ3
-http://109.248.69.126:4022/udp/239.195.32.15:1234
+http://109.248.87.13:3371/udp/239.195.32.15:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Звезда
-http://109.248.69.126:4022/udp/239.195.32.17:1234
+http://109.248.87.13:3371/udp/239.195.32.17:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Рен ТВ
-http://109.248.69.126:4022/udp/239.195.32.18:1234
+http://109.248.87.13:3371/udp/239.195.32.18:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",ОТР
-http://109.248.69.126:4022/udp/239.195.32.19:1234
+http://109.248.87.13:3371/udp/239.195.32.19:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Карусель
-http://109.248.69.126:4022/udp/239.195.32.20:1234
+http://109.248.87.13:3371/udp/239.195.32.20:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Пятница
-http://109.248.69.126:4022/udp/239.195.32.32:1234
+http://109.248.87.13:3371/udp/239.195.32.32:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Муз ТВ
-http://109.248.69.126:4022/udp/239.195.32.54:1234
+http://109.248.87.13:3371/udp/239.195.32.54:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Спас
-http://109.248.69.126:4022/udp/239.195.32.62:1234
+http://109.248.87.13:3371/udp/239.195.32.62:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Top Shop
-http://109.248.69.126:4022/udp/239.195.32.79:1234
+http://109.248.87.13:3371/udp/239.195.32.79:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Вместе РФ
-http://109.248.69.126:4022/udp/239.195.32.93:1234
+http://109.248.87.13:3371/udp/239.195.32.93:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Че
-http://109.248.69.126:4022/udp/239.195.0.9:1234
+http://109.248.87.13:3371/udp/239.195.0.9:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Disney Channel
-http://109.248.69.126:4022/udp/239.195.0.16:1234
+http://109.248.87.13:3371/udp/239.195.0.16:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",2x2
-http://109.248.69.126:4022/udp/239.195.0.21:1234
+http://109.248.87.13:3371/udp/239.195.0.21:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",РБК
-http://109.248.69.126:4022/udp/239.195.0.23:1234
+http://109.248.87.13:3371/udp/239.195.0.23:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Еда
-http://109.248.69.126:4022/udp/239.195.0.24:1234
+http://109.248.87.13:3371/udp/239.195.0.24:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Euronews
-http://109.248.69.126:4022/udp/239.195.0.26:1234
+http://109.248.87.13:3371/udp/239.195.0.26:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Russia Today HD
-http://109.248.69.126:4022/udp/239.195.0.27:1234
+http://109.248.87.13:3371/udp/239.195.0.27:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Просвещение
-http://109.248.69.126:4022/udp/239.195.0.28:1234
+http://109.248.87.13:3371/udp/239.195.0.28:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Союз
-http://109.248.69.126:4022/udp/239.195.0.29:1234
+http://109.248.87.13:3371/udp/239.195.0.29:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Тбн
-http://109.248.69.126:4022/udp/239.195.0.30:1234
+http://109.248.87.13:3371/udp/239.195.0.30:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Bridge TV
-http://109.248.69.126:4022/udp/239.195.0.36:1234
+http://109.248.87.13:3371/udp/239.195.0.36:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Ю ТВ
-http://109.248.69.126:4022/udp/239.195.0.37:1234
+http://109.248.87.13:3371/udp/239.195.0.37:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",ТНТ Music
-http://109.248.69.126:4022/udp/239.195.0.39:1234
+http://109.248.87.13:3371/udp/239.195.0.39:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Шансон ТВ
-http://109.248.69.126:4022/udp/239.195.0.41:1234
+http://109.248.87.13:3371/udp/239.195.0.41:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Ru TV
-http://109.248.69.126:4022/udp/239.195.0.43:1234
+http://109.248.87.13:3371/udp/239.195.0.43:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",ТНТ +4
-http://109.248.69.126:4022/udp/239.195.0.44:1234
+http://109.248.87.13:3371/udp/239.195.0.44:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",World Fashion
-http://109.248.69.126:4022/udp/239.195.0.47:1234
+http://109.248.87.13:3371/udp/239.195.0.47:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",47 Канал
-http://109.248.69.126:4022/udp/239.195.0.49:1234
+http://109.248.87.13:3371/udp/239.195.0.49:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",France 24
-http://109.248.69.126:4022/udp/239.195.0.50:1234
+http://109.248.87.13:3371/udp/239.195.0.50:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Deutche Welle
-http://109.248.69.126:4022/udp/239.195.0.51:1234
+http://109.248.87.13:3371/udp/239.195.0.51:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Sony
-http://109.248.69.126:4022/udp/239.195.0.53:1234
+http://109.248.87.13:3371/udp/239.195.0.53:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",TV5monde
-http://109.248.69.126:4022/udp/239.195.0.56:1234
+http://109.248.87.13:3371/udp/239.195.0.56:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Крым 24
-http://109.248.69.126:4022/udp/239.195.0.58:1234
+http://109.248.87.13:3371/udp/239.195.0.58:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Globalstar
-http://109.248.69.126:4022/udp/239.195.0.60:1234
+http://109.248.87.13:3371/udp/239.195.0.60:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Sony Sci-Fi
-http://109.248.69.126:4022/udp/239.195.0.61:1234
+http://109.248.87.13:3371/udp/239.195.0.61:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",L!Fe78
-http://109.248.69.126:4022/udp/239.195.0.70:1234
+http://109.248.87.13:3371/udp/239.195.0.70:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Europa Plus TV
-http://109.248.69.126:4022/udp/239.195.0.71:1234
+http://109.248.87.13:3371/udp/239.195.0.71:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",English Club TV
-http://109.248.69.126:4022/udp/239.195.0.73:1234
+http://109.248.87.13:3371/udp/239.195.0.73:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Радость Моя
-http://109.248.69.126:4022/udp/239.195.0.74:1234
+http://109.248.87.13:3371/udp/239.195.0.74:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",8 Канал
-http://109.248.69.126:4022/udp/239.195.0.81:1234
+http://109.248.87.13:3371/udp/239.195.0.81:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Arirang World
-http://109.248.69.126:4022/udp/239.195.0.83:1234
+http://109.248.87.13:3371/udp/239.195.0.83:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Sony Turbo
-http://109.248.69.126:4022/udp/239.195.0.84:1234
+http://109.248.87.13:3371/udp/239.195.0.84:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Асв ТВ
-http://109.248.69.126:4022/udp/239.195.0.85:1234
+http://109.248.87.13:3371/udp/239.195.0.85:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Мир 24
-http://109.248.69.126:4022/udp/239.195.0.86:1234
+http://109.248.87.13:3371/udp/239.195.0.86:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Кубань 24
-http://109.248.69.126:4022/udp/239.195.0.89:1234
+http://109.248.87.13:3371/udp/239.195.0.89:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Кубань 24
-http://109.248.69.126:4022/udp/239.195.0.90:1234
+http://109.248.87.13:3371/udp/239.195.0.90:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Санкт-Петербург
-http://109.248.69.126:4022/udp/239.195.0.91:1234
+http://109.248.87.13:3371/udp/239.195.0.91:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Вместе РФ
-http://109.248.69.126:4022/udp/239.195.0.93:1234
+http://109.248.87.13:3371/udp/239.195.0.93:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Москва 24
-http://109.248.69.126:4022/udp/239.195.0.94:1234
+http://109.248.87.13:3371/udp/239.195.0.94:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Москва Доверие
-http://109.248.69.126:4022/udp/239.195.0.95:1234
+http://109.248.87.13:3371/udp/239.195.0.95:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",СТС Love
-http://109.248.69.126:4022/udp/239.195.0.96:1234
+http://109.248.87.13:3371/udp/239.195.0.96:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",О ТВ
-http://109.248.69.126:4022/udp/239.195.0.98:1234
+http://109.248.87.13:3371/udp/239.195.0.98:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Nhk World
-http://109.248.69.126:4022/udp/239.195.0.104:1234
+http://109.248.87.13:3371/udp/239.195.0.104:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Ваш Успех
-http://109.248.69.126:4022/udp/239.195.0.111:1234
+http://109.248.87.13:3371/udp/239.195.0.111:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Калейдоскоп ТВ
-http://109.248.69.126:4022/udp/239.195.0.120:1234
+http://109.248.87.13:3371/udp/239.195.0.120:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",7 TV
-http://109.248.69.126:4022/udp/239.195.0.133:1234
+http://109.248.87.13:3371/udp/239.195.0.133:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Курай ТВ
-http://109.248.69.126:4022/udp/239.195.0.143:1234
+http://109.248.87.13:3371/udp/239.195.0.143:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",ТВой Дом
-http://109.248.69.126:4022/udp/239.195.0.145:1234
+http://109.248.87.13:3371/udp/239.195.0.145:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",МинистерсТВо Идей
-http://109.248.69.126:4022/udp/239.195.0.146:1234
+http://109.248.87.13:3371/udp/239.195.0.146:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Maidan TV
-http://109.248.69.126:4022/udp/239.195.0.147:1234
+http://109.248.87.13:3371/udp/239.195.0.147:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Vostok TV
-http://109.248.69.126:4022/udp/239.195.0.157:1234
+http://109.248.87.13:3371/udp/239.195.0.157:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Открытый Мир
-http://109.248.69.126:4022/udp/239.195.0.158:1234
+http://109.248.87.13:3371/udp/239.195.0.158:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Крик ТВ
-http://109.248.69.126:4022/udp/239.195.0.169:1234
+http://109.248.87.13:3371/udp/239.195.0.169:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Пробизнес
-http://109.248.69.126:4022/udp/239.195.0.170:1234
+http://109.248.87.13:3371/udp/239.195.0.170:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Первый Образовательный
-http://109.248.69.126:4022/udp/239.195.0.175:1234
+http://109.248.87.13:3371/udp/239.195.0.175:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Russia Today
-http://109.248.69.126:4022/udp/239.195.0.186:1234
+http://109.248.87.13:3371/udp/239.195.0.186:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Архыз 24
-http://109.248.69.126:4022/udp/239.195.0.188:1234
+http://109.248.87.13:3371/udp/239.195.0.188:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Три Ангела
-http://109.248.69.126:4022/udp/239.195.0.191:1234
+http://109.248.87.13:3371/udp/239.195.0.191:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Телеканал 360 HD
-http://109.248.69.126:4022/udp/239.195.0.192:1234
+http://109.248.87.13:3371/udp/239.195.0.192:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",БСТ
-http://109.248.69.126:4022/udp/239.195.0.194:1234
+http://109.248.87.13:3371/udp/239.195.0.194:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Deutche Welle
-http://109.248.69.126:4022/udp/239.195.0.198:1234
+http://109.248.87.13:3371/udp/239.195.0.198:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Extreme SpoRussia Todays
-http://109.248.69.126:4022/udp/239.195.1.6:1234
+http://109.248.87.13:3371/udp/239.195.1.6:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",JimJam
-http://109.248.69.126:4022/udp/239.195.1.8:1234
+http://109.248.87.13:3371/udp/239.195.1.8:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Смайлик ТВ
-http://109.248.69.126:4022/udp/239.195.1.11:1234
+http://109.248.87.13:3371/udp/239.195.1.11:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Индия ТВ
-http://109.248.69.126:4022/udp/239.195.1.12:1234
+http://109.248.87.13:3371/udp/239.195.1.12:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Первый Канал
-http://109.248.69.126:4022/udp/239.195.1.13:1234
+http://109.248.87.13:3371/udp/239.195.1.13:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Cbs Reality
-http://109.248.69.126:4022/udp/239.195.1.14:1234
+http://109.248.87.13:3371/udp/239.195.1.14:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Детский
-http://109.248.69.126:4022/udp/239.195.1.15:1234
+http://109.248.87.13:3371/udp/239.195.1.15:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",RTG TV
-http://109.248.69.126:4022/udp/239.195.1.16:1234
+http://109.248.87.13:3371/udp/239.195.1.16:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Русский Иллюзион
-http://109.248.69.126:4022/udp/239.195.1.18:1234
+http://109.248.87.13:3371/udp/239.195.1.18:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Иллюзион+
-http://109.248.69.126:4022/udp/239.195.1.19:1234
+http://109.248.87.13:3371/udp/239.195.1.19:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Бокс ТВ
-http://109.248.69.126:4022/udp/239.195.1.21:1234
+http://109.248.87.13:3371/udp/239.195.1.21:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Travel+ Adventure
-http://109.248.69.126:4022/udp/239.195.1.23:1234
+http://109.248.87.13:3371/udp/239.195.1.23:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Зоопарк
-http://109.248.69.126:4022/udp/239.195.1.24:1234
+http://109.248.87.13:3371/udp/239.195.1.24:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Детский Мир
-http://109.248.69.126:4022/udp/239.195.1.25:1234
+http://109.248.87.13:3371/udp/239.195.1.25:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Авто Плюс
-http://109.248.69.126:4022/udp/239.195.1.26:1234
+http://109.248.87.13:3371/udp/239.195.1.26:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Trick
-http://109.248.69.126:4022/udp/239.195.1.27:1234
+http://109.248.87.13:3371/udp/239.195.1.27:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Любимое Кино
-http://109.248.69.126:4022/udp/239.195.1.31:1234
+http://109.248.87.13:3371/udp/239.195.1.31:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Мир Сериала
-http://109.248.69.126:4022/udp/239.195.1.32:1234
+http://109.248.87.13:3371/udp/239.195.1.32:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Малыш ТВ
-http://109.248.69.126:4022/udp/239.195.1.33:1234
+http://109.248.87.13:3371/udp/239.195.1.33:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Киномикс
-http://109.248.69.126:4022/udp/239.195.1.35:1234
+http://109.248.87.13:3371/udp/239.195.1.35:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Еврокино
-http://109.248.69.126:4022/udp/239.195.1.36:1234
+http://109.248.87.13:3371/udp/239.195.1.36:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Nickelodeon
-http://109.248.69.126:4022/udp/239.195.1.38:1234
+http://109.248.87.13:3371/udp/239.195.1.38:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Ля Минор
-http://109.248.69.126:4022/udp/239.195.1.39:1234
+http://109.248.87.13:3371/udp/239.195.1.39:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Комедия
-http://109.248.69.126:4022/udp/239.195.1.40:1234
+http://109.248.87.13:3371/udp/239.195.1.40:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",History
-http://109.248.69.126:4022/udp/239.195.1.42:1234
+http://109.248.87.13:3371/udp/239.195.1.42:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Телеканал Футбол
-http://109.248.69.126:4022/udp/239.195.1.45:1234
+http://109.248.87.13:3371/udp/239.195.1.45:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Bridge TV Русский Хит
-http://109.248.69.126:4022/udp/239.195.1.46:1234
+http://109.248.87.13:3371/udp/239.195.1.46:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Game Show
-http://109.248.69.126:4022/udp/239.195.1.48:1234
+http://109.248.87.13:3371/udp/239.195.1.48:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Nickjr
-http://109.248.69.126:4022/udp/239.195.1.49:1234
+http://109.248.87.13:3371/udp/239.195.1.49:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Bridge TV Dance
-http://109.248.69.126:4022/udp/239.195.1.50:1234
+http://109.248.87.13:3371/udp/239.195.1.50:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",TiJi
-http://109.248.69.126:4022/udp/239.195.1.51:1234
+http://109.248.87.13:3371/udp/239.195.1.51:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",ТНВ
-http://109.248.69.126:4022/udp/239.195.1.54:1234
+http://109.248.87.13:3371/udp/239.195.1.54:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Zee TV
-http://109.248.69.126:4022/udp/239.195.1.61:1234
+http://109.248.87.13:3371/udp/239.195.1.61:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Киносерия
-http://109.248.69.126:4022/udp/239.195.1.64:1234
+http://109.248.87.13:3371/udp/239.195.1.64:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",365 Дней
-http://109.248.69.126:4022/udp/239.195.1.65:1234
+http://109.248.87.13:3371/udp/239.195.1.65:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Жара
-http://109.248.69.126:4022/udp/239.195.1.66:1234
+http://109.248.87.13:3371/udp/239.195.1.66:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Матч! Боец
-http://109.248.69.126:4022/udp/239.195.1.67:1234
+http://109.248.87.13:3371/udp/239.195.1.67:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Матч! Арена
-http://109.248.69.126:4022/udp/239.195.1.68:1234
+http://109.248.87.13:3371/udp/239.195.1.68:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Матч! Игра
-http://109.248.69.126:4022/udp/239.195.1.69:1234
+http://109.248.87.13:3371/udp/239.195.1.69:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Матч! Наш Спорт
-http://109.248.69.126:4022/udp/239.195.1.71:1234
+http://109.248.87.13:3371/udp/239.195.1.71:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Кто Есть Кто
-http://109.248.69.126:4022/udp/239.195.1.72:1234
+http://109.248.87.13:3371/udp/239.195.1.72:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",КХЛ
-http://109.248.69.126:4022/udp/239.195.1.73:1234
+http://109.248.87.13:3371/udp/239.195.1.73:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Мультимания
-http://109.248.69.126:4022/udp/239.195.1.74:1234
+http://109.248.87.13:3371/udp/239.195.1.74:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Мужской
-http://109.248.69.126:4022/udp/239.195.1.77:1234
+http://109.248.87.13:3371/udp/239.195.1.77:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Загородная Жизнь
-http://109.248.69.126:4022/udp/239.195.1.78:1234
+http://109.248.87.13:3371/udp/239.195.1.78:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Outdoor Channel
-http://109.248.69.126:4022/udp/239.195.1.81:1234
+http://109.248.87.13:3371/udp/239.195.1.81:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Матур ТВ HD
-http://109.248.69.126:4022/udp/239.195.1.87:1234
+http://109.248.87.13:3371/udp/239.195.1.87:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Ностальгия
-http://109.248.69.126:4022/udp/239.195.1.102:1234
+http://109.248.87.13:3371/udp/239.195.1.102:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",А
-http://109.248.69.126:4022/udp/239.195.1.106:1234
+http://109.248.87.13:3371/udp/239.195.1.106:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",КВН
-http://109.248.69.126:4022/udp/239.195.1.107:1234
+http://109.248.87.13:3371/udp/239.195.1.107:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Конный Мир
-http://109.248.69.126:4022/udp/239.195.1.109:1234
+http://109.248.87.13:3371/udp/239.195.1.109:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Nhk World
-http://109.248.69.126:4022/udp/239.195.1.110:1234
+http://109.248.87.13:3371/udp/239.195.1.110:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Luxury World
-http://109.248.69.126:4022/udp/239.195.1.112:1234
+http://109.248.87.13:3371/udp/239.195.1.112:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Раз ТВ
-http://109.248.69.126:4022/udp/239.195.1.113:1234
+http://109.248.87.13:3371/udp/239.195.1.113:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Родное Кино
-http://109.248.69.126:4022/udp/239.195.1.114:1234
+http://109.248.87.13:3371/udp/239.195.1.114:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Пингвин Лоло
-http://109.248.69.126:4022/udp/239.195.1.118:1234
+http://109.248.87.13:3371/udp/239.195.1.118:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Жар Птица HD
-http://109.248.69.126:4022/udp/239.195.1.125:1234
+http://109.248.87.13:3371/udp/239.195.1.125:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Егэ ТВ
-http://109.248.69.126:4022/udp/239.195.1.128:1234
+http://109.248.87.13:3371/udp/239.195.1.128:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Наше Новое Кино
-http://109.248.69.126:4022/udp/239.195.1.131:1234
+http://109.248.87.13:3371/udp/239.195.1.131:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Совершенно Секретно
-http://109.248.69.126:4022/udp/239.195.1.132:1234
+http://109.248.87.13:3371/udp/239.195.1.132:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Paramount Comedy
-http://109.248.69.126:4022/udp/239.195.1.136:1234
+http://109.248.87.13:3371/udp/239.195.1.136:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Пёс И Ко
-http://109.248.69.126:4022/udp/239.195.1.150:1234
+http://109.248.87.13:3371/udp/239.195.1.150:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Music Box Gold
-http://109.248.69.126:4022/udp/239.195.1.155:1234
+http://109.248.87.13:3371/udp/239.195.1.155:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Russian Music Box
-http://109.248.69.126:4022/udp/239.195.1.156:1234
+http://109.248.87.13:3371/udp/239.195.1.156:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",O!2
-http://109.248.69.126:4022/udp/239.195.1.162:1234
+http://109.248.87.13:3371/udp/239.195.1.162:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Кухня ТВ
-http://109.248.69.126:4022/udp/239.195.1.163:1234
+http://109.248.87.13:3371/udp/239.195.1.163:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",TVM Channel
-http://109.248.69.126:4022/udp/239.195.1.168:1234
+http://109.248.87.13:3371/udp/239.195.1.168:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Юмор
-http://109.248.69.126:4022/udp/239.195.1.182:1234
+http://109.248.87.13:3371/udp/239.195.1.182:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",ТНВ Планета
-http://109.248.69.126:4022/udp/239.195.1.185:1234
+http://109.248.87.13:3371/udp/239.195.1.185:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Bridge TV Classic
-http://109.248.69.126:4022/udp/239.195.1.193:1234
+http://109.248.87.13:3371/udp/239.195.1.193:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Ocean TV
-http://109.248.69.126:4022/udp/239.195.1.195:1234
+http://109.248.87.13:3371/udp/239.195.1.195:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Живи!
-http://109.248.69.126:4022/udp/239.195.1.196:1234
+http://109.248.87.13:3371/udp/239.195.1.196:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Kbs World HD
-http://109.248.69.126:4022/udp/239.195.1.197:1234
+http://109.248.87.13:3371/udp/239.195.1.197:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Стрк
-http://109.248.69.126:4022/udp/239.195.1.230:1234
+http://109.248.87.13:3371/udp/239.195.1.230:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Travel+ Adventure HD
-http://109.248.69.126:4022/udp/239.195.5.4:1234
+http://109.248.87.13:3371/udp/239.195.5.4:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Мир HD
-http://109.248.69.126:4022/udp/239.195.5.10:1234
+http://109.248.87.13:3371/udp/239.195.5.10:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",ТВой Дом HD
-http://109.248.69.126:4022/udp/239.195.5.11:1234
+http://109.248.87.13:3371/udp/239.195.5.11:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",КХЛ HD
-http://109.248.69.126:4022/udp/239.195.5.12:1234
+http://109.248.87.13:3371/udp/239.195.5.12:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",HD Life
-http://109.248.69.126:4022/udp/239.195.5.13:1234
+http://109.248.87.13:3371/udp/239.195.5.13:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Еда HD
-http://109.248.69.126:4022/udp/239.195.5.14:1234
+http://109.248.87.13:3371/udp/239.195.5.14:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Россия 1 HD
-http://109.248.69.126:4022/udp/239.195.5.17:1234
+http://109.248.87.13:3371/udp/239.195.5.17:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Первый Канал HD
-http://109.248.69.126:4022/udp/239.195.5.18:1234
+http://109.248.87.13:3371/udp/239.195.5.18:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",RTG TV HD
-http://109.248.69.126:4022/udp/239.195.5.19:1234
+http://109.248.87.13:3371/udp/239.195.5.19:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Russia Today Д HD
-http://109.248.69.126:4022/udp/239.195.5.20:1234
+http://109.248.87.13:3371/udp/239.195.5.20:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",HD Media
-http://109.248.69.126:4022/udp/239.195.5.21:1234
+http://109.248.87.13:3371/udp/239.195.5.21:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Теледом HD
-http://109.248.69.126:4022/udp/239.195.5.38:1234
+http://109.248.87.13:3371/udp/239.195.5.38:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Матч! Арена HD
-http://109.248.69.126:4022/udp/239.195.5.203:1234
+http://109.248.87.13:3371/udp/239.195.5.203:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Матч! Игра HD
-http://109.248.69.126:4022/udp/239.195.5.204:1234
+http://109.248.87.13:3371/udp/239.195.5.204:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Ржд ТВ HD
-http://109.248.69.126:4022/udp/239.195.5.221:1234
+http://109.248.87.13:3371/udp/239.195.5.221:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Жар Птица HD
-http://109.248.69.126:4022/udp/239.195.5.229:1234
+http://109.248.87.13:3371/udp/239.195.5.229:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",ЛДПР ТВ
-http://109.248.69.126:4022/udp/239.195.41.1:1234
+http://109.248.87.13:3371/udp/239.195.41.1:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Красная Линия
-http://109.248.69.126:4022/udp/239.195.41.2:1234
+http://109.248.87.13:3371/udp/239.195.41.2:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",ТРО
-http://109.248.69.126:4022/udp/239.195.41.3:1234
+http://109.248.87.13:3371/udp/239.195.41.3:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Дон 24
-http://109.248.69.126:4022/udp/239.195.41.17:1234
+http://109.248.87.13:3371/udp/239.195.41.17:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Астрахань 24 HD
-http://109.248.69.126:4022/udp/239.195.41.21:1234
+http://109.248.87.13:3371/udp/239.195.41.21:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",От И До
-http://109.248.69.126:4022/udp/239.195.41.25:1234
+http://109.248.87.13:3371/udp/239.195.41.25:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Югра
-http://109.248.69.126:4022/udp/239.195.41.32:1234
+http://109.248.87.13:3371/udp/239.195.41.32:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Губерния
-http://109.248.69.126:4022/udp/239.195.41.33:1234
+http://109.248.87.13:3371/udp/239.195.41.33:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Губерния 33
-http://109.248.69.126:4022/udp/239.195.41.35:1234
+http://109.248.87.13:3371/udp/239.195.41.35:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Липецкое Время
-http://109.248.69.126:4022/udp/239.195.41.36:1234
+http://109.248.87.13:3371/udp/239.195.41.36:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",ОТВ
-http://109.248.69.126:4022/udp/239.195.41.38:1234
+http://109.248.87.13:3371/udp/239.195.41.38:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Своё ТВ HD
-http://109.248.69.126:4022/udp/239.195.41.39:1234
+http://109.248.87.13:3371/udp/239.195.41.39:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Россия 24
-http://109.248.69.126:4022/udp/239.195.41.40:1234
+http://109.248.87.13:3371/udp/239.195.41.40:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Дагестан
-http://109.248.69.126:4022/udp/239.195.41.41:1234
+http://109.248.87.13:3371/udp/239.195.41.41:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",8 Канал
-http://109.248.69.126:4022/udp/239.195.41.45:1234
+http://109.248.87.13:3371/udp/239.195.41.45:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Енисей
-http://109.248.69.126:4022/udp/239.195.41.46:1234
+http://109.248.87.13:3371/udp/239.195.41.46:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Афонтово
-http://109.248.69.126:4022/udp/239.195.41.47:1234
+http://109.248.87.13:3371/udp/239.195.41.47:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",НТ
-http://109.248.69.126:4022/udp/239.195.41.48:1234
+http://109.248.87.13:3371/udp/239.195.41.48:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Россия 1
-http://109.248.69.126:4022/udp/239.195.41.49:1234
+http://109.248.87.13:3371/udp/239.195.41.49:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Томское Время HD
-http://109.248.69.126:4022/udp/239.195.41.155:1234
+http://109.248.87.13:3371/udp/239.195.41.155:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Ника ТВ
-http://109.248.69.126:4022/udp/239.195.41.156:1234
+http://109.248.87.13:3371/udp/239.195.41.156:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",УРФО 24 HD
-http://109.248.69.126:4022/udp/239.195.41.161:1234
+http://109.248.87.13:3371/udp/239.195.41.161:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",ОТС
-http://109.248.69.126:4022/udp/239.195.41.165:1234
+http://109.248.87.13:3371/udp/239.195.41.165:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Vetta HD
-http://109.248.69.126:4022/udp/239.195.41.166:1234
+http://109.248.87.13:3371/udp/239.195.41.166:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",12 Региональный
-http://109.248.69.126:4022/udp/239.195.41.173:1234
+http://109.248.87.13:3371/udp/239.195.41.173:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",А
-http://109.248.69.126:4022/udp/239.195.41.207:1234
+http://109.248.87.13:3371/udp/239.195.41.207:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Регион ТВерской Проект
-http://109.248.69.126:4022/udp/239.195.41.208:1234
+http://109.248.87.13:3371/udp/239.195.41.208:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Саратов 24
-http://109.248.69.126:4022/udp/239.195.41.210:1234
+http://109.248.87.13:3371/udp/239.195.41.210:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Волгоград 24
-http://109.248.69.126:4022/udp/239.195.41.216:1234
+http://109.248.87.13:3371/udp/239.195.41.216:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Тюменское Время
-http://109.248.69.126:4022/udp/239.195.41.218:1234
+http://109.248.87.13:3371/udp/239.195.41.218:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",ОТВ
-http://109.248.69.126:4022/udp/239.195.41.219:1234
+http://109.248.87.13:3371/udp/239.195.41.219:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Север
-http://109.248.69.126:4022/udp/239.195.41.220:1234
+http://109.248.87.13:3371/udp/239.195.41.220:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",ТКР
-http://109.248.69.126:4022/udp/239.195.41.224:1234
+http://109.248.87.13:3371/udp/239.195.41.224:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",К24
-http://109.248.69.126:4022/udp/239.195.41.225:1234
+http://109.248.87.13:3371/udp/239.195.41.225:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Грозный
-http://109.248.69.126:4022/udp/239.195.41.227:1234
+http://109.248.87.13:3371/udp/239.195.41.227:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Экспресс
-http://109.248.69.126:4022/udp/239.195.41.228:1234
+http://109.248.87.13:3371/udp/239.195.41.228:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Мир Белегорья
-http://109.248.69.126:4022/udp/239.195.41.229:1234
+http://109.248.87.13:3371/udp/239.195.41.229:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Нтк Ингушетия
-http://109.248.69.126:4022/udp/239.195.41.230:1234
+http://109.248.87.13:3371/udp/239.195.41.230:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Регион 29
-http://109.248.69.126:4022/udp/239.195.41.250:1234
+http://109.248.87.13:3371/udp/239.195.41.250:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Орт
-http://109.248.69.126:4022/udp/239.195.41.253:1234
+http://109.248.87.13:3371/udp/239.195.41.253:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Моя Удмуртия
-http://109.248.69.126:4022/udp/239.195.41.254:1234
+http://109.248.87.13:3371/udp/239.195.41.254:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Первый Канал
-http://109.248.69.126:4022/udp/239.195.52.1:1234
+http://109.248.87.13:3371/udp/239.195.52.1:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Россия 1
-http://109.248.69.126:4022/udp/239.195.52.2:1234
+http://109.248.87.13:3371/udp/239.195.52.2:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Матч!
-http://109.248.69.126:4022/udp/239.195.52.3:1234
+http://109.248.87.13:3371/udp/239.195.52.3:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Россия 24
-http://109.248.69.126:4022/udp/239.195.52.4:1234
+http://109.248.87.13:3371/udp/239.195.52.4:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Россия К
-http://109.248.69.126:4022/udp/239.195.52.5:1234
+http://109.248.87.13:3371/udp/239.195.52.5:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",НТВ
-http://109.248.69.126:4022/udp/239.195.52.7:1234
+http://109.248.87.13:3371/udp/239.195.52.7:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",СТС
-http://109.248.69.126:4022/udp/239.195.54.8:1234
+http://109.248.87.13:3371/udp/239.195.54.8:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Домашний
-http://109.248.69.126:4022/udp/239.195.52.10:1234
+http://109.248.87.13:3371/udp/239.195.52.10:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",ТНТ
-http://109.248.69.126:4022/udp/239.195.52.11:1234
+http://109.248.87.13:3371/udp/239.195.52.11:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",ТВЦ
-http://109.248.69.126:4022/udp/239.195.52.12:1234
+http://109.248.87.13:3371/udp/239.195.52.12:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Мир
-http://109.248.69.126:4022/udp/239.195.52.13:1234
+http://109.248.87.13:3371/udp/239.195.52.13:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Пятый Канал
-http://109.248.69.126:4022/udp/239.195.52.14:1234
+http://109.248.87.13:3371/udp/239.195.52.14:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",ТВ3
-http://109.248.69.126:4022/udp/239.195.52.15:1234
+http://109.248.87.13:3371/udp/239.195.52.15:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Звезда
-http://109.248.69.126:4022/udp/239.195.52.17:1234
+http://109.248.87.13:3371/udp/239.195.52.17:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Рен ТВ
-http://109.248.69.126:4022/udp/239.195.52.18:1234
+http://109.248.87.13:3371/udp/239.195.52.18:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",ОТР
-http://109.248.69.126:4022/udp/239.195.52.19:1234
+http://109.248.87.13:3371/udp/239.195.52.19:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Карусель
-http://109.248.69.126:4022/udp/239.195.52.20:1234
+http://109.248.87.13:3371/udp/239.195.52.20:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Пятница
-http://109.248.69.126:4022/udp/239.195.52.32:1234
+http://109.248.87.13:3371/udp/239.195.52.32:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Муз ТВ
-http://109.248.69.126:4022/udp/239.195.52.54:1234
+http://109.248.87.13:3371/udp/239.195.52.54:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Спас
-http://109.248.69.126:4022/udp/239.195.52.62:1234
+http://109.248.87.13:3371/udp/239.195.52.62:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Первый Канал
-http://109.248.69.126:4022/udp/239.195.54.1:1234
+http://109.248.87.13:3371/udp/239.195.54.1:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Россия 1
-http://109.248.69.126:4022/udp/239.195.54.2:1234
+http://109.248.87.13:3371/udp/239.195.54.2:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Матч!
-http://109.248.69.126:4022/udp/239.195.54.3:1234
+http://109.248.87.13:3371/udp/239.195.54.3:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Россия 24
-http://109.248.69.126:4022/udp/239.195.54.4:1234
+http://109.248.87.13:3371/udp/239.195.54.4:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Россия К
-http://109.248.69.126:4022/udp/239.195.54.5:1234
+http://109.248.87.13:3371/udp/239.195.54.5:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",НТВ
-http://109.248.69.126:4022/udp/239.195.54.7:1234
+http://109.248.87.13:3371/udp/239.195.54.7:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",СТС
-http://109.248.69.126:4022/udp/239.195.54.8:1234
+http://109.248.87.13:3371/udp/239.195.54.8:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Домашний
-http://109.248.69.126:4022/udp/239.195.54.10:1234
+http://109.248.87.13:3371/udp/239.195.54.10:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",ТНТ
-http://109.248.69.126:4022/udp/239.195.54.11:1234
+http://109.248.87.13:3371/udp/239.195.54.11:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",ТВЦ
-http://109.248.69.126:4022/udp/239.195.54.12:1234
+http://109.248.87.13:3371/udp/239.195.54.12:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Мир
-http://109.248.69.126:4022/udp/239.195.54.13:1234
+http://109.248.87.13:3371/udp/239.195.54.13:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Пятый Канал
-http://109.248.69.126:4022/udp/239.195.54.14:1234
+http://109.248.87.13:3371/udp/239.195.54.14:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",ТВ3
-http://109.248.69.126:4022/udp/239.195.54.15:1234
+http://109.248.87.13:3371/udp/239.195.54.15:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Звезда
-http://109.248.69.126:4022/udp/239.195.54.17:1234
+http://109.248.87.13:3371/udp/239.195.54.17:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Рен ТВ
-http://109.248.69.126:4022/udp/239.195.54.18:1234
+http://109.248.87.13:3371/udp/239.195.54.18:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",ОТР
-http://109.248.69.126:4022/udp/239.195.54.19:1234
+http://109.248.87.13:3371/udp/239.195.54.19:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Карусель
-http://109.248.69.126:4022/udp/239.195.54.20:1234
+http://109.248.87.13:3371/udp/239.195.54.20:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Пятница
-http://109.248.69.126:4022/udp/239.195.54.32:1234
+http://109.248.87.13:3371/udp/239.195.54.32:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Муз ТВ
-http://109.248.69.126:4022/udp/239.195.54.54:1234
+http://109.248.87.13:3371/udp/239.195.54.54:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Спас
-http://109.248.69.126:4022/udp/239.195.54.62:1234
+http://109.248.87.13:3371/udp/239.195.54.62:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Первый Канал
-http://109.248.69.126:4022/udp/239.195.57.1:1234
+http://109.248.87.13:3371/udp/239.195.57.1:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Россия 1
-http://109.248.69.126:4022/udp/239.195.57.2:1234
+http://109.248.87.13:3371/udp/239.195.57.2:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Матч!
-http://109.248.69.126:4022/udp/239.195.57.3:1234
+http://109.248.87.13:3371/udp/239.195.57.3:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Россия 24
-http://109.248.69.126:4022/udp/239.195.57.4:1234
+http://109.248.87.13:3371/udp/239.195.57.4:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Россия К
-http://109.248.69.126:4022/udp/239.195.57.5:1234
+http://109.248.87.13:3371/udp/239.195.57.5:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",НТВ
-http://109.248.69.126:4022/udp/239.195.57.7:1234
+http://109.248.87.13:3371/udp/239.195.57.7:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",СТС
-http://109.248.69.126:4022/udp/239.195.57.8:1234
+http://109.248.87.13:3371/udp/239.195.57.8:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Домашний
-http://109.248.69.126:4022/udp/239.195.57.10:1234
+http://109.248.87.13:3371/udp/239.195.57.10:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",ТНТ
-http://109.248.69.126:4022/udp/239.195.57.11:1234
+http://109.248.87.13:3371/udp/239.195.57.11:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",ТВЦ
-http://109.248.69.126:4022/udp/239.195.57.12:1234
+http://109.248.87.13:3371/udp/239.195.57.12:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Мир
-http://109.248.69.126:4022/udp/239.195.57.13:1234
+http://109.248.87.13:3371/udp/239.195.57.13:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Пятый Канал
-http://109.248.69.126:4022/udp/239.195.57.14:1234
+http://109.248.87.13:3371/udp/239.195.57.14:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",ТВ3
-http://109.248.69.126:4022/udp/239.195.57.15:1234
+http://109.248.87.13:3371/udp/239.195.57.15:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Звезда
-http://109.248.69.126:4022/udp/239.195.57.17:1234
+http://109.248.87.13:3371/udp/239.195.57.17:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Рен ТВ
-http://109.248.69.126:4022/udp/239.195.57.18:1234
+http://109.248.87.13:3371/udp/239.195.57.18:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",ОТР
-http://109.248.69.126:4022/udp/239.195.57.19:1234
+http://109.248.87.13:3371/udp/239.195.57.19:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Карусель
-http://109.248.69.126:4022/udp/239.195.57.20:1234
+http://109.248.87.13:3371/udp/239.195.57.20:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Пятница
-http://109.248.69.126:4022/udp/239.195.57.32:1234
+http://109.248.87.13:3371/udp/239.195.57.32:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Муз ТВ
-http://109.248.69.126:4022/udp/239.195.57.54:1234
+http://109.248.87.13:3371/udp/239.195.57.54:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Спас
-http://109.248.69.126:4022/udp/239.195.57.62:1234
+http://109.248.87.13:3371/udp/239.195.57.62:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Русская Ночь 18+
-http://109.248.69.126:4022/udp/239.195.2.3:1234
+http://109.248.87.13:3371/udp/239.195.2.3:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Brazzers TV Europe
-http://109.248.69.126:4022/udp/239.195.2.4:1234
+http://109.248.87.13:3371/udp/239.195.2.4:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="LAN_KIM",Playboy TV
-http://109.248.69.126:4022/udp/239.195.2.5:1234
+http://109.248.87.13:3371/udp/239.195.2.5:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",РБК
-http://37.193.136.31:81/udp/239.1.1.2:1234
+http://37.192.237.114:81/udp/239.1.1.2:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Мир 24
-http://37.193.136.31:81/udp/239.1.1.3:1234
+http://37.192.237.114:81/udp/239.1.1.3:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Евроновости
-http://37.193.136.31:81/udp/239.1.1.5:1234
+http://37.192.237.114:81/udp/239.1.1.5:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Мультимузыка
-http://37.193.136.31:81/udp/239.1.1.9:1234
+http://37.192.237.114:81/udp/239.1.1.9:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Академгородок
-http://37.193.136.31:81/udp/239.1.1.10:1234
+http://37.192.237.114:81/udp/239.1.1.10:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Горная Страна HD
-http://37.193.136.31:81/udp/239.1.1.28:1234
+http://37.192.237.114:81/udp/239.1.1.28:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",2x2
-http://37.193.136.31:81/udp/239.1.2.1:1234
+http://37.192.237.114:81/udp/239.1.2.1:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Успех
-http://37.193.136.31:81/udp/239.1.2.3:1234
+http://37.192.237.114:81/udp/239.1.2.3:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Драйв
-http://37.193.136.31:81/udp/239.1.2.4:1234
+http://37.192.237.114:81/udp/239.1.2.4:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Охота И Рыбалка
-http://37.193.136.31:81/udp/239.1.2.5:1234
+http://37.192.237.114:81/udp/239.1.2.5:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Авто Плюс
-http://37.193.136.31:81/udp/239.1.2.6:1234
+http://37.192.237.114:81/udp/239.1.2.6:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Оружие
-http://37.193.136.31:81/udp/239.1.2.7:1234
+http://37.192.237.114:81/udp/239.1.2.7:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Investigation Discovery
-http://37.193.136.31:81/udp/239.1.2.8:1234
+http://37.192.237.114:81/udp/239.1.2.8:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Психология 21
-http://37.193.136.31:81/udp/239.1.2.9:1234
+http://37.192.237.114:81/udp/239.1.2.9:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Сарафан
-http://37.193.136.31:81/udp/239.1.2.11:1234
+http://37.192.237.114:81/udp/239.1.2.11:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Живи!
-http://37.193.136.31:81/udp/239.1.2.12:1234
+http://37.192.237.114:81/udp/239.1.2.12:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Ностальгия
-http://37.193.136.31:81/udp/239.1.2.13:1234
+http://37.192.237.114:81/udp/239.1.2.13:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Кухня ТВ
-http://37.193.136.31:81/udp/239.1.2.15:1234
+http://37.192.237.114:81/udp/239.1.2.15:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",ТНТ4
-http://37.193.136.31:81/udp/239.1.2.16:1234
+http://37.192.237.114:81/udp/239.1.2.16:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Усадьба
-http://37.193.136.31:81/udp/239.1.2.17:1234
+http://37.192.237.114:81/udp/239.1.2.17:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Телекафе
-http://37.193.136.31:81/udp/239.1.2.18:1234
+http://37.192.237.114:81/udp/239.1.2.18:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Бобер
-http://37.193.136.31:81/udp/239.1.2.19:1234
+http://37.192.237.114:81/udp/239.1.2.19:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Мульт
-http://37.193.136.31:81/udp/239.1.3.1:1234
+http://37.192.237.114:81/udp/239.1.3.1:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",JimJam
-http://37.193.136.31:81/udp/239.1.3.2:1234
+http://37.192.237.114:81/udp/239.1.3.2:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",CaRussia Todayoon Network
-http://37.193.136.31:81/udp/239.1.3.3:1234
+http://37.192.237.114:81/udp/239.1.3.3:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Nickelodeon
-http://37.193.136.31:81/udp/239.1.3.4:1234
+http://37.192.237.114:81/udp/239.1.3.4:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Детский
-http://37.193.136.31:81/udp/239.1.3.5:1234
+http://37.192.237.114:81/udp/239.1.3.5:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",TiJi
-http://37.193.136.31:81/udp/239.1.3.6:1234
+http://37.192.237.114:81/udp/239.1.3.6:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Детский Мир
-http://37.193.136.31:81/udp/239.1.3.7:1234
+http://37.192.237.114:81/udp/239.1.3.7:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",СТС Love
-http://37.193.136.31:81/udp/239.1.3.8:1234
+http://37.192.237.114:81/udp/239.1.3.8:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Большая Азия
-http://37.193.136.31:81/udp/239.1.3.9:1234
+http://37.192.237.114:81/udp/239.1.3.9:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Fox Life
-http://37.193.136.31:81/udp/239.1.3.11:1234
+http://37.192.237.114:81/udp/239.1.3.11:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Мама
-http://37.193.136.31:81/udp/239.1.3.14:1234
+http://37.192.237.114:81/udp/239.1.3.14:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Индийское Кино
-http://37.193.136.31:81/udp/239.1.3.15:1234
+http://37.192.237.114:81/udp/239.1.3.15:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",TLC
-http://37.193.136.31:81/udp/239.1.3.16:1234
+http://37.192.237.114:81/udp/239.1.3.16:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Русский Роман
-http://37.193.136.31:81/udp/239.1.3.17:1234
+http://37.192.237.114:81/udp/239.1.3.17:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",TV XXI
-http://37.193.136.31:81/udp/239.1.4.1:1234
+http://37.192.237.114:81/udp/239.1.4.1:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Русский БеСТСеллер
-http://37.193.136.31:81/udp/239.1.4.2:1234
+http://37.192.237.114:81/udp/239.1.4.2:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Кинокомедия
-http://37.193.136.31:81/udp/239.1.4.3:1234
+http://37.192.237.114:81/udp/239.1.4.3:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",A-Media 1
-http://37.193.136.31:81/udp/239.1.4.4:1234
+http://37.192.237.114:81/udp/239.1.4.4:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Fox
-http://37.193.136.31:81/udp/239.1.4.5:1234
+http://37.192.237.114:81/udp/239.1.4.5:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Sony Channel
-http://37.193.136.31:81/udp/239.1.4.6:1234
+http://37.192.237.114:81/udp/239.1.4.6:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Sony Sci-Fi
-http://37.193.136.31:81/udp/239.1.4.7:1234
+http://37.192.237.114:81/udp/239.1.4.7:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Дом Кино
-http://37.193.136.31:81/udp/239.1.4.8:1234
+http://37.192.237.114:81/udp/239.1.4.8:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Русский Иллюзион
-http://37.193.136.31:81/udp/239.1.4.11:1234
+http://37.192.237.114:81/udp/239.1.4.11:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Кино ТВ
-http://37.193.136.31:81/udp/239.1.4.12:1234
+http://37.192.237.114:81/udp/239.1.4.12:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",НСТ
-http://37.193.136.31:81/udp/239.1.4.15:1234
+http://37.192.237.114:81/udp/239.1.4.15:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Русский Детектив
-http://37.193.136.31:81/udp/239.1.4.16:1234
+http://37.192.237.114:81/udp/239.1.4.16:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Discovery Премьера
-http://37.193.136.31:81/udp/239.1.5.1:1234
+http://37.192.237.114:81/udp/239.1.5.1:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",DTX
-http://37.193.136.31:81/udp/239.1.5.2:1234
+http://37.192.237.114:81/udp/239.1.5.2:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Animal Planet
-http://37.193.136.31:81/udp/239.1.5.3:1234
+http://37.192.237.114:81/udp/239.1.5.3:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Время
-http://37.193.136.31:81/udp/239.1.5.4:1234
+http://37.192.237.114:81/udp/239.1.5.4:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Da Vinci Kids
-http://37.193.136.31:81/udp/239.1.5.6:1234
+http://37.192.237.114:81/udp/239.1.5.6:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Travel+ Adventure
-http://37.193.136.31:81/udp/239.1.5.7:1234
+http://37.192.237.114:81/udp/239.1.5.7:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",National Geographic
-http://37.193.136.31:81/udp/239.1.5.8:1234
+http://37.192.237.114:81/udp/239.1.5.8:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Discovery Science
-http://37.193.136.31:81/udp/239.1.5.9:1234
+http://37.192.237.114:81/udp/239.1.5.9:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Техно-24
-http://37.193.136.31:81/udp/239.1.5.10:1234
+http://37.192.237.114:81/udp/239.1.5.10:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Первый Образовательный
-http://37.193.136.31:81/udp/239.1.5.11:1234
+http://37.192.237.114:81/udp/239.1.5.11:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",RTG
-http://37.193.136.31:81/udp/239.1.5.13:1234
+http://37.192.237.114:81/udp/239.1.5.13:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Nat Geo Wild
-http://37.193.136.31:81/udp/239.1.5.16:1234
+http://37.192.237.114:81/udp/239.1.5.16:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Моя Планета
-http://37.193.136.31:81/udp/239.1.5.17:1234
+http://37.192.237.114:81/udp/239.1.5.17:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Наука
-http://37.193.136.31:81/udp/239.1.5.18:1234
+http://37.192.237.114:81/udp/239.1.5.18:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",365 Дней
-http://37.193.136.31:81/udp/239.1.5.20:1234
+http://37.192.237.114:81/udp/239.1.5.20:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",История
-http://37.193.136.31:81/udp/239.1.5.21:1234
+http://37.192.237.114:81/udp/239.1.5.21:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Мир Увлечений
-http://37.193.136.31:81/udp/239.1.5.22:1234
+http://37.192.237.114:81/udp/239.1.5.22:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Живая Планета
-http://37.193.136.31:81/udp/239.1.5.23:1234
+http://37.192.237.114:81/udp/239.1.5.23:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Открытый Мир
-http://37.193.136.31:81/udp/239.1.5.24:1234
+http://37.192.237.114:81/udp/239.1.5.24:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",ТНТ Music
-http://37.193.136.31:81/udp/239.1.8.2:1234
+http://37.192.237.114:81/udp/239.1.8.2:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Ru TV
-http://37.193.136.31:81/udp/239.1.8.4:1234
+http://37.192.237.114:81/udp/239.1.8.4:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Music Box Ru
-http://37.193.136.31:81/udp/239.1.8.5:1234
+http://37.192.237.114:81/udp/239.1.8.5:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Music Box TV
-http://37.193.136.31:81/udp/239.1.8.6:1234
+http://37.192.237.114:81/udp/239.1.8.6:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Vh1 Classic
-http://37.193.136.31:81/udp/239.1.8.7:1234
+http://37.192.237.114:81/udp/239.1.8.7:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Bridge TV
-http://37.193.136.31:81/udp/239.1.8.8:1234
+http://37.192.237.114:81/udp/239.1.8.8:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Europa Plus TV
-http://37.193.136.31:81/udp/239.1.8.10:1234
+http://37.192.237.114:81/udp/239.1.8.10:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Шансон ТВ
-http://37.193.136.31:81/udp/239.1.8.12:1234
+http://37.192.237.114:81/udp/239.1.8.12:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Ля Минор
-http://37.193.136.31:81/udp/239.1.8.13:1234
+http://37.192.237.114:81/udp/239.1.8.13:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Bridge TV Русский Хит
-http://37.193.136.31:81/udp/239.1.8.14:1234
+http://37.192.237.114:81/udp/239.1.8.14:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",MTV Dance
-http://37.193.136.31:81/udp/239.1.8.15:1234
+http://37.192.237.114:81/udp/239.1.8.15:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Vh1 Europe
-http://37.193.136.31:81/udp/239.1.8.16:1234
+http://37.192.237.114:81/udp/239.1.8.16:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Bridge TV Dance
-http://37.193.136.31:81/udp/239.1.8.17:1234
+http://37.192.237.114:81/udp/239.1.8.17:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",HDl HD
-http://37.193.136.31:81/udp/239.1.9.2:1234
+http://37.192.237.114:81/udp/239.1.9.2:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Fox Life HD
-http://37.193.136.31:81/udp/239.1.9.3:1234
+http://37.192.237.114:81/udp/239.1.9.3:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Russia Today HD
-http://37.193.136.31:81/udp/239.1.9.4:1234
+http://37.192.237.114:81/udp/239.1.9.4:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Russia Today Doc HD
-http://37.193.136.31:81/udp/239.1.9.5:1234
+http://37.192.237.114:81/udp/239.1.9.5:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",1HD
-http://37.193.136.31:81/udp/239.1.9.6:1234
+http://37.192.237.114:81/udp/239.1.9.6:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Наша Сибирь HD
-http://37.193.136.31:81/udp/239.1.9.7:1234
+http://37.192.237.114:81/udp/239.1.9.7:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Mezzo Live HD
-http://37.193.136.31:81/udp/239.1.10.1:1234
+http://37.192.237.114:81/udp/239.1.10.1:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",ТВ3
-http://37.193.136.31:81/udp/239.1.10.4:1234
+http://37.192.237.114:81/udp/239.1.10.4:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Пятый Канал
-http://37.193.136.31:81/udp/239.1.10.3:1234
+http://37.192.237.114:81/udp/239.1.10.3:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Домашний
-http://37.193.136.31:81/udp/239.1.10.5:1234
+http://37.192.237.114:81/udp/239.1.10.5:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",ОТС
-http://37.193.136.31:81/udp/239.1.10.6:1234
+http://37.192.237.114:81/udp/239.1.10.6:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Россия К
-http://37.193.136.31:81/udp/239.1.10.7:1234
+http://37.192.237.114:81/udp/239.1.10.7:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Нск 49
-http://37.193.136.31:81/udp/239.1.10.8:1234
+http://37.192.237.114:81/udp/239.1.10.8:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Myzen HD
-http://37.193.136.31:81/udp/239.1.10.21:1234
+http://37.192.237.114:81/udp/239.1.10.21:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Россия 1 HD
-http://37.193.136.31:81/udp/239.1.10.22:1234
+http://37.192.237.114:81/udp/239.1.10.22:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",ТелепутешесТВия HD
-http://37.193.136.31:81/udp/239.1.10.255:1234
+http://37.192.237.114:81/udp/239.1.10.255:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",EurospoRussia Today 1 HD
-http://37.193.136.31:81/udp/239.1.11.6:1234
+http://37.192.237.114:81/udp/239.1.11.6:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",EurospoRussia Today 1
-http://37.193.136.31:81/udp/239.1.12.3:1234
+http://37.192.237.114:81/udp/239.1.12.3:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",EurospoRussia Today 2
-http://37.193.136.31:81/udp/239.1.12.4:1234
+http://37.192.237.114:81/udp/239.1.12.4:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Телеканал Футбол
-http://37.193.136.31:81/udp/239.1.12.5:1234
+http://37.192.237.114:81/udp/239.1.12.5:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",КХЛ
-http://37.193.136.31:81/udp/239.1.12.6:1234
+http://37.192.237.114:81/udp/239.1.12.6:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Матч! Арена
-http://37.193.136.31:81/udp/239.1.12.7:1234
+http://37.192.237.114:81/udp/239.1.12.7:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Матч! Боец
-http://37.193.136.31:81/udp/239.1.12.9:1234
+http://37.192.237.114:81/udp/239.1.12.9:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Матч! Игра
-http://37.193.136.31:81/udp/239.1.12.10:1234
+http://37.192.237.114:81/udp/239.1.12.10:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Extreme SpoRussia Todays
-http://37.193.136.31:81/udp/239.1.12.11:1234
+http://37.192.237.114:81/udp/239.1.12.11:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Матч! Наш Спорт
-http://37.193.136.31:81/udp/239.1.12.12:1234
+http://37.192.237.114:81/udp/239.1.12.12:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Дождь
-http://37.193.136.31:81/udp/239.1.13.6:1234
+http://37.192.237.114:81/udp/239.1.13.6:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Дождь HD
-http://37.193.136.31:81/udp/239.1.13.19:1234
+http://37.192.237.114:81/udp/239.1.13.19:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",A-Media Premium HD
-http://37.193.136.31:81/udp/239.1.14.1:1234
+http://37.192.237.114:81/udp/239.1.14.1:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Первый Канал
-http://37.193.136.31:81/udp/239.1.15.1:1234
+http://37.192.237.114:81/udp/239.1.15.1:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Россия 1
-http://37.193.136.31:81/udp/239.1.15.2:1234
+http://37.192.237.114:81/udp/239.1.15.2:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Россия 24
-http://37.193.136.31:81/udp/239.1.15.3:1234
+http://37.192.237.114:81/udp/239.1.15.3:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",НТВ
-http://37.193.136.31:81/udp/239.1.15.4:1234
+http://37.192.237.114:81/udp/239.1.15.4:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Рен ТВ
-http://37.193.136.31:81/udp/239.1.15.5:1234
+http://37.192.237.114:81/udp/239.1.15.5:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",СТС
-http://37.193.136.31:81/udp/239.1.15.6:1234
+http://37.192.237.114:81/udp/239.1.15.6:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",ТНТ
-http://37.193.136.31:81/udp/239.1.15.7:1234
+http://37.192.237.114:81/udp/239.1.15.7:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",ОТР
-http://37.193.136.31:81/udp/239.1.15.8:1234
+http://37.192.237.114:81/udp/239.1.15.8:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Звезда
-http://37.193.136.31:81/udp/239.1.15.9:1234
+http://37.192.237.114:81/udp/239.1.15.9:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",ТВЦ
-http://37.193.136.31:81/udp/239.1.15.10:1234
+http://37.192.237.114:81/udp/239.1.15.10:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Карусель
-http://37.193.136.31:81/udp/239.1.15.11:1234
+http://37.192.237.114:81/udp/239.1.15.11:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Disney Channel
-http://37.193.136.31:81/udp/239.1.15.12:1234
+http://37.192.237.114:81/udp/239.1.15.12:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Че
-http://37.193.136.31:81/udp/239.1.15.14:1234
+http://37.192.237.114:81/udp/239.1.15.14:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Матч!
-http://37.193.136.31:81/udp/239.1.15.16:1234
+http://37.192.237.114:81/udp/239.1.15.16:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Пятница
-http://37.193.136.31:81/udp/239.1.15.17:1234
+http://37.192.237.114:81/udp/239.1.15.17:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Ю ТВ
-http://37.193.136.31:81/udp/239.1.15.18:1234
+http://37.192.237.114:81/udp/239.1.15.18:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Союз
-http://37.193.136.31:81/udp/239.1.15.19:1234
+http://37.192.237.114:81/udp/239.1.15.19:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Первый Канал HD
-http://37.193.136.31:81/udp/239.1.15.20:1234
+http://37.192.237.114:81/udp/239.1.15.20:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Матч! HD
-http://37.193.136.31:81/udp/239.1.15.23:1234
+http://37.192.237.114:81/udp/239.1.15.23:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",8 Канал
-http://37.193.136.31:81/udp/239.1.15.21:1234
+http://37.192.237.114:81/udp/239.1.15.21:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Спас
-http://37.193.136.31:81/udp/239.1.15.22:1234
+http://37.192.237.114:81/udp/239.1.15.22:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Мир
-http://37.193.136.31:81/udp/239.1.15.31:1234
+http://37.192.237.114:81/udp/239.1.15.31:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Пятница
-http://37.193.136.31:81/udp/239.1.15.100:1234
+http://37.192.237.114:81/udp/239.1.15.100:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Наш Футбол HD
-http://37.193.136.31:81/udp/239.1.16.1:1234
+http://37.192.237.114:81/udp/239.1.16.1:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",National Geographic HD
-http://37.193.136.31:81/udp/239.1.17.1:1234
+http://37.192.237.114:81/udp/239.1.17.1:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Outdoor Channel HD
-http://37.193.136.31:81/udp/239.1.17.3:1234
+http://37.192.237.114:81/udp/239.1.17.3:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Travel+ Adventure HD
-http://37.193.136.31:81/udp/239.1.17.4:1234
+http://37.192.237.114:81/udp/239.1.17.4:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Fox HD
-http://37.193.136.31:81/udp/239.1.17.5:1234
+http://37.192.237.114:81/udp/239.1.17.5:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Мир Premium HD
-http://37.193.136.31:81/udp/239.1.17.7:1234
+http://37.192.237.114:81/udp/239.1.17.7:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Nat Geo Wild HD
-http://37.193.136.31:81/udp/239.1.17.6:1234
+http://37.192.237.114:81/udp/239.1.17.6:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Fashion One HD
-http://37.193.136.31:81/udp/239.1.17.8:1234
+http://37.192.237.114:81/udp/239.1.17.8:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Nickelodeon HD
-http://37.193.136.31:81/udp/239.1.17.9:1234
+http://37.192.237.114:81/udp/239.1.17.9:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Еда HD
-http://37.193.136.31:81/udp/239.1.17.10:1234
+http://37.192.237.114:81/udp/239.1.17.10:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",ТелепутешесТВия HD
-http://37.193.136.31:81/udp/239.1.17.11:1234
+http://37.192.237.114:81/udp/239.1.17.11:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",TLC HD
-http://37.193.136.31:81/udp/239.1.17.12:1234
+http://37.192.237.114:81/udp/239.1.17.12:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Кино ТВ HD
-http://37.193.136.31:81/udp/239.1.17.13:1234
+http://37.192.237.114:81/udp/239.1.17.13:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Animal Planet HD
-http://37.193.136.31:81/udp/239.1.17.16:1234
+http://37.192.237.114:81/udp/239.1.17.16:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Discovery Channel HD
-http://37.193.136.31:81/udp/239.1.17.17:1234
+http://37.192.237.114:81/udp/239.1.17.17:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Sony Channel HD
-http://37.193.136.31:81/udp/239.1.17.18:1234
+http://37.192.237.114:81/udp/239.1.17.18:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Охотник И Рыболов HD
-http://37.193.136.31:81/udp/239.1.17.21:1234
+http://37.192.237.114:81/udp/239.1.17.21:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",RTG HD
-http://37.193.136.31:81/udp/239.1.17.22:1234
+http://37.192.237.114:81/udp/239.1.17.22:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Дом Кино Премиум HD
-http://37.193.136.31:81/udp/239.1.17.23:1234
+http://37.192.237.114:81/udp/239.1.17.23:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",MTV Live HD
-http://37.193.136.31:81/udp/239.1.17.83:1234
+http://37.192.237.114:81/udp/239.1.17.83:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",? HD
-http://37.193.136.31:81/udp/239.1.17.253:1234
+http://37.192.237.114:81/udp/239.1.17.253:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Матч! Арена HD
-http://37.193.136.31:81/udp/239.1.18.1:1234
+http://37.192.237.114:81/udp/239.1.18.1:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",EurospoRussia Today 2 HD
-http://37.193.136.31:81/udp/239.1.18.2:1234
+http://37.192.237.114:81/udp/239.1.18.2:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",КХЛ HD
-http://37.193.136.31:81/udp/239.1.18.3:1234
+http://37.192.237.114:81/udp/239.1.18.3:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Cinema
-http://37.193.136.31:81/udp/239.1.20.2:1234
+http://37.192.237.114:81/udp/239.1.20.2:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Доктор
-http://37.193.136.31:81/udp/239.1.20.3:1234
+http://37.192.237.114:81/udp/239.1.20.3:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Иллюзион+
-http://37.193.136.31:81/udp/239.1.20.7:1234
+http://37.192.237.114:81/udp/239.1.20.7:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Мультимания
-http://37.193.136.31:81/udp/239.1.20.8:1234
+http://37.192.237.114:81/udp/239.1.20.8:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",ЛДПР ТВ
-http://37.193.136.31:81/udp/239.1.20.9:1234
+http://37.192.237.114:81/udp/239.1.20.9:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Матч! Премьер
-http://37.193.136.31:81/udp/239.1.20.11:1234
+http://37.192.237.114:81/udp/239.1.20.11:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Загородная Жизнь
-http://37.193.136.31:81/udp/239.1.20.13:1234
+http://37.192.237.114:81/udp/239.1.20.13:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Киномикс
-http://37.193.136.31:81/udp/239.1.20.15:1234
+http://37.192.237.114:81/udp/239.1.20.15:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Юмор
-http://37.193.136.31:81/udp/239.1.20.16:1234
+http://37.192.237.114:81/udp/239.1.20.16:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Shopping Live
-http://37.193.136.31:81/udp/239.1.20.17:1234
+http://37.192.237.114:81/udp/239.1.20.17:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",MTV Hits
-http://37.193.136.31:81/udp/239.1.20.20:1234
+http://37.192.237.114:81/udp/239.1.20.20:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Zooпарк
-http://37.193.136.31:81/udp/239.1.20.22:1234
+http://37.192.237.114:81/udp/239.1.20.22:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Авто 24
-http://37.193.136.31:81/udp/239.1.20.23:1234
+http://37.192.237.114:81/udp/239.1.20.23:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Бокс ТВ
-http://37.193.136.31:81/udp/239.1.20.24:1234
+http://37.192.237.114:81/udp/239.1.20.24:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Охотник И Рыболов
-http://37.193.136.31:81/udp/239.1.20.26:1234
+http://37.192.237.114:81/udp/239.1.20.26:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",ТелепутешесТВия
-http://37.193.136.31:81/udp/239.1.20.28:1234
+http://37.192.237.114:81/udp/239.1.20.28:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Моя Планета HD
-http://37.193.136.31:81/udp/239.1.20.29:1234
+http://37.192.237.114:81/udp/239.1.20.29:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Крик ТВ
-http://37.193.136.31:81/udp/239.1.20.30:1234
+http://37.192.237.114:81/udp/239.1.20.30:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Vostok TV
-http://37.193.136.31:81/udp/239.1.20.31:1234
+http://37.192.237.114:81/udp/239.1.20.31:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Paramount Comedy
-http://37.193.136.31:81/udp/239.1.20.32:1234
+http://37.192.237.114:81/udp/239.1.20.32:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",MTV
-http://37.193.136.31:81/udp/239.1.20.33:1234
+http://37.192.237.114:81/udp/239.1.20.33:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",English Club TV
-http://37.193.136.31:81/udp/239.1.20.35:1234
+http://37.192.237.114:81/udp/239.1.20.35:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Bbc World News
-http://37.193.136.31:81/udp/239.1.20.36:1234
+http://37.192.237.114:81/udp/239.1.20.36:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Deutche Welle
-http://37.193.136.31:81/udp/239.1.20.37:1234
+http://37.192.237.114:81/udp/239.1.20.37:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",ТНТ A
-http://37.193.136.31:81/udp/239.1.20.102:1234
+http://37.192.237.114:81/udp/239.1.20.102:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",TV1000 Русское Кино
-http://37.193.136.31:81/udp/239.1.20.105:1234
+http://37.192.237.114:81/udp/239.1.20.105:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Bridge TV Classic
-http://37.193.136.31:81/udp/239.1.20.106:1234
+http://37.192.237.114:81/udp/239.1.20.106:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Top Shop
-http://37.193.136.31:81/udp/239.1.20.140:1234
+http://37.192.237.114:81/udp/239.1.20.140:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Беларусь 24
-http://37.193.136.31:81/udp/239.1.21.1:1234
+http://37.192.237.114:81/udp/239.1.21.1:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Интер+
-http://37.193.136.31:81/udp/239.1.21.2:1234
+http://37.192.237.114:81/udp/239.1.21.2:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Курай ТВ
-http://37.193.136.31:81/udp/239.1.21.3:1234
+http://37.192.237.114:81/udp/239.1.21.3:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",ТНВ Татарстан
-http://37.193.136.31:81/udp/239.1.21.4:1234
+http://37.192.237.114:81/udp/239.1.21.4:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",ТНВ Планета
-http://37.193.136.31:81/udp/239.1.21.5:1234
+http://37.192.237.114:81/udp/239.1.21.5:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Arirang
-http://37.193.136.31:81/udp/239.1.21.6:1234
+http://37.192.237.114:81/udp/239.1.21.6:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Acb TV
-http://37.193.136.31:81/udp/239.1.21.7:1234
+http://37.192.237.114:81/udp/239.1.21.7:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",БСТ
-http://37.193.136.31:81/udp/239.1.21.8:1234
+http://37.192.237.114:81/udp/239.1.21.8:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",1 TV
-http://37.193.136.31:81/udp/239.1.21.9:1234
+http://37.192.237.114:81/udp/239.1.21.9:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Ювелирочка
-http://37.193.136.31:81/udp/239.1.21.10:1234
+http://37.192.237.114:81/udp/239.1.21.10:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",ТВой Дом
-http://37.193.136.31:81/udp/239.1.21.11:1234
+http://37.192.237.114:81/udp/239.1.21.11:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",В Мире Животных HD
-http://37.193.136.31:81/udp/239.1.21.12:1234
+http://37.192.237.114:81/udp/239.1.21.12:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Eureka HD
-http://37.193.136.31:81/udp/239.1.21.13:1234
+http://37.192.237.114:81/udp/239.1.21.13:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",A-Media Hit HD
-http://37.193.136.31:81/udp/239.1.21.14:1234
+http://37.192.237.114:81/udp/239.1.21.14:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Еврокино
-http://37.193.136.31:81/udp/239.1.21.15:1234
+http://37.192.237.114:81/udp/239.1.21.15:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Zoo TV
-http://37.193.136.31:81/udp/239.1.21.16:1234
+http://37.192.237.114:81/udp/239.1.21.16:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Здоровье
-http://37.193.136.31:81/udp/239.1.21.17:1234
+http://37.192.237.114:81/udp/239.1.21.17:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Театр
-http://37.193.136.31:81/udp/239.1.21.18:1234
+http://37.192.237.114:81/udp/239.1.21.18:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Иллюзион+
-http://37.193.136.31:81/udp/239.1.21.19:1234
+http://37.192.237.114:81/udp/239.1.21.19:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Кинопоказ
-http://37.193.136.31:81/udp/239.1.21.20:1234
+http://37.192.237.114:81/udp/239.1.21.20:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Ginger HD
-http://37.193.136.31:81/udp/239.1.21.21:1234
+http://37.192.237.114:81/udp/239.1.21.21:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Рыжий
-http://37.193.136.31:81/udp/239.1.21.22:1234
+http://37.192.237.114:81/udp/239.1.21.22:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Ретро
-http://37.193.136.31:81/udp/239.1.21.23:1234
+http://37.192.237.114:81/udp/239.1.21.23:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Baby TV
-http://37.193.136.31:81/udp/239.1.21.48:1234
+http://37.192.237.114:81/udp/239.1.21.48:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Матч! Футбол 1 HD
-http://37.193.136.31:81/udp/239.1.23.1:1234
+http://37.192.237.114:81/udp/239.1.23.1:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Матч! Футбол 2 HD
-http://37.193.136.31:81/udp/239.1.23.2:1234
+http://37.192.237.114:81/udp/239.1.23.2:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Матч! Футбол 3 HD
-http://37.193.136.31:81/udp/239.1.23.3:1234
+http://37.192.237.114:81/udp/239.1.23.3:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Русская Ночь
-http://37.193.136.31:81/udp/239.1.6.32:1234
+http://37.192.237.114:81/udp/239.1.6.32:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",O-La-La
-http://37.193.136.31:81/udp/239.1.6.34:1234
+http://37.192.237.114:81/udp/239.1.6.34:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Hustler HD
-http://37.193.136.31:81/udp/239.1.6.35:1234
+http://37.192.237.114:81/udp/239.1.6.35:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Blue Hustler
-http://37.193.136.31:81/udp/239.1.6.36:1234
+http://37.192.237.114:81/udp/239.1.6.36:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Playboy TV
-http://37.193.136.31:81/udp/239.1.6.39:1234
+http://37.192.237.114:81/udp/239.1.6.39:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="NTK_NSK",Brazzers TV Europe
-http://37.193.136.31:81/udp/239.1.6.40:1234
+http://37.192.237.114:81/udp/239.1.6.40:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Дождь
-http://164.138.89.163:65027/udp/239.191.254.1:13343
+http://193.233.21.108:4022/udp/239.191.254.1:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Моя Планета
-http://164.138.89.163:65027/udp/239.191.254.2:13343
+http://193.233.21.108:4022/udp/239.191.254.2:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",РБК
-http://164.138.89.163:65027/udp/239.191.254.3:13343
+http://193.233.21.108:4022/udp/239.191.254.3:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Мультимания
-http://164.138.89.163:65027/udp/239.191.254.4:13343
+http://193.233.21.108:4022/udp/239.191.254.4:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",ТРО
-http://164.138.89.163:65027/udp/239.191.254.5:13343
+http://193.233.21.108:4022/udp/239.191.254.5:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Русский Экстрим
-http://164.138.89.163:65027/udp/239.191.254.6:13343
+http://193.233.21.108:4022/udp/239.191.254.6:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Доктор
-http://164.138.89.163:65027/udp/239.191.254.7:13343
+http://193.233.21.108:4022/udp/239.191.254.7:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",TV1000
-http://164.138.89.163:65027/udp/239.191.254.8:13343
+http://193.233.21.108:4022/udp/239.191.254.8:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Viasat Explore
-http://164.138.89.163:65027/udp/239.191.254.9:13343
+http://193.233.21.108:4022/udp/239.191.254.9:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Viasat History
-http://164.138.89.163:65027/udp/239.191.254.10:13343
+http://193.233.21.108:4022/udp/239.191.254.10:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Viasat SpoRussia Today
-http://164.138.89.163:65027/udp/239.191.254.11:13343
+http://193.233.21.108:4022/udp/239.191.254.11:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",TV1000 Русское Кино
-http://164.138.89.163:65027/udp/239.191.254.12:13343
+http://193.233.21.108:4022/udp/239.191.254.12:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Дождь
-http://164.138.89.163:65027/udp/239.191.254.14:13343
+http://193.233.21.108:4022/udp/239.191.254.14:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Губерния (Хабаровск)
-http://164.138.89.163:65027/udp/239.191.254.15:13343
+http://193.233.21.108:4022/udp/239.191.254.15:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",О!2
-http://164.138.89.163:65027/udp/239.191.254.16:13343
+http://193.233.21.108:4022/udp/239.191.254.16:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Техно 24
-http://164.138.89.163:65027/udp/239.191.254.17:13343
+http://193.233.21.108:4022/udp/239.191.254.17:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Детский
-http://164.138.89.163:65027/udp/239.191.254.18:13343
+http://193.233.21.108:4022/udp/239.191.254.18:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Наука
-http://164.138.89.163:65027/udp/239.191.254.19:13343
+http://193.233.21.108:4022/udp/239.191.254.19:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Телеканал Футбол
-http://164.138.89.163:65027/udp/239.191.254.20:13343
+http://193.233.21.108:4022/udp/239.191.254.20:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",ТВ3 (Хабаровск)
-http://164.138.89.163:65027/udp/239.191.254.22:13343
+http://193.233.21.108:4022/udp/239.191.254.22:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Домашний (Хабаровск)
-http://164.138.89.163:65027/udp/239.191.254.23:13343
+http://193.233.21.108:4022/udp/239.191.254.23:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Звезда (Хабаровск)
-http://164.138.89.163:65027/udp/239.191.254.24:13343
+http://193.233.21.108:4022/udp/239.191.254.24:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",TV1000 Action
-http://164.138.89.163:65027/udp/239.191.254.25:13343
+http://193.233.21.108:4022/udp/239.191.254.25:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Кино ТВ
-http://164.138.89.163:65027/udp/239.191.254.26:13343
+http://193.233.21.108:4022/udp/239.191.254.26:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",ТВЦ (Хабаровск)
-http://164.138.89.163:65027/udp/239.191.254.27:13343
+http://193.233.21.108:4022/udp/239.191.254.27:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",ТНВ Планета
-http://164.138.89.163:65027/udp/239.191.254.28:13343
+http://193.233.21.108:4022/udp/239.191.254.28:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",СТС (Хабаровск)
-http://164.138.89.163:65027/udp/239.191.254.29:13343
+http://193.233.21.108:4022/udp/239.191.254.29:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",A-Media 1
-http://164.138.89.163:65027/udp/239.191.254.30:13343
+http://193.233.21.108:4022/udp/239.191.254.30:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",СТС Love (Хабаровск)
-http://164.138.89.163:65027/udp/239.191.254.31:13343
+http://193.233.21.108:4022/udp/239.191.254.31:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Animal Planet Россия
-http://164.138.89.163:65027/udp/239.191.254.32:13343
+http://193.233.21.108:4022/udp/239.191.254.32:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",National Geographic
-http://164.138.89.163:65027/udp/239.191.254.33:13343
+http://193.233.21.108:4022/udp/239.191.254.33:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Discovery Премьера
-http://164.138.89.163:65027/udp/239.191.254.34:13343
+http://193.233.21.108:4022/udp/239.191.254.34:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",DTX
-http://164.138.89.163:65027/udp/239.191.254.35:13343
+http://193.233.21.108:4022/udp/239.191.254.35:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Discovery Science
-http://164.138.89.163:65027/udp/239.191.254.36:13343
+http://193.233.21.108:4022/udp/239.191.254.36:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Boomerang
-http://164.138.89.163:65027/udp/239.191.254.37:13343
+http://193.233.21.108:4022/udp/239.191.254.37:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Extreme SpoRussia Todays
-http://164.138.89.163:65027/udp/239.191.254.39:13343
+http://193.233.21.108:4022/udp/239.191.254.39:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Загородная Жизнь
-http://164.138.89.163:65027/udp/239.191.254.40:13343
+http://193.233.21.108:4022/udp/239.191.254.40:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",A-Media 2
-http://164.138.89.163:65027/udp/239.191.254.41:13343
+http://193.233.21.108:4022/udp/239.191.254.41:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Россия 1 (+8)
-http://164.138.89.163:65027/udp/239.191.254.42:13343
+http://193.233.21.108:4022/udp/239.191.254.42:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Zee TV
-http://164.138.89.163:65027/udp/239.191.254.43:13343
+http://193.233.21.108:4022/udp/239.191.254.43:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",КХЛ
-http://164.138.89.163:65027/udp/239.191.254.44:13343
+http://193.233.21.108:4022/udp/239.191.254.44:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Мужской
-http://164.138.89.163:65027/udp/239.191.254.45:13343
+http://193.233.21.108:4022/udp/239.191.254.45:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",EurospoRussia Today 1
-http://164.138.89.163:65027/udp/239.191.254.46:13343
+http://193.233.21.108:4022/udp/239.191.254.46:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",EurospoRussia Today 2
-http://164.138.89.163:65027/udp/239.191.254.47:13343
+http://193.233.21.108:4022/udp/239.191.254.47:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Sony Channel
-http://164.138.89.163:65027/udp/239.191.254.48:13343
+http://193.233.21.108:4022/udp/239.191.254.48:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Мир (Хабаровск)
-http://164.138.89.163:65027/udp/239.191.254.49:13343
+http://193.233.21.108:4022/udp/239.191.254.49:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Шансон ТВ
-http://164.138.89.163:65027/udp/239.191.254.50:13343
+http://193.233.21.108:4022/udp/239.191.254.50:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",TV XXI
-http://164.138.89.163:65027/udp/239.191.254.51:13343
+http://193.233.21.108:4022/udp/239.191.254.51:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Че (Хабаровск)
-http://164.138.89.163:65027/udp/239.191.254.52:13343
+http://193.233.21.108:4022/udp/239.191.254.52:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Детский Мир
-http://164.138.89.163:65027/udp/239.191.254.53:13343
+http://193.233.21.108:4022/udp/239.191.254.53:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Ocean TV
-http://164.138.89.163:65027/udp/239.191.254.54:13343
+http://193.233.21.108:4022/udp/239.191.254.54:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Sony Sci-Fi
-http://164.138.89.163:65027/udp/239.191.254.55:13343
+http://193.233.21.108:4022/udp/239.191.254.55:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Русская Комедия
-http://164.138.89.163:65027/udp/239.191.254.56:13343
+http://193.233.21.108:4022/udp/239.191.254.56:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",MTV Hits
-http://164.138.89.163:65027/udp/239.191.254.57:13343
+http://193.233.21.108:4022/udp/239.191.254.57:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Телекафе
-http://164.138.89.163:65027/udp/239.191.254.58:13343
+http://193.233.21.108:4022/udp/239.191.254.58:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",8 Канал (Владивосток)
-http://164.138.89.163:65027/udp/239.191.254.59:13343
+http://193.233.21.108:4022/udp/239.191.254.59:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Наше Любимое Кино
-http://164.138.89.163:65027/udp/239.191.254.60:13343
+http://193.233.21.108:4022/udp/239.191.254.60:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",ОТР (Хабаровск)
-http://164.138.89.163:65027/udp/239.191.254.61:13343
+http://193.233.21.108:4022/udp/239.191.254.61:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Nickelodeon
-http://164.138.89.163:65027/udp/239.191.254.62:13343
+http://193.233.21.108:4022/udp/239.191.254.62:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Русский Иллюзион
-http://164.138.89.163:65027/udp/239.191.254.63:13343
+http://193.233.21.108:4022/udp/239.191.254.63:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Иллюзион+
-http://164.138.89.163:65027/udp/239.191.254.64:13343
+http://193.233.21.108:4022/udp/239.191.254.64:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Zooпарк
-http://164.138.89.163:65027/udp/239.191.254.65:13343
+http://193.233.21.108:4022/udp/239.191.254.65:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",ТНТ4 (Хабаровск)
-http://164.138.89.163:65027/udp/239.191.254.66:13343
+http://193.233.21.108:4022/udp/239.191.254.66:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",НСТ
-http://164.138.89.163:65027/udp/239.191.254.67:13343
+http://193.233.21.108:4022/udp/239.191.254.67:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Еврокино
-http://164.138.89.163:65027/udp/239.191.254.68:13343
+http://193.233.21.108:4022/udp/239.191.254.68:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Fashion TV
-http://164.138.89.163:65027/udp/239.191.254.69:13343
+http://193.233.21.108:4022/udp/239.191.254.69:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Da Vinci Kids
-http://164.138.89.163:65027/udp/239.191.254.72:13343
+http://193.233.21.108:4022/udp/239.191.254.72:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Раз ТВ
-http://164.138.89.163:65027/udp/239.191.254.73:13343
+http://193.233.21.108:4022/udp/239.191.254.73:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",TLC
-http://164.138.89.163:65027/udp/239.191.254.74:13343
+http://193.233.21.108:4022/udp/239.191.254.74:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Мульт
-http://164.138.89.163:65027/udp/239.191.254.75:13343
+http://193.233.21.108:4022/udp/239.191.254.75:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Беларусь 24
-http://164.138.89.163:65027/udp/239.191.254.76:13343
+http://193.233.21.108:4022/udp/239.191.254.76:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Game Show
-http://164.138.89.163:65027/udp/239.191.254.77:13343
+http://193.233.21.108:4022/udp/239.191.254.77:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Viasat Nature
-http://164.138.89.163:65027/udp/239.191.254.79:13343
+http://193.233.21.108:4022/udp/239.191.254.79:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Мультимузыка
-http://164.138.89.163:65027/udp/239.191.254.81:13343
+http://193.233.21.108:4022/udp/239.191.254.81:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Первый Образовательный
-http://164.138.89.163:65027/udp/239.191.254.82:13343
+http://193.233.21.108:4022/udp/239.191.254.82:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Союз
-http://164.138.89.163:65027/udp/239.191.254.83:13343
+http://193.233.21.108:4022/udp/239.191.254.83:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Радость Моя
-http://164.138.89.163:65027/udp/239.191.254.84:13343
+http://193.233.21.108:4022/udp/239.191.254.84:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",ЛДПР ТВ
-http://164.138.89.163:65027/udp/239.191.254.85:13343
+http://193.233.21.108:4022/udp/239.191.254.85:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Ru TV
-http://164.138.89.163:65027/udp/239.191.254.86:13343
+http://193.233.21.108:4022/udp/239.191.254.86:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Nat Geo Wild
-http://164.138.89.163:65027/udp/239.191.254.87:13343
+http://193.233.21.108:4022/udp/239.191.254.87:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",ani
-http://164.138.89.163:65027/udp/239.191.254.88:13343
+http://193.233.21.108:4022/udp/239.191.254.88:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Deutche Welle
-http://164.138.89.163:65027/udp/239.191.254.89:13343
+http://193.233.21.108:4022/udp/239.191.254.89:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Bridge TV
-http://164.138.89.163:65027/udp/239.191.254.90:13343
+http://193.233.21.108:4022/udp/239.191.254.90:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",RTG TV
-http://164.138.89.163:65027/udp/239.191.254.91:13343
+http://193.233.21.108:4022/udp/239.191.254.91:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Cмайлик ТВ
-http://164.138.89.163:65027/udp/239.191.254.92:13343
+http://193.233.21.108:4022/udp/239.191.254.92:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Russian Music Box
-http://164.138.89.163:65027/udp/239.191.254.93:13343
+http://193.233.21.108:4022/udp/239.191.254.93:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Music Box
-http://164.138.89.163:65027/udp/239.191.254.94:13343
+http://193.233.21.108:4022/udp/239.191.254.94:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Юмор
-http://164.138.89.163:65027/udp/239.191.254.95:13343
+http://193.233.21.108:4022/udp/239.191.254.95:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Ретро
-http://164.138.89.163:65027/udp/239.191.254.96:13343
+http://193.233.21.108:4022/udp/239.191.254.96:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Драйв
-http://164.138.89.163:65027/udp/239.191.254.97:13343
+http://193.233.21.108:4022/udp/239.191.254.97:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Охота И Рыбалка
-http://164.138.89.163:65027/udp/239.191.254.98:13343
+http://193.233.21.108:4022/udp/239.191.254.98:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Здоровое ТВ
-http://164.138.89.163:65027/udp/239.191.254.99:13343
+http://193.233.21.108:4022/udp/239.191.254.99:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Усадьба
-http://164.138.89.163:65027/udp/239.191.254.100:13343
+http://193.233.21.108:4022/udp/239.191.254.100:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Домашние Животные
-http://164.138.89.163:65027/udp/239.191.254.101:13343
+http://193.233.21.108:4022/udp/239.191.254.101:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Психология 21
-http://164.138.89.163:65027/udp/239.191.254.102:13343
+http://193.233.21.108:4022/udp/239.191.254.102:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Вопросы И Ответы
-http://164.138.89.163:65027/udp/239.191.254.103:13343
+http://193.233.21.108:4022/udp/239.191.254.103:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Еда
-http://164.138.89.163:65027/udp/239.191.254.104:13343
+http://193.233.21.108:4022/udp/239.191.254.104:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Russia Today
-http://164.138.89.163:65027/udp/239.191.254.106:13343
+http://193.233.21.108:4022/udp/239.191.254.106:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Fox
-http://164.138.89.163:65027/udp/239.191.254.107:13343
+http://193.233.21.108:4022/udp/239.191.254.107:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Fox Life
-http://164.138.89.163:65027/udp/239.191.254.108:13343
+http://193.233.21.108:4022/udp/239.191.254.108:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Музыка Первого
-http://164.138.89.163:65027/udp/239.191.254.110:13343
+http://193.233.21.108:4022/udp/239.191.254.110:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Феникс+Кино
-http://164.138.89.163:65027/udp/239.191.254.112:13343
+http://193.233.21.108:4022/udp/239.191.254.112:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Galaxy
-http://164.138.89.163:65027/udp/239.191.254.113:13343
+http://193.233.21.108:4022/udp/239.191.254.113:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Живи!
-http://164.138.89.163:65027/udp/239.191.254.115:13343
+http://193.233.21.108:4022/udp/239.191.254.115:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Время
-http://164.138.89.163:65027/udp/239.191.254.116:13343
+http://193.233.21.108:4022/udp/239.191.254.116:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Дом Кино
-http://164.138.89.163:65027/udp/239.191.254.117:13343
+http://193.233.21.108:4022/udp/239.191.254.117:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",ТНТ music
-http://164.138.89.163:65027/udp/239.191.254.118:13343
+http://193.233.21.108:4022/udp/239.191.254.118:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Русский БеСТСеллер
-http://164.138.89.163:65027/udp/239.191.254.119:13343
+http://193.233.21.108:4022/udp/239.191.254.119:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Мама
-http://164.138.89.163:65027/udp/239.191.254.120:13343
+http://193.233.21.108:4022/udp/239.191.254.120:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Русский Роман
-http://164.138.89.163:65027/udp/239.191.254.121:13343
+http://193.233.21.108:4022/udp/239.191.254.121:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Рен ТВ (Хабаровск)
-http://164.138.89.163:65027/udp/239.191.254.122:13343
+http://193.233.21.108:4022/udp/239.191.254.122:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Кто Есть Кто
-http://164.138.89.163:65027/udp/239.191.254.123:13343
+http://193.233.21.108:4022/udp/239.191.254.123:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Ля Минор
-http://164.138.89.163:65027/udp/239.191.254.124:13343
+http://193.233.21.108:4022/udp/239.191.254.124:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Мужское Кино
-http://164.138.89.163:65027/udp/239.191.254.125:13343
+http://193.233.21.108:4022/udp/239.191.254.125:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Cinema
-http://164.138.89.163:65027/udp/239.191.254.126:13343
+http://193.233.21.108:4022/udp/239.191.254.126:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Три Ангела
-http://164.138.89.163:65027/udp/239.191.254.127:13343
+http://193.233.21.108:4022/udp/239.191.254.127:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Сарафан
-http://164.138.89.163:65027/udp/239.191.254.128:13343
+http://193.233.21.108:4022/udp/239.191.254.128:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Europa Plus TV
-http://164.138.89.163:65027/udp/239.191.254.129:13343
+http://193.233.21.108:4022/udp/239.191.254.129:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Большая Азия
-http://164.138.89.163:65027/udp/239.191.254.130:13343
+http://193.233.21.108:4022/udp/239.191.254.130:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",CNL
-http://164.138.89.163:65027/udp/239.191.254.131:13343
+http://193.233.21.108:4022/udp/239.191.254.131:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Матч! Премьер
-http://164.138.89.163:65027/udp/239.191.254.132:13343
+http://193.233.21.108:4022/udp/239.191.254.132:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",ТНТ (Хабаровск)
-http://164.138.89.163:65027/udp/239.191.254.133:13343
+http://193.233.21.108:4022/udp/239.191.254.133:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Travel Channel
-http://164.138.89.163:65027/udp/239.191.254.134:13343
+http://193.233.21.108:4022/udp/239.191.254.134:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Sony Turbo
-http://164.138.89.163:65027/udp/239.191.254.135:13343
+http://193.233.21.108:4022/udp/239.191.254.135:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Мир Сериала
-http://164.138.89.163:65027/udp/239.191.254.136:13343
+http://193.233.21.108:4022/udp/239.191.254.136:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Euronews
-http://164.138.89.163:65027/udp/239.191.254.137:13343
+http://193.233.21.108:4022/udp/239.191.254.137:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",TiJi
-http://164.138.89.163:65027/udp/239.191.254.138:13343
+http://193.233.21.108:4022/udp/239.191.254.138:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Авто 24
-http://164.138.89.163:65027/udp/239.191.254.139:13343
+http://193.233.21.108:4022/udp/239.191.254.139:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",ТНТ/ДальТВ
-http://164.138.89.163:65027/udp/239.191.254.140:13343
+http://193.233.21.108:4022/udp/239.191.254.140:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Супер
-http://164.138.89.163:65027/udp/239.191.254.141:13343
+http://193.233.21.108:4022/udp/239.191.254.141:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Россия 1 (Хабаровск)
-http://164.138.89.163:65027/udp/239.191.254.142:13343
+http://193.233.21.108:4022/udp/239.191.254.142:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Точка ТВ
-http://164.138.89.163:65027/udp/239.191.254.143:13343
+http://193.233.21.108:4022/udp/239.191.254.143:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Красная Линия
-http://164.138.89.163:65027/udp/239.191.254.145:13343
+http://193.233.21.108:4022/udp/239.191.254.145:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Жара
-http://164.138.89.163:65027/udp/239.191.254.146:13343
+http://193.233.21.108:4022/udp/239.191.254.146:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Disney Channel
-http://164.138.89.163:65027/udp/239.191.254.147:13343
+http://193.233.21.108:4022/udp/239.191.254.147:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Ю ТВ (+7)
-http://164.138.89.163:65027/udp/239.191.254.148:13343
+http://193.233.21.108:4022/udp/239.191.254.148:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Пятница (+7)
-http://164.138.89.163:65027/udp/239.191.254.149:13343
+http://193.233.21.108:4022/udp/239.191.254.149:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Оружие
-http://164.138.89.163:65027/udp/239.191.254.150:13343
+http://193.233.21.108:4022/udp/239.191.254.150:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",2х2 (+7)
-http://164.138.89.163:65027/udp/239.191.254.151:13343
+http://193.233.21.108:4022/udp/239.191.254.151:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Пингвин Лоло
-http://164.138.89.163:65027/udp/239.191.254.152:13343
+http://193.233.21.108:4022/udp/239.191.254.152:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Матч!
-http://164.138.89.163:65027/udp/239.191.254.153:13343
+http://193.233.21.108:4022/udp/239.191.254.153:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Россия 24 (Хабаровск)
-http://164.138.89.163:65027/udp/239.191.254.154:13343
+http://193.233.21.108:4022/udp/239.191.254.154:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",6 ТВ
-http://164.138.89.163:65027/udp/239.191.254.155:13343
+http://193.233.21.108:4022/udp/239.191.254.155:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Спас
-http://164.138.89.163:65027/udp/239.191.254.157:13343
+http://193.233.21.108:4022/udp/239.191.254.157:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Муз ТВ
-http://164.138.89.163:65027/udp/239.191.254.158:13343
+http://193.233.21.108:4022/udp/239.191.254.158:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Ностальгия
-http://164.138.89.163:65027/udp/239.191.254.159:13343
+http://193.233.21.108:4022/udp/239.191.254.159:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Bridge TV Dance
-http://164.138.89.163:65027/udp/239.191.254.160:13343
+http://193.233.21.108:4022/udp/239.191.254.160:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Мир 24
-http://164.138.89.163:65027/udp/239.191.254.162:13343
+http://193.233.21.108:4022/udp/239.191.254.162:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Русский Детектив
-http://164.138.89.163:65027/udp/239.191.254.163:13343
+http://193.233.21.108:4022/udp/239.191.254.163:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Телеканал История
-http://164.138.89.163:65027/udp/239.191.254.164:13343
+http://193.233.21.108:4022/udp/239.191.254.164:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Interaz
-http://164.138.89.163:65027/udp/239.191.254.165:13343
+http://193.233.21.108:4022/udp/239.191.254.165:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Москва 24
-http://164.138.89.163:65027/udp/239.191.254.166:13343
+http://193.233.21.108:4022/udp/239.191.254.166:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Сэт (Хабаровск)
-http://164.138.89.163:65027/udp/239.191.254.167:13343
+http://193.233.21.108:4022/udp/239.191.254.167:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Vh1 Classic
-http://164.138.89.163:65027/udp/239.191.254.168:13343
+http://193.233.21.108:4022/udp/239.191.254.168:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Вместе РФ
-http://164.138.89.163:65027/udp/239.191.254.169:13343
+http://193.233.21.108:4022/udp/239.191.254.169:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Investigation Discovery
-http://164.138.89.163:65027/udp/239.191.254.172:13343
+http://193.233.21.108:4022/udp/239.191.254.172:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Театр
-http://164.138.89.163:65027/udp/239.191.254.174:13343
+http://193.233.21.108:4022/udp/239.191.254.174:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",ОТВ
-http://164.138.89.163:65027/udp/239.191.254.175:13343
+http://193.233.21.108:4022/udp/239.191.254.175:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Travel+ Adventure
-http://164.138.89.163:65027/udp/239.191.254.176:13343
+http://193.233.21.108:4022/udp/239.191.254.176:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Pro100TV
-http://164.138.89.163:65027/udp/239.191.254.177:13343
+http://193.233.21.108:4022/udp/239.191.254.177:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Морской
-http://164.138.89.163:65027/udp/239.191.254.178:13343
+http://193.233.21.108:4022/udp/239.191.254.178:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Бобер
-http://164.138.89.163:65027/udp/239.191.254.179:13343
+http://193.233.21.108:4022/udp/239.191.254.179:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Амурское Областное ТВ
-http://164.138.89.163:65027/udp/239.191.254.180:13343
+http://193.233.21.108:4022/udp/239.191.254.180:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Синергия
-http://164.138.89.163:65027/udp/239.191.254.181:13343
+http://193.233.21.108:4022/udp/239.191.254.181:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Крым 24
-http://164.138.89.163:65027/udp/239.191.254.182:13343
+http://193.233.21.108:4022/udp/239.191.254.182:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Iz.Ru
-http://164.138.89.163:65027/udp/239.191.254.183:13343
+http://193.233.21.108:4022/udp/239.191.254.183:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Телеканал 360°
-http://164.138.89.163:65027/udp/239.191.254.184:13343
+http://193.233.21.108:4022/udp/239.191.254.184:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Кинопоказ
-http://164.138.89.163:65027/udp/239.191.254.185:13343
+http://193.233.21.108:4022/udp/239.191.254.185:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Наше ТВ
-http://164.138.89.163:65027/udp/239.191.254.186:13343
+http://193.233.21.108:4022/udp/239.191.254.186:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Нвк Саха
-http://164.138.89.163:65027/udp/239.191.254.187:13343
+http://193.233.21.108:4022/udp/239.191.254.187:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Аист
-http://164.138.89.163:65027/udp/239.191.254.188:13343
+http://193.233.21.108:4022/udp/239.191.254.188:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Муз Союз
-http://164.138.89.163:65027/udp/239.191.254.189:13343
+http://193.233.21.108:4022/udp/239.191.254.189:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Тбн
-http://164.138.89.163:65027/udp/239.191.254.191:13343
+http://193.233.21.108:4022/udp/239.191.254.191:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Bridge TV Русский Хит
-http://164.138.89.163:65027/udp/239.191.254.192:13343
+http://193.233.21.108:4022/udp/239.191.254.192:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",France 24
-http://164.138.89.163:65027/udp/239.191.254.193:13343
+http://193.233.21.108:4022/udp/239.191.254.193:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Загородный
-http://164.138.89.163:65027/udp/239.191.254.194:13343
+http://193.233.21.108:4022/udp/239.191.254.194:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Здоровье
-http://164.138.89.163:65027/udp/239.191.254.195:13343
+http://193.233.21.108:4022/udp/239.191.254.195:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Рыжий
-http://164.138.89.163:65027/udp/239.191.254.196:13343
+http://193.233.21.108:4022/udp/239.191.254.196:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",MTV
-http://164.138.89.163:65027/udp/239.191.254.197:13343
+http://193.233.21.108:4022/udp/239.191.254.197:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",365 Дней
-http://164.138.89.163:65027/udp/239.191.254.198:13343
+http://193.233.21.108:4022/udp/239.191.254.198:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Открытый Мир
-http://164.138.89.163:65027/udp/239.191.254.199:13343
+http://193.233.21.108:4022/udp/239.191.254.199:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Конный Мир
-http://164.138.89.163:65027/udp/239.191.254.200:13343
+http://193.233.21.108:4022/udp/239.191.254.200:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Матч! Арена
-http://164.138.89.163:65027/udp/239.191.254.201:13343
+http://193.233.21.108:4022/udp/239.191.254.201:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Матч! Боец
-http://164.138.89.163:65027/udp/239.191.254.202:13343
+http://193.233.21.108:4022/udp/239.191.254.202:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Матч! Наш Спорт
-http://164.138.89.163:65027/udp/239.191.254.203:13343
+http://193.233.21.108:4022/udp/239.191.254.203:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Авто Плюс
-http://164.138.89.163:65027/udp/239.191.254.204:13343
+http://193.233.21.108:4022/udp/239.191.254.204:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Москва Доверие
-http://164.138.89.163:65027/udp/239.191.254.205:13343
+http://193.233.21.108:4022/udp/239.191.254.205:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Рен ТВ (Хабаровск)
-http://164.138.89.163:65027/udp/239.191.254.206:13343
+http://193.233.21.108:4022/udp/239.191.254.206:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",КВН
-http://164.138.89.163:65027/udp/239.191.254.207:13343
+http://193.233.21.108:4022/udp/239.191.254.207:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",History
-http://164.138.89.163:65027/udp/239.191.254.209:13343
+http://193.233.21.108:4022/udp/239.191.254.209:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Fight Box
-http://164.138.89.163:65027/udp/239.191.254.210:13343
+http://193.233.21.108:4022/udp/239.191.254.210:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Первый Канал (Хабаровск)
-http://164.138.89.163:65027/udp/239.191.254.241:13343
+http://193.233.21.108:4022/udp/239.191.254.241:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Россия 1 (Хабаровск)
-http://164.138.89.163:65027/udp/239.191.254.242:13343
+http://193.233.21.108:4022/udp/239.191.254.242:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Россия К (Хабаровск)
-http://164.138.89.163:65027/udp/239.191.254.243:13343
+http://193.233.21.108:4022/udp/239.191.254.243:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",НТВ (Хабаровск)
-http://164.138.89.163:65027/udp/239.191.254.244:13343
+http://193.233.21.108:4022/udp/239.191.254.244:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Пятый Канал (Хабаровск)
-http://164.138.89.163:65027/udp/239.191.254.245:13343
+http://193.233.21.108:4022/udp/239.191.254.245:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Россия 24 (Хабаровск)
-http://164.138.89.163:65027/udp/239.191.254.246:13343
+http://193.233.21.108:4022/udp/239.191.254.246:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Матч!
-http://164.138.89.163:65027/udp/239.191.254.247:13343
+http://193.233.21.108:4022/udp/239.191.254.247:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Карусель (Хабаровск)
-http://164.138.89.163:65027/udp/239.191.254.248:13343
+http://193.233.21.108:4022/udp/239.191.254.248:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Первый Канал (+8)
-http://164.138.89.163:65027/udp/239.191.255.2:13343
+http://193.233.21.108:4022/udp/239.191.255.2:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Spike
-http://164.138.89.163:65027/udp/239.191.255.3:13343
+http://193.233.21.108:4022/udp/239.191.255.3:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Продвижение
-http://164.138.89.163:65027/udp/239.191.255.4:13343
+http://193.233.21.108:4022/udp/239.191.255.4:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",О!
-http://164.138.89.163:65027/udp/239.191.255.5:13343
+http://193.233.21.108:4022/udp/239.191.255.5:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",CaRussia Todayoon
-http://164.138.89.163:65027/udp/239.191.255.7:13343
+http://193.233.21.108:4022/udp/239.191.255.7:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Поехали!
-http://164.138.89.163:65027/udp/239.191.255.8:13343
+http://193.233.21.108:4022/udp/239.191.255.8:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Docu Box
-http://164.138.89.163:65027/udp/239.191.255.9:13343
+http://193.233.21.108:4022/udp/239.191.255.9:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Надежда
-http://164.138.89.163:65027/udp/239.191.255.14:13343
+http://193.233.21.108:4022/udp/239.191.255.14:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Film ARussia Todayhouse Box
-http://164.138.89.163:65027/udp/239.191.255.15:13343
+http://193.233.21.108:4022/udp/239.191.255.15:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Fast&Fun Box
-http://164.138.89.163:65027/udp/239.191.255.16:13343
+http://193.233.21.108:4022/udp/239.191.255.16:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Film Box
-http://164.138.89.163:65027/udp/239.191.255.17:13343
+http://193.233.21.108:4022/udp/239.191.255.17:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",В Гостях У Сказки
-http://164.138.89.163:65027/udp/239.191.255.29:13343
+http://193.233.21.108:4022/udp/239.191.255.29:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Дорама
-http://164.138.89.163:65027/udp/239.191.255.31:13343
+http://193.233.21.108:4022/udp/239.191.255.31:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Arirang
-http://164.138.89.163:65027/udp/239.191.255.32:13343
+http://193.233.21.108:4022/udp/239.191.255.32:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Восток 24 (Владивосток)
-http://164.138.89.163:65027/udp/239.191.255.33:13343
+http://193.233.21.108:4022/udp/239.191.255.33:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Nhk World Japan
-http://164.138.89.163:65027/udp/239.191.255.34:13343
+http://193.233.21.108:4022/udp/239.191.255.34:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Грозный
-http://164.138.89.163:65027/udp/239.191.255.35:13343
+http://193.233.21.108:4022/udp/239.191.255.35:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",БСТ
-http://164.138.89.163:65027/udp/239.191.255.37:13343
+http://193.233.21.108:4022/udp/239.191.255.37:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",CCTV 4
-http://164.138.89.163:65027/udp/239.191.255.38:13343
+http://193.233.21.108:4022/udp/239.191.255.38:13343
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Animal Planet HD
-http://164.138.89.163:65027/udp/239.191.254.212:15283
+http://193.233.21.108:4022/udp/239.191.254.212:15283
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",EurospoRussia Today 1 HD
-http://164.138.89.163:65027/udp/239.191.254.213:15283
+http://193.233.21.108:4022/udp/239.191.254.213:15283
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Русский Роман HD
-http://164.138.89.163:65027/udp/239.191.254.214:15283
+http://193.233.21.108:4022/udp/239.191.254.214:15283
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Eureka HD
-http://164.138.89.163:65027/udp/239.191.254.215:15283
+http://193.233.21.108:4022/udp/239.191.254.215:15283
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Мир Premium HD
-http://164.138.89.163:65027/udp/239.191.254.216:15283
+http://193.233.21.108:4022/udp/239.191.254.216:15283
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Первый Канал HD (+4)
-http://164.138.89.163:65027/udp/239.191.254.217:15283
+http://193.233.21.108:4022/udp/239.191.254.217:15283
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",HD Life
-http://164.138.89.163:65027/udp/239.191.254.218:15283
+http://193.233.21.108:4022/udp/239.191.254.218:15283
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Охотник И Рыболов HD
-http://164.138.89.163:65027/udp/239.191.254.219:15283
+http://193.233.21.108:4022/udp/239.191.254.219:15283
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Телеканал 360° HD
-http://164.138.89.163:65027/udp/239.191.254.220:15283
+http://193.233.21.108:4022/udp/239.191.254.220:15283
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Russia Today Д HD
-http://164.138.89.163:65027/udp/239.191.254.221:15283
+http://193.233.21.108:4022/udp/239.191.254.221:15283
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Fine Living HD
-http://164.138.89.163:65027/udp/239.191.254.222:15283
+http://193.233.21.108:4022/udp/239.191.254.222:15283
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",C Music TV HD
-http://164.138.89.163:65027/udp/239.191.254.223:15283
+http://193.233.21.108:4022/udp/239.191.254.223:15283
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Food Network HD
-http://164.138.89.163:65027/udp/239.191.254.224:15283
+http://193.233.21.108:4022/udp/239.191.254.224:15283
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Хабаровск ТВ HD
-http://164.138.89.163:65027/udp/239.191.254.225:15283
+http://193.233.21.108:4022/udp/239.191.254.225:15283
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Outdoor HD
-http://164.138.89.163:65027/udp/239.191.254.227:15283
+http://193.233.21.108:4022/udp/239.191.254.227:15283
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Россия 1 HD
-http://164.138.89.163:65027/udp/239.191.254.228:15283
+http://193.233.21.108:4022/udp/239.191.254.228:15283
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Sony Channel HD
-http://164.138.89.163:65027/udp/239.191.254.229:15283
+http://193.233.21.108:4022/udp/239.191.254.229:15283
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",National Geographic HD
-http://164.138.89.163:65027/udp/239.191.254.230:15283
+http://193.233.21.108:4022/udp/239.191.254.230:15283
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Fox Life HD
-http://164.138.89.163:65027/udp/239.191.254.231:15283
+http://193.233.21.108:4022/udp/239.191.254.231:15283
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Fox HD
-http://164.138.89.163:65027/udp/239.191.254.232:15283
+http://193.233.21.108:4022/udp/239.191.254.232:15283
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",КХЛ HD
-http://164.138.89.163:65027/udp/239.191.254.233:15283
+http://193.233.21.108:4022/udp/239.191.254.233:15283
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Bridge HD
-http://164.138.89.163:65027/udp/239.191.254.234:15283
+http://193.233.21.108:4022/udp/239.191.254.234:15283
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Nat Geo Wild HD
-http://164.138.89.163:65027/udp/239.191.254.235:15283
+http://193.233.21.108:4022/udp/239.191.254.235:15283
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Приключения HD
-http://164.138.89.163:65027/udp/239.191.254.236:15283
+http://193.233.21.108:4022/udp/239.191.254.236:15283
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Тлум HD
-http://164.138.89.163:65027/udp/239.191.254.237:15283
+http://193.233.21.108:4022/udp/239.191.254.237:15283
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",1HD
-http://164.138.89.163:65027/udp/239.191.254.238:15283
+http://193.233.21.108:4022/udp/239.191.254.238:15283
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",RTG HD
-http://164.138.89.163:65027/udp/239.191.254.239:15283
+http://193.233.21.108:4022/udp/239.191.254.239:15283
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Моя Планета HD
-http://164.138.89.163:65027/udp/239.191.255.128:15283
+http://193.233.21.108:4022/udp/239.191.255.128:15283
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Дом Кино Премиум HD
-http://164.138.89.163:65027/udp/239.191.255.129:15283
+http://193.233.21.108:4022/udp/239.191.255.129:15283
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Mezzo Live HD
-http://164.138.89.163:65027/udp/239.191.255.130:15283
+http://193.233.21.108:4022/udp/239.191.255.130:15283
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Матч! Футбол 1 HD
-http://164.138.89.163:65027/udp/239.191.255.132:15283
+http://193.233.21.108:4022/udp/239.191.255.132:15283
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Матч! Футбол 2 HD
-http://164.138.89.163:65027/udp/239.191.255.133:15283
+http://193.233.21.108:4022/udp/239.191.255.133:15283
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Матч! Футбол 3 HD
-http://164.138.89.163:65027/udp/239.191.255.134:15283
+http://193.233.21.108:4022/udp/239.191.255.134:15283
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Bolliwood HD
-http://164.138.89.163:65027/udp/239.191.255.135:15283
+http://193.233.21.108:4022/udp/239.191.255.135:15283
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Мультик HD
-http://164.138.89.163:65027/udp/239.191.255.136:15283
+http://193.233.21.108:4022/udp/239.191.255.136:15283
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Ginger HD
-http://164.138.89.163:65027/udp/239.191.255.137:15283
+http://193.233.21.108:4022/udp/239.191.255.137:15283
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",ТВой Дом HD
-http://164.138.89.163:65027/udp/239.191.255.138:15283
+http://193.233.21.108:4022/udp/239.191.255.138:15283
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Матч! HD
-http://164.138.89.163:65027/udp/239.191.255.139:15283
+http://193.233.21.108:4022/udp/239.191.255.139:15283
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Матч! Арена HD
-http://164.138.89.163:65027/udp/239.191.255.140:15283
+http://193.233.21.108:4022/udp/239.191.255.140:15283
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Insight UHD
-http://164.138.89.163:65027/udp/239.191.255.141:15283
+http://193.233.21.108:4022/udp/239.191.255.141:15283
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Nhk World Japan HD
-http://164.138.89.163:65027/udp/239.191.255.142:15283
+http://193.233.21.108:4022/udp/239.191.255.142:15283
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Kbs World HD
-http://164.138.89.163:65027/udp/239.191.255.143:15283
+http://193.233.21.108:4022/udp/239.191.255.143:15283
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Матч! Игра HD
-http://164.138.89.163:65027/udp/239.191.255.144:15283
+http://193.233.21.108:4022/udp/239.191.255.144:15283
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Наша Сибирь HD
-http://164.138.89.163:65027/udp/239.191.255.145:15283
+http://193.233.21.108:4022/udp/239.191.255.145:15283
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Discovery Channel 4k UHD
-http://164.138.89.163:65027/udp/239.191.255.146:15283
+http://193.233.21.108:4022/udp/239.191.255.146:15283
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Shant Premium HD
-http://164.138.89.163:65027/udp/239.191.255.147:15283
+http://193.233.21.108:4022/udp/239.191.255.147:15283
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Discovery Science HD
-http://164.138.89.163:65027/udp/239.191.255.148:15283
+http://193.233.21.108:4022/udp/239.191.255.148:15283
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",TLC HD
-http://164.138.89.163:65027/udp/239.191.255.149:15283
+http://193.233.21.108:4022/udp/239.191.255.149:15283
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Русская Ночь
-http://164.138.89.163:65027/udp/239.191.254.13:15285
+http://193.233.21.108:4022/udp/239.191.254.13:15285
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Freex TV
-http://164.138.89.163:65027/udp/239.191.254.38:15285
+http://193.233.21.108:4022/udp/239.191.254.38:15285
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Candyman
-http://164.138.89.163:65027/udp/239.191.254.114:15285
+http://193.233.21.108:4022/udp/239.191.254.114:15285
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",O-La-La
-http://164.138.89.163:65027/udp/239.191.254.161:15285
+http://193.233.21.108:4022/udp/239.191.254.161:15285
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Brazzers TV Europe
-http://164.138.89.163:65027/udp/239.191.254.170:15285
+http://193.233.21.108:4022/udp/239.191.254.170:15285
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Candy TV
-http://164.138.89.163:65027/udp/239.191.254.173:15285
+http://193.233.21.108:4022/udp/239.191.254.173:15285
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Bridge TV Dance
-http://164.138.89.163:65027/udp/239.191.254.240:15285
+http://193.233.21.108:4022/udp/239.191.254.240:15285
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Shot TV
-http://164.138.89.163:65027/udp/239.191.254.249:15285
+http://193.233.21.108:4022/udp/239.191.254.249:15285
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",NuaRussia Today TV HD
-http://164.138.89.163:65027/udp/239.191.254.250:15285
+http://193.233.21.108:4022/udp/239.191.254.250:15285
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",French Lover TV
-http://164.138.89.163:65027/udp/239.191.254.251:15285
+http://193.233.21.108:4022/udp/239.191.254.251:15285
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RDK_HBR",Erox
-http://164.138.89.163:65027/udp/239.191.255.6:15285
+http://193.233.21.108:4022/udp/239.191.255.6:15285
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="VLS_VLD",Interaz
 http://46.37.136.229:4022/udp/224.3.20.1:1234
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="VLS_VLD",Animal Planet Россия
