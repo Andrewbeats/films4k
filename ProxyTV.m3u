@@ -337,7 +337,7 @@ http://176.51.210.248:1234/udp/233.7.70.44:5000
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RTK_NSK",Здоровое ТВ
 http://176.51.210.248:1234/udp/233.7.70.47:5000
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RTK_NSK",English Club TV
-http://176.51.210.248:1234/udp/233.7.70.48:5000
+http://176.51.210.248:1234/udp/233.7.70.4
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RTK_NSK",КХЛ
 http://176.51.210.248:1234/udp/233.7.70.5:5000
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="RTK_NSK",Матч! Арена
