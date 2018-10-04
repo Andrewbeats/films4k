@@ -40,6 +40,7 @@ http://79.137.255.170:5050/udp/224.0.42.43:5000
 http://79.137.255.170:5050/udp/224.0.42.54:5000
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="DGT_MSK",Ностальгия
 http://79.137.255.170:5050/udp/224.0.42.64:5000
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="DGT_MSK",RTG tv
 http://79.137.255.170:5050/udp/230.3.4.100:5678
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="DGT_MSK",Моя планета
 http://79.137.255.170:5050/udp/230.3.4.106:5678
@@ -49,7 +50,7 @@ http://79.137.255.170:5050/udp/230.3.4.143:5678
 http://79.137.255.170:5050/udp/230.3.4.177:5678
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="DGT_MSK",Матч! Футбол 1
 http://79.137.255.170:5050/udp/230.3.4.61:5678
-#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" grou-title="DGT_MSK",Матч! Футбол 2
+#EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="DGT_MSK",Матч! Футбол 2
 http://79.137.255.170:5050/udp/230.3.4.67:5678
 #EXTINF:-1 tvg-shift="0" tvg-id="" tvg-logo="" group-title="DGT_MSK",Матч! Футбол 3
 http://79.137.255.170:5050/udp/230.3.4.68:5678
