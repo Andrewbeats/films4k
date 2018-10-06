@@ -36,4 +36,11 @@
 <description><![CDATA[<h2><center>ProxyTV</center></h2>]]></description>
 </channel>
 
+<channel>
+<title><![CDATA[IPTV iptviptv.do.am]]></title>
+<playlist_url><![CDATA[http://iptviptv.do.am/_ld/0/1_IPTV.m3u]]></playlist_url>
+<description><![CDATA[<h2><center>ProxyTV</center></h2>]]></description>
+</channel>
+
+
 </items>
