@@ -11,7 +11,7 @@ if (isset($_GET['search'])) {
 function openXML() {
     // open xml file
     $inputFile = new DOMDocument();
-    $inputFile->load("test.xml"); 
+    $inputFile->load("https://raw.githubusercontent.com/Andrewbeats/films4k/master/films4k.xml"); 
     // return opened file
     return $inputFile;
 }
