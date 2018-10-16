@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <items>
+
+<channel>
+<title><![CDATA[Поиск]]></title>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/Andrewbeats/films4k/master/search.php]]></playlist_url>
+<description><![CDATA[<table style="width:100%;font-size:32px;text-align:left;">
+            <tr>
+                <td>
+                    <font color="#0000ee">
+                        <b>Поиск по названию</b>
+                    </font>
+                </td>
+            </tr>
+        </table>]]></description> 
+<search_on>search</search_on>
+</channel>
+
 <channel>
 <title><![CDATA[4K]]></title>
 <playlist_url><![CDATA[http://obovse.ru//smarttv//fex.php?id=key&search=598250106934]]></playlist_url>
