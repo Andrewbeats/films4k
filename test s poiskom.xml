@@ -7,7 +7,7 @@
 <channel>
 <title><![CDATA[Поиск]]></title>
 <search_on><![CDATA[Введите поисковую фразу]]></search_on>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/Andrewbeats/films4k/master/search.php]]></playlist_url>
+<playlist_url><![CDATA[http://ссылка на ваш скрипт обрабатывающий поиск с _GET параметром search]]></playlist_url>
 </channel>
 
 <channel>
