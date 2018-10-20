@@ -3,6 +3,12 @@
 <items>
 
 <channel>
+<title><![CDATA[Поиск]]></title>
+<search_on><![CDATA[Введите поисковую фразу]]></search_on>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/Andrewbeats/films4k/master/search.php]]></playlist_url>
+</channel>
+
+<channel>
       <title><![CDATA[Начало / Inception (2010)]]></title>
       <logo_30x30>
 https://image.tmdb.org/t/p/w600_and_h900_bestv2/7SivRwOLuA6DR09zNJ9JIo14GyX.jpg

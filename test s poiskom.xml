@@ -3,21 +3,25 @@
 <title><![CDATA[Придуманное название страницы]]></title>
 <icon><![CDATA[http://icon]]></icon>
 <items>
+
 <channel>
 <title><![CDATA[Поиск]]></title>
 <search_on><![CDATA[Введите поисковую фразу]]></search_on>
-<playlist_url><![CDATA[http://ссылка на ваш скрипт обрабатывающий поиск с _GET параметром search]]></playlist_url>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/Andrewbeats/films4k/master/search.php]]></playlist_url>
 </channel>
+
 <channel>
 <title><![CDATA[file1]]></title>
 <stream_url><![CDATA[http://ссылка на файл]]></stream_url>
 <description><![CDATA[<br> ]]></description>
 <logo_30x30><![CDATA[http://obovse.ru/smarttv/img/m3u.png]]></logo_30x30>
 </channel>
+
 <channel>
 <title><![CDATA[file2]]></title>
 <stream_url><![CDATA[http://ссылка на файл 2]]></stream_url>
 <description><![CDATA[<br> ]]></description>
 <logo_30x30><![CDATA[http://obovse.ru/smarttv/img/m3u.png]]></logo_30x30>
 </channel>
+
 </items>
