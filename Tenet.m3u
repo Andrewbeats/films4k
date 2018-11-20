@@ -1,6 +1,11 @@
 #EXTM3U
 
-#EXTINF:-1,Матч ТВ HD (не работает)
+#EXTINF:-1,Матч ТВ HD
+http://94.75.185.97:6689/stream?cid=91
+#EXTINF:-1,Матч! Арена HD
+http://94.75.185.97:6689/stream?cid=3577
+#EXTINF:-1,Матч! Игра HD
+http://94.75.185.97:6689/stream?cid=3572
 
 #EXTINF:-1,Футбол 1 HD
 http://94.75.185.97:6689/stream?cid=4043
