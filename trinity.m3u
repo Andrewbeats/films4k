@@ -1,481 +1,481 @@
 #EXTM3U channel-autor=" https://www.youtube.com/channel/UCQGGNWAIMrlmfMZN-oO3fPQ"
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",???
+#EXTINF:-1 ,???
 http://5.105.210.41:1234/udp/239.0.0.41:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",???
+#EXTINF:-1 ,???
 http://5.105.210.41:1234/udp/239.0.0.224:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",???
+#EXTINF:-1 ,???
 http://5.105.210.41:1234/udp/239.0.0.250:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",1+1
+#EXTINF:-1 ,1+1
 http://5.105.210.41:1234/udp/239.0.0.4:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",112 УКРАИНА
+#EXTINF:-1 ,112 УКРАИНА
 http://5.105.210.41:1234/udp/239.0.0.202:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",112 УКРАИНА HD
+#EXTINF:-1 ,112 УКРАИНА HD
 http://5.105.210.41:1234/udp/239.0.0.177:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",2+2
+#EXTINF:-1 ,2+2
 http://5.105.210.41:1234/udp/239.0.0.43:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",360 TUNE BOX
+#EXTINF:-1 ,360 TUNE BOX
 http://5.105.210.41:1234/udp/239.0.0.194:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",4 КАНАЛ
+#EXTINF:-1 ,4 КАНАЛ
 http://5.105.210.41:1234/udp/239.0.0.193:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",5 КАНАЛ УКРАИНА
+#EXTINF:-1 ,5 КАНАЛ УКРАИНА
 http://5.105.210.41:1234/udp/239.0.0.9:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",8 CHANNEL
+#EXTINF:-1 ,8 CHANNEL
 http://5.105.210.41:1234/udp/239.0.0.115:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",AMC
+#EXTINF:-1 ,AMC
 http://5.105.210.41:1234/udp/239.0.0.220:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",ANIMAL PLANET
+#EXTINF:-1 ,ANIMAL PLANET
 http://5.105.210.41:1234/udp/239.0.0.105:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",ANIMAL PLANET HD
+#EXTINF:-1 ,ANIMAL PLANET HD
 http://5.105.210.41:1234/udp/239.0.0.207:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",ATR
+#EXTINF:-1 ,ATR
 http://5.105.210.41:1234/udp/239.0.0.170:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",BAMBARBIA
+#EXTINF:-1 ,BAMBARBIA
 http://5.105.210.41:1234/udp/239.0.0.33:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",BBC WORLD NEWS
+#EXTINF:-1 ,BBC WORLD NEWS
 http://5.105.210.41:1234/udp/239.0.0.89:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",BOLLYWOOD HD
+#EXTINF:-1 ,BOLLYWOOD HD
 http://5.105.210.41:1234/udp/239.0.0.144:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",BOLT
+#EXTINF:-1 ,BOLT
 http://5.105.210.41:1234/udp/239.0.0.28:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",BOLT HD
+#EXTINF:-1 ,BOLT HD
 http://5.105.210.41:1234/udp/239.0.0.133:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",BOUTIQUE TV
+#EXTINF:-1 ,BOUTIQUE TV
 http://5.105.210.41:1234/udp/239.0.0.180:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",BRAIN TV
+#EXTINF:-1 ,BRAIN TV
 http://5.105.210.41:1234/udp/239.0.0.218:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",CARTOON NETWORK
+#EXTINF:-1 ,CARTOON NETWORK
 http://5.105.210.41:1234/udp/239.0.0.139:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",CBN
+#EXTINF:-1 ,CBN
 http://5.105.210.41:1234/udp/239.0.0.219:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",CNL
+#EXTINF:-1 ,CNL
 http://5.105.210.41:1234/udp/239.0.0.176:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",DA VINCI
+#EXTINF:-1 ,DA VINCI
 http://5.105.210.41:1234/udp/239.0.0.145:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",DEUTSCHE WELLE
+#EXTINF:-1 ,DEUTSCHE WELLE
 http://5.105.210.41:1234/udp/239.0.0.64:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",DEUTSCHE WELLE
+#EXTINF:-1 ,DEUTSCHE WELLE
 http://5.105.210.41:1234/udp/239.0.0.106:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",DISCOVERY CHANNEL
+#EXTINF:-1 ,DISCOVERY CHANNEL
 http://5.105.210.41:1234/udp/239.0.0.34:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",DISCOVERY CHANNEL HD
+#EXTINF:-1 ,DISCOVERY CHANNEL HD
 http://5.105.210.41:1234/udp/239.0.0.169:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",DISCOVERY SCIENCE
+#EXTINF:-1 ,DISCOVERY SCIENCE
 http://5.105.210.41:1234/udp/239.0.0.55:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",DISCOVERY WORLD
+#EXTINF:-1 ,DISCOVERY WORLD
 http://5.105.210.41:1234/udp/239.0.0.73:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",DOCU BOX HD
+#EXTINF:-1 ,DOCU BOX HD
 http://5.105.210.41:1234/udp/239.0.0.213:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",ENGLISH CLUB TV
+#EXTINF:-1 ,ENGLISH CLUB TV
 http://5.105.210.41:1234/udp/239.0.0.42:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",ENTER ФИЛЬМ
+#EXTINF:-1 ,ENTER ФИЛЬМ
 http://5.105.210.41:1234/udp/239.0.0.44:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",EPOQUE
+#EXTINF:-1 ,EPOQUE
 http://5.105.210.41:1234/udp/239.0.0.88:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",ERIC DRAMA
+#EXTINF:-1 ,ERIC DRAMA
 http://5.105.210.41:1234/udp/239.0.0.121:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",ETHNO CHANNEL HD
+#EXTINF:-1 ,ETHNO CHANNEL HD
 http://5.105.210.41:1234/udp/239.0.0.233:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",EU MUSIC
+#EXTINF:-1 ,EU MUSIC
 http://5.105.210.41:1234/udp/239.0.0.97:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",EU MUSIC HD
+#EXTINF:-1 ,EU MUSIC HD
 http://5.105.210.41:1234/udp/239.0.0.84:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",EURONEWS
+#EXTINF:-1 ,EURONEWS
 http://5.105.210.41:1234/udp/239.0.0.29:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",EURONEWS
+#EXTINF:-1 ,EURONEWS
 http://5.105.210.41:1234/udp/239.0.0.95:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",EUROSPORT 1
+#EXTINF:-1 ,EUROSPORT 1
 http://5.105.210.41:1234/udp/239.0.0.71:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",EUROSPORT 1 HD
+#EXTINF:-1 ,EUROSPORT 1 HD
 http://5.105.210.41:1234/udp/239.0.0.78:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",EUROSPORT 2
+#EXTINF:-1 ,EUROSPORT 2
 http://5.105.210.41:1234/udp/239.0.0.117:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",EUROSPORT 2 HD
+#EXTINF:-1 ,EUROSPORT 2 HD
 http://5.105.210.41:1234/udp/239.0.0.184:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",EXTREME SPORT
+#EXTINF:-1 ,EXTREME SPORT
 http://5.105.210.41:1234/udp/239.0.0.93:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",FASHION BOX HD
+#EXTINF:-1 ,FASHION BOX HD
 http://5.105.210.41:1234/udp/239.0.0.192:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",FASHION ONE
+#EXTINF:-1 ,FASHION ONE
 http://5.105.210.41:1234/udp/239.0.0.49:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",FASHION TV
+#EXTINF:-1 ,FASHION TV
 http://5.105.210.41:1234/udp/239.0.0.56:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",FAST&FUN BOX HD
+#EXTINF:-1 ,FAST&FUN BOX HD
 http://5.105.210.41:1234/udp/239.0.0.167:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",FIGHT BOX HD
+#EXTINF:-1 ,FIGHT BOX HD
 http://5.105.210.41:1234/udp/239.0.0.210:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",FILM BOX
+#EXTINF:-1 ,FILM BOX
 http://5.105.210.41:1234/udp/239.0.0.230:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",FILM BOX ARTHOUSE
+#EXTINF:-1 ,FILM BOX ARTHOUSE
 http://5.105.210.41:1234/udp/239.0.0.124:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",FINE LIVING
+#EXTINF:-1 ,FINE LIVING
 http://5.105.210.41:1234/udp/239.0.0.131:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",FOOD NETWORK
+#EXTINF:-1 ,FOOD NETWORK
 http://5.105.210.41:1234/udp/239.0.0.189:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",FOX
+#EXTINF:-1 ,FOX
 http://5.105.210.41:1234/udp/239.0.0.242:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",FOX LIFE
+#EXTINF:-1 ,FOX LIFE
 http://5.105.210.41:1234/udp/239.0.0.243:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",FRANCE 24
+#EXTINF:-1 ,FRANCE 24
 http://5.105.210.41:1234/udp/239.0.0.113:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",FTV HD
+#EXTINF:-1 ,FTV HD
 http://5.105.210.41:1234/udp/239.0.0.77:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",GALYCHYNA
+#EXTINF:-1 ,GALYCHYNA
 http://5.105.210.41:1234/udp/239.0.0.165:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",GULLI GIRL
+#EXTINF:-1 ,GULLI GIRL
 http://5.105.210.41:1234/udp/239.0.0.65:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",HD FASHION
+#EXTINF:-1 ,HD FASHION
 http://5.105.210.41:1234/udp/239.0.0.25:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",HISTORY
+#EXTINF:-1 ,HISTORY
 http://5.105.210.41:1234/udp/239.0.0.69:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",HISTORY
+#EXTINF:-1 ,HISTORY
 http://5.105.210.41:1234/udp/239.0.0.119:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",HROMADSKE
+#EXTINF:-1 ,HROMADSKE
 http://5.105.210.41:1234/udp/239.0.0.221:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",ICTV
+#EXTINF:-1 ,ICTV
 http://5.105.210.41:1234/udp/239.0.0.6:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",ID FASHION HD
+#EXTINF:-1 ,ID FASHION HD
 http://5.105.210.41:1234/udp/239.0.0.227:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",ID XTRA
+#EXTINF:-1 ,ID XTRA
 http://5.105.210.41:1234/udp/239.0.0.22:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",I-LAND
+#EXTINF:-1 ,I-LAND
 http://5.105.210.41:1234/udp/239.0.0.153:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",JIM JAM
+#EXTINF:-1 ,JIM JAM
 http://5.105.210.41:1234/udp/239.0.0.46:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",K1
+#EXTINF:-1 ,K1
 http://5.105.210.41:1234/udp/239.0.0.31:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",K2
+#EXTINF:-1 ,K2
 http://5.105.210.41:1234/udp/239.0.0.32:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",KINO 1
+#EXTINF:-1 ,KINO 1
 http://5.105.210.41:1234/udp/239.0.0.205:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",LALE
+#EXTINF:-1 ,LALE
 http://5.105.210.41:1234/udp/239.0.0.179:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",M1
+#EXTINF:-1 ,M1
 http://5.105.210.41:1234/udp/239.0.0.17:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",M2
+#EXTINF:-1 ,M2
 http://5.105.210.41:1234/udp/239.0.0.67:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",MCM TOP
+#EXTINF:-1 ,MCM TOP
 http://5.105.210.41:1234/udp/239.0.0.112:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",MEZZO
+#EXTINF:-1 ,MEZZO
 http://5.105.210.41:1234/udp/239.0.0.195:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",MEZZO LIVE HD
+#EXTINF:-1 ,MEZZO LIVE HD
 http://5.105.210.41:1234/udp/239.0.0.235:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",MGM HD
+#EXTINF:-1 ,MGM HD
 http://5.105.210.41:1234/udp/239.0.0.196:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",MOST VIDEO TV
+#EXTINF:-1 ,MOST VIDEO TV
 http://5.105.210.41:1234/udp/239.0.0.134:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",MTV DANCE
+#EXTINF:-1 ,MTV DANCE
 http://5.105.210.41:1234/udp/239.0.0.87:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",MTV HITS
+#EXTINF:-1 ,MTV HITS
 http://5.105.210.41:1234/udp/239.0.0.157:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",MTV LIVE HD
+#EXTINF:-1 ,MTV LIVE HD
 http://5.105.210.41:1234/udp/239.0.0.200:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",MTV ROCKS
+#EXTINF:-1 ,MTV ROCKS
 http://5.105.210.41:1234/udp/239.0.0.160:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",MUSIC BOX UA
+#EXTINF:-1 ,MUSIC BOX UA
 http://5.105.210.41:1234/udp/239.0.0.101:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",MUSIC BOX UA
+#EXTINF:-1 ,MUSIC BOX UA
 http://5.105.210.41:1234/udp/239.0.0.159:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",NAT GEO WILD
+#EXTINF:-1 ,NAT GEO WILD
 http://5.105.210.41:1234/udp/239.0.0.244:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",NATIONAL GEOGRAPHIC HD
+#EXTINF:-1 ,NATIONAL GEOGRAPHIC HD
 http://5.105.210.41:1234/udp/239.0.0.2:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",NEWS ONE
+#EXTINF:-1 ,NEWS ONE
 http://5.105.210.41:1234/udp/239.0.0.126:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",NICK
+#EXTINF:-1 ,NICK
 http://5.105.210.41:1234/udp/239.0.0.183:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",NICK JR
+#EXTINF:-1 ,NICK JR
 http://5.105.210.41:1234/udp/239.0.0.61:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",NICKELODEON
+#EXTINF:-1 ,NICKELODEON
 http://5.105.210.41:1234/udp/239.0.0.92:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",OBOZ TV
+#EXTINF:-1 ,OBOZ TV
 http://5.105.210.41:1234/udp/239.0.0.138:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",OBOZ TV HD
+#EXTINF:-1 ,OBOZ TV HD
 http://5.105.210.41:1234/udp/239.0.0.206:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",ODESSA INT
+#EXTINF:-1 ,ODESSA INT
 http://5.105.210.41:1234/udp/239.0.0.135:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",OLVIA
+#EXTINF:-1 ,OLVIA
 http://5.105.210.41:1234/udp/239.0.0.168:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",OST WEST
+#EXTINF:-1 ,OST WEST
 http://5.105.210.41:1234/udp/239.0.0.222:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",O-TV
+#EXTINF:-1 ,O-TV
 http://5.105.210.41:1234/udp/239.0.0.18:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",OUTDOOR
+#EXTINF:-1 ,OUTDOOR
 http://5.105.210.41:1234/udp/239.0.0.231:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",PARAMOUNT COMEDY
+#EXTINF:-1 ,PARAMOUNT COMEDY
 http://5.105.210.41:1234/udp/239.0.0.158:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",PLUS
+#EXTINF:-1 ,PLUS
 http://5.105.210.41:1234/udp/239.0.0.166:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",PRIME TIME
+#EXTINF:-1 ,PRIME TIME
 http://5.105.210.41:1234/udp/239.0.0.81:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",SIRIUS TV
+#EXTINF:-1 ,SIRIUS TV
 http://5.105.210.41:1234/udp/239.0.0.240:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",SONY CHANNEL
+#EXTINF:-1 ,SONY CHANNEL
 http://5.105.210.41:1234/udp/239.0.0.27:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",SONY SCI-FI
+#EXTINF:-1 ,SONY SCI-FI
 http://5.105.210.41:1234/udp/239.0.0.178:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",SONY TURBO
+#EXTINF:-1 ,SONY TURBO
 http://5.105.210.41:1234/udp/239.0.0.164:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",SPIKE
+#EXTINF:-1 ,SPIKE
 http://5.105.210.41:1234/udp/239.0.0.172:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",SPORT 1 BALTIC
+#EXTINF:-1 ,SPORT 1 BALTIC
 http://5.105.210.41:1234/udp/239.0.0.83:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",SPORT1
+#EXTINF:-1 ,SPORT1
 http://5.105.210.41:1234/udp/239.0.0.60:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",SPORT2
+#EXTINF:-1 ,SPORT2
 http://5.105.210.41:1234/udp/239.0.0.75:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",STAR CINEMA
+#EXTINF:-1 ,STAR CINEMA
 http://5.105.210.41:1234/udp/239.0.0.151:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",STAR CINEMA HD
+#EXTINF:-1 ,STAR CINEMA HD
 http://5.105.210.41:1234/udp/239.0.0.137:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",STAR FAMILY
+#EXTINF:-1 ,STAR FAMILY
 http://5.105.210.41:1234/udp/239.0.0.57:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",STAR FAMILY
+#EXTINF:-1 ,STAR FAMILY
 http://5.105.210.41:1234/udp/239.0.0.241:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",TBA
+#EXTINF:-1 ,TBA
 http://5.105.210.41:1234/udp/239.0.0.237:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",TET
+#EXTINF:-1 ,TET
 http://5.105.210.41:1234/udp/239.0.0.79:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",TI JI
+#EXTINF:-1 ,TI JI
 http://5.105.210.41:1234/udp/239.0.0.209:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",TLC
+#EXTINF:-1 ,TLC
 http://5.105.210.41:1234/udp/239.0.0.59:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",TRAVEL + ADVENTURE
+#EXTINF:-1 ,TRAVEL + ADVENTURE
 http://5.105.210.41:1234/udp/239.0.0.72:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",TRAVEL CHANNEL
+#EXTINF:-1 ,TRAVEL CHANNEL
 http://5.105.210.41:1234/udp/239.0.0.16:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",TRAVEL CHANNEL
+#EXTINF:-1 ,TRAVEL CHANNEL
 http://5.105.210.41:1234/udp/239.0.0.214:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",TRAVEV GUIDE TV
+#EXTINF:-1 ,TRAVEV GUIDE TV
 http://5.105.210.41:1234/udp/239.0.0.38:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",TV1000
+#EXTINF:-1 ,TV1000
 http://5.105.210.41:1234/udp/239.0.0.39:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",TV1000 ACTION
+#EXTINF:-1 ,TV1000 ACTION
 http://5.105.210.41:1234/udp/239.0.0.123:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",TV1000 WORLD KINO
+#EXTINF:-1 ,TV1000 WORLD KINO
 http://5.105.210.41:1234/udp/239.0.0.40:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",TV5 ЗАПОРОЖЬЕ
+#EXTINF:-1 ,TV5 ЗАПОРОЖЬЕ
 http://5.105.210.41:1234/udp/239.0.0.199:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",TV7
+#EXTINF:-1 ,TV7
 http://5.105.210.41:1234/udp/239.0.0.3:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",TV7
+#EXTINF:-1 ,TV7
 http://5.105.210.41:1234/udp/239.0.0.252:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",TVP INFO HD
+#EXTINF:-1 ,TVP INFO HD
 http://5.105.210.41:1234/udp/239.0.0.225:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",TVP POLONIA
+#EXTINF:-1 ,TVP POLONIA
 http://5.105.210.41:1234/udp/239.0.0.226:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",UA
+#EXTINF:-1 ,UA
 http://5.105.210.41:1234/udp/239.0.0.217:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",UA: NEWS
+#EXTINF:-1 ,UA: NEWS
 http://5.105.210.41:1234/udp/239.0.0.52:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",UA: БУКОВИНА
+#EXTINF:-1 ,UA: БУКОВИНА
 http://5.105.210.41:1234/udp/239.0.0.171:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",UA: КРИМ
+#EXTINF:-1 ,UA: КРИМ
 http://5.105.210.41:1234/udp/239.0.0.13:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",UA: КУЛЬТУРА
+#EXTINF:-1 ,UA: КУЛЬТУРА
 http://5.105.210.41:1234/udp/239.0.0.30:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",UA: ПЕРШИЙ
+#EXTINF:-1 ,UA: ПЕРШИЙ
 http://5.105.210.41:1234/udp/239.0.0.142:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",UA: СУМИ
+#EXTINF:-1 ,UA: СУМИ
 http://5.105.210.41:1234/udp/239.0.0.102:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",UA: ПЕРШИЙ
+#EXTINF:-1 ,UA: ПЕРШИЙ
 http://5.105.210.41:1234/udp/239.0.0.181:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",UA: ДОНБАС
+#EXTINF:-1 ,UA: ДОНБАС
 http://5.105.210.41:1234/udp/239.0.0.228:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",URUBURU
+#EXTINF:-1 ,URUBURU
 http://5.105.210.41:1234/udp/239.0.0.141:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",VH-1 CLASSIC
+#EXTINF:-1 ,VH-1 CLASSIC
 http://5.105.210.41:1234/udp/239.0.0.163:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",VH-1 EUROPEAN
+#EXTINF:-1 ,VH-1 EUROPEAN
 http://5.105.210.41:1234/udp/239.0.0.76:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",VIASAT EXPLORE
+#EXTINF:-1 ,VIASAT EXPLORE
 http://5.105.210.41:1234/udp/239.0.0.36:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",VIASAT HISTORY
+#EXTINF:-1 ,VIASAT HISTORY
 http://5.105.210.41:1234/udp/239.0.0.37:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",VIASAT NATURE
+#EXTINF:-1 ,VIASAT NATURE
 http://5.105.210.41:1234/udp/239.0.0.186:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",VIASAT NATURE
+#EXTINF:-1 ,VIASAT NATURE
 http://5.105.210.41:1234/udp/239.0.0.188:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",VIASAT SPORT
+#EXTINF:-1 ,VIASAT SPORT
 http://5.105.210.41:1234/udp/239.0.0.185:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",VIASAT SPORT HD
+#EXTINF:-1 ,VIASAT SPORT HD
 http://5.105.210.41:1234/udp/239.0.0.86:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",VIP COMEDY
+#EXTINF:-1 ,VIP COMEDY
 http://5.105.210.41:1234/udp/239.0.0.211:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",VIP COMEDY HD
+#EXTINF:-1 ,VIP COMEDY HD
 http://5.105.210.41:1234/udp/239.0.0.128:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",VIP MEGAHIT HD
+#EXTINF:-1 ,VIP MEGAHIT HD
 http://5.105.210.41:1234/udp/239.0.0.190:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",VIP PREMIERE HD
+#EXTINF:-1 ,VIP PREMIERE HD
 http://5.105.210.41:1234/udp/239.0.0.127:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",WORLD WASHION
+#EXTINF:-1 ,WORLD WASHION
 http://5.105.210.41:1234/udp/239.0.0.162:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",XSPORT
+#EXTINF:-1 ,XSPORT
 http://5.105.210.41:1234/udp/239.0.0.58:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",XSPORT
+#EXTINF:-1 ,XSPORT
 http://5.105.210.41:1234/udp/239.0.0.191:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",XXI
+#EXTINF:-1 ,XXI
 http://5.105.210.41:1234/udp/239.0.0.208:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",ZEE TV
+#EXTINF:-1 ,ZEE TV
 http://5.105.210.41:1234/udp/239.0.0.74:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",ZIK
+#EXTINF:-1 ,ZIK
 http://5.105.210.41:1234/udp/239.0.0.110:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",ZOOM
+#EXTINF:-1 ,ZOOM
 http://5.105.210.41:1234/udp/239.0.0.45:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",ZOOПАРК
+#EXTINF:-1 ,ZOOПАРК
 http://5.105.210.41:1234/udp/239.0.0.140:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",БЕЛАРУСЬ 24
+#EXTINF:-1 ,БЕЛАРУСЬ 24
 http://5.105.210.41:1234/udp/239.0.0.20:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",БЕЛСАТ ТВ
+#EXTINF:-1 ,БЕЛСАТ ТВ
 http://5.105.210.41:1234/udp/239.0.0.132:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",БИГУДИ
+#EXTINF:-1 ,БИГУДИ
 http://5.105.210.41:1234/udp/239.0.0.147:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",В ГОСТЯХ У СКАЗКИ
+#EXTINF:-1 ,В ГОСТЯХ У СКАЗКИ
 http://5.105.210.41:1234/udp/239.0.0.62:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",ВИНТАЖ ТВ
+#EXTINF:-1 ,ВИНТАЖ ТВ
 http://5.105.210.41:1234/udp/239.0.0.197:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",ВОЗРОЖДЕНИЕ
+#EXTINF:-1 ,ВОЗРОЖДЕНИЕ
 http://5.105.210.41:1234/udp/239.0.0.175:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",ГLAS
+#EXTINF:-1 ,ГLAS
 http://5.105.210.41:1234/udp/239.0.0.14:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",ДАЧА
+#EXTINF:-1 ,ДАЧА
 http://5.105.210.41:1234/udp/239.0.0.109:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",ДАЧА HD
+#EXTINF:-1 ,ДАЧА HD
 http://5.105.210.41:1234/udp/239.0.0.161:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",ДЕТСКИЙ МИР
+#EXTINF:-1 ,ДЕТСКИЙ МИР
 http://5.105.210.41:1234/udp/239.0.0.104:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",ДИТИНЕЦЬ
+#EXTINF:-1 ,ДИТИНЕЦЬ
 http://5.105.210.41:1234/udp/239.0.0.98:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",ДОНБАС
+#EXTINF:-1 ,ДОНБАС
 http://5.105.210.41:1234/udp/239.0.0.154:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",ДОНЕТЧИНА ТВ
+#EXTINF:-1 ,ДОНЕТЧИНА ТВ
 http://5.105.210.41:1234/udp/239.0.0.149:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",ДОРАМА
+#EXTINF:-1 ,ДОРАМА
 http://5.105.210.41:1234/udp/239.0.0.80:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",ЕВРОКИНО
+#EXTINF:-1 ,ЕВРОКИНО
 http://5.105.210.41:1234/udp/239.0.0.24:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",ЕКО TV
+#EXTINF:-1 ,ЕКО TV
 http://5.105.210.41:1234/udp/239.0.0.70:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",ЕСПРЕСО ТВ
+#EXTINF:-1 ,ЕСПРЕСО ТВ
 http://5.105.210.41:1234/udp/239.0.0.203:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",ИНДИГО
+#EXTINF:-1 ,ИНДИГО
 http://5.105.210.41:1234/udp/239.0.0.54:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",ИНТЕР
+#EXTINF:-1 ,ИНТЕР
 http://5.105.210.41:1234/udp/239.0.0.7:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",КАНАЛ 24
+#EXTINF:-1 ,КАНАЛ 24
 http://5.105.210.41:1234/udp/239.0.0.152:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",КАРАВАН ТВ
+#EXTINF:-1 ,КАРАВАН ТВ
 http://5.105.210.41:1234/udp/239.0.0.136:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",КВАРТАЛ ТВ
+#EXTINF:-1 ,КВАРТАЛ ТВ
 http://5.105.210.41:1234/udp/239.0.0.122:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",КИЕВ ТВ
+#EXTINF:-1 ,КИЕВ ТВ
 http://5.105.210.41:1234/udp/239.0.0.48:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",КИНОКОМЕДИЯ
+#EXTINF:-1 ,КИНОКОМЕДИЯ
 http://5.105.210.41:1234/udp/239.0.0.249:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",КИНОМИКС
+#EXTINF:-1 ,КИНОМИКС
 http://5.105.210.41:1234/udp/239.0.0.116:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",КИНОСЕРИЯ
+#EXTINF:-1 ,КИНОСЕРИЯ
 http://5.105.210.41:1234/udp/239.0.0.248:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",КРТ
+#EXTINF:-1 ,КРТ
 http://5.105.210.41:1234/udp/239.0.0.50:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",МАКСИ ТВ
+#EXTINF:-1 ,МАКСИ ТВ
 http://5.105.210.41:1234/udp/239.0.0.108:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",МАЛЯТКО ТВ
+#EXTINF:-1 ,МАЛЯТКО ТВ
 http://5.105.210.41:1234/udp/239.0.0.125:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",МАРИУПОЛЬСКОЕ ТВ
+#EXTINF:-1 ,МАРИУПОЛЬСКОЕ ТВ
 http://5.105.210.41:1234/udp/239.0.0.1:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",МАРИУПОЛЬСКОЕ ТВ
+#EXTINF:-1 ,МАРИУПОЛЬСКОЕ ТВ
 http://5.105.210.41:1234/udp/239.0.0.251:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",МЕГА
+#EXTINF:-1 ,МЕГА
 http://5.105.210.41:1234/udp/239.0.0.19:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",МИЛЕДИ ТВ
+#EXTINF:-1 ,МИЛЕДИ ТВ
 http://5.105.210.41:1234/udp/239.0.0.155:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",МУЖСКОЕ КИНО
+#EXTINF:-1 ,МУЖСКОЕ КИНО
 http://5.105.210.41:1234/udp/239.0.0.91:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",МУЛЬТИМАНИЯ
+#EXTINF:-1 ,МУЛЬТИМАНИЯ
 http://5.105.210.41:1234/udp/239.0.0.118:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",НАДЯ
+#EXTINF:-1 ,НАДЯ
 http://5.105.210.41:1234/udp/239.0.0.114:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",НАТАЛI
+#EXTINF:-1 ,НАТАЛI
 http://5.105.210.41:1234/udp/239.0.0.150:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",НАУКА УКРАИНА
+#EXTINF:-1 ,НАУКА УКРАИНА
 http://5.105.210.41:1234/udp/239.0.0.120:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",НАШЕ MUSIC
+#EXTINF:-1 ,НАШЕ MUSIC
 http://5.105.210.41:1234/udp/239.0.0.236:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",НАШЕ ЛЮБИМОЕ КИНО
+#EXTINF:-1 ,НАШЕ ЛЮБИМОЕ КИНО
 http://5.105.210.41:1234/udp/239.0.0.94:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",НАШЕ НОВОЕ КИНО
+#EXTINF:-1 ,НАШЕ НОВОЕ КИНО
 http://5.105.210.41:1234/udp/239.0.0.216:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",НЛО ТВ
+#EXTINF:-1 ,НЛО ТВ
 http://5.105.210.41:1234/udp/239.0.0.148:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",НОВЫЙ КАНАЛ
+#EXTINF:-1 ,НОВЫЙ КАНАЛ
 http://5.105.210.41:1234/udp/239.0.0.5:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",НОВЫЙ ХРИСТИАНСКИЙ
+#EXTINF:-1 ,НОВЫЙ ХРИСТИАНСКИЙ
 http://5.105.210.41:1234/udp/239.0.0.143:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",НТН
+#EXTINF:-1 ,НТН
 http://5.105.210.41:1234/udp/239.0.0.8:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",ОЩЕ
+#EXTINF:-1 ,ОЩЕ
 http://5.105.210.41:1234/udp/239.0.0.100:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",ПЕРВЫЙ АВТОМОБИЛЬНЫЙ
+#EXTINF:-1 ,ПЕРВЫЙ АВТОМОБИЛЬНЫЙ
 http://5.105.210.41:1234/udp/239.0.0.21:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",ПЕРВЫЙ ГОРОДСКОЙ
+#EXTINF:-1 ,ПЕРВЫЙ ГОРОДСКОЙ
 http://5.105.210.41:1234/udp/239.0.0.96:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",ПЕРВЫЙ ДЕЛОВОЙ
+#EXTINF:-1 ,ПЕРВЫЙ ДЕЛОВОЙ
 http://5.105.210.41:1234/udp/239.0.0.26:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",ПЕРШИЙ ЗАХIДНИЙ
+#EXTINF:-1 ,ПЕРШИЙ ЗАХIДНИЙ
 http://5.105.210.41:1234/udp/239.0.0.173:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",ПИКСЕЛЬ
+#EXTINF:-1 ,ПИКСЕЛЬ
 http://5.105.210.41:1234/udp/239.0.0.47:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",ПЛЮС ПЛЮС
+#EXTINF:-1 ,ПЛЮС ПЛЮС
 http://5.105.210.41:1234/udp/239.0.0.103:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",ПЛЮС Т2
+#EXTINF:-1 ,ПЛЮС Т2
 http://5.105.210.41:1234/udp/239.0.0.129:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",ПРАВДА ТУТ
+#EXTINF:-1 ,ПРАВДА ТУТ
 http://5.105.210.41:1234/udp/239.0.0.174:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",ПРЯМИЙ
+#EXTINF:-1 ,ПРЯМИЙ
 http://5.105.210.41:1234/udp/239.0.0.35:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",ПРЯМИЙ HD
+#EXTINF:-1 ,ПРЯМИЙ HD
 http://5.105.210.41:1234/udp/239.0.0.198:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",РАДА
+#EXTINF:-1 ,РАДА
 http://5.105.210.41:1234/udp/239.0.0.10:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",СИГМА
+#EXTINF:-1 ,СИГМА
 http://5.105.210.41:1234/udp/239.0.0.11:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",СИГМА
+#EXTINF:-1 ,СИГМА
 http://5.105.210.41:1234/udp/239.0.0.253:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",СОНЦЕ
+#EXTINF:-1 ,СОНЦЕ
 http://5.105.210.41:1234/udp/239.0.0.204:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",СТБ
+#EXTINF:-1 ,СТБ
 http://5.105.210.41:1234/udp/239.0.0.15:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",ТЕЛЕВСЕСВIТ
+#EXTINF:-1 ,ТЕЛЕВСЕСВIТ
 http://5.105.210.41:1234/udp/239.0.0.201:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",ТЕРНОПIЛЬ 1
+#EXTINF:-1 ,ТЕРНОПIЛЬ 1
 http://5.105.210.41:1234/udp/239.0.0.212:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",ТЕРРА
+#EXTINF:-1 ,ТЕРРА
 http://5.105.210.41:1234/udp/239.0.0.90:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",ТИССА 1
+#EXTINF:-1 ,ТИССА 1
 http://5.105.210.41:1234/udp/239.0.0.68:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",ТРОФЕЙ
+#EXTINF:-1 ,ТРОФЕЙ
 http://5.105.210.41:1234/udp/239.0.0.111:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",ТРОФЕЙ HD
+#EXTINF:-1 ,ТРОФЕЙ HD
 http://5.105.210.41:1234/udp/239.0.0.215:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",УКРАИНА
+#EXTINF:-1 ,УКРАИНА
 http://5.105.210.41:1234/udp/239.0.0.12:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",УНIАН ТВ
+#EXTINF:-1 ,УНIАН ТВ
 http://5.105.210.41:1234/udp/239.0.0.146:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",ФАУНА
+#EXTINF:-1 ,ФАУНА
 http://5.105.210.41:1234/udp/239.0.0.156:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",ФУТБОЛ 1
+#EXTINF:-1 ,ФУТБОЛ 1
 http://5.105.210.41:1234/udp/239.0.0.63:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",ФУТБОЛ 2
+#EXTINF:-1 ,ФУТБОЛ 2
 http://5.105.210.41:1234/udp/239.0.0.182:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",ЦК
+#EXTINF:-1 ,ЦК
 http://5.105.210.41:1234/udp/239.0.0.234:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",ЧЕРНОМОРСКАЯ ТРК
+#EXTINF:-1 ,ЧЕРНОМОРСКАЯ ТРК
 http://5.105.210.41:1234/udp/239.0.0.53:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",ЧП ИНФО
+#EXTINF:-1 ,ЧП ИНФО
 http://5.105.210.41:1234/udp/239.0.0.229:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",ЭСКУЛАП ТВ
+#EXTINF:-1 ,ЭСКУЛАП ТВ
 http://5.105.210.41:1234/udp/239.0.0.82:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",ЮЖНАЯ ВОЛНА HD
+#EXTINF:-1 ,ЮЖНАЯ ВОЛНА HD
 http://5.105.210.41:1234/udp/239.0.0.187:1234
-#EXTINF:-1 tvg-shift="0" tvg-id="0" tvg-logo="logo.png" group-title="ProxyTV.ru",ЯТБ
+#EXTINF:-1 ,ЯТБ
 http://5.105.210.41:1234/udp/239.0.0.130:1234
