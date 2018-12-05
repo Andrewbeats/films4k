@@ -339,8 +339,6 @@ http://37.52.9.18:8000/play/a001
 http://37.52.9.18:8000/play/a002
 #EXTINF:-1,This Is Bulgaria HD
 http://37.52.9.18:8000/play/a01a
-#EXTINF:-1,UA:ПЕРШИЙ HD
-http://37.52.9.18:8000/play/a00t
 #EXTINF:-1,Ultra Cinema UHD 4K
 http://37.52.9.18:8000/play/a01h
 #EXTINF:-1,ZIK HD
@@ -439,6 +437,8 @@ http://37.52.9.18:8009/play/a01d
 http://37.52.9.18:8007/play/a011
 #EXTINF:-1,UA:ПЕРШИЙ
 http://37.52.9.18:8007/play/a009
+#EXTINF:-1,UA:ПЕРШИЙ HD
+http://37.52.9.18:8000/play/a00t
 #EXTINF:-1,ICTV
 http://37.52.9.18:8007/play/a00l
 #EXTINF:-1,Новый канал
