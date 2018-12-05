@@ -92,4 +92,10 @@
 <description><![CDATA[<h2><center></center></h2>]]></description>
 </channel>
 
+<channel>
+<title><![CDATA[Избранное VIP]]></title>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/Andrewbeats/films4k/master/vip.m3u]]></playlist_url>
+<description><![CDATA[<h2><center></center></h2>]]></description>
+</channel>
+
 </items>
