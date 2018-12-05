@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,ОСТРОСЮЖЕТНОЕ HD
-http://95.179.34.84:6689/stream?cid=3573
+http://212.20.38.77:1234/stream?cid=3573
 #EXTINF:-1,КИНОПРЕМИУМ HD
 http://95.179.34.84:6689/stream?cid=3574
 #EXTINF:-1,КИНОПОКАЗ 1 HD
@@ -10,7 +10,7 @@ http://95.179.34.84:6689/stream?cid=3703
 #EXTINF:-1,СТРАХ HD
 http://95.179.34.84:6689/stream?cid=5915
 #EXTINF:-1,СТРАШНОЕ HD
-http://95.179.34.84:6689/stream?cid=6868
+http://37.52.9.18:6689/stream?cid=6868
 #EXTINF:-1,0x0 Music HD
 http://95.179.34.84:6689/stream?cid=4199
 #EXTINF:-1,1 Республиканский
