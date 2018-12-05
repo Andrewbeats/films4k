@@ -15,5 +15,5 @@ http://195.144.21.159/match_futbol3_hd/video.m3u8?token=sportmir
 http://195.144.21.159/match_premier_hd/index.m3u8?token=sportmir
 #EXTINF:-1,Сетанта Спорт HD
 http://195.144.21.159/setanta_sports_hd/index.m3u8?token=sportmir
-#EXTINF:-1,Сетанта Спорт+ HD
+#EXTINF:-1,Сетанта Спорт + HD
 http://195.144.21.159/setanta_sports_plus_hd/index.m3u8?token=sportmir
