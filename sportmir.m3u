@@ -5,6 +5,8 @@ http://195.144.21.159/futbol1_ukr_hd/index.m3u8?token=sportmir
 http://195.144.21.159/futbol2_ukr_hd/index.m3u8?token=sportmir
 #EXTINF:-1,Матч! HD
 http://195.144.21.159/match_hd/index.m3u8?token=sportmir
+#EXTINF:-1,Матч! Арена HD
+http://195.144.21.159:8080/match_arena_hd/index.m3u8?token=sportmir
 #EXTINF:-1,Матч! Футбол 1 HD
 http://195.144.21.159/match_futbol1_hd/index.m3u8?token=sportmir
 #EXTINF:-1,Матч! Футбол 2 HD
@@ -13,8 +15,6 @@ http://195.144.21.159/match_futbol2_hd/video.m3u8?token=sportmir
 http://195.144.21.159/match_futbol3_hd/video.m3u8?token=sportmir
 #EXTINF:-1,Матч! Премьер HD
 http://195.144.21.159/match_premier_hd/index.m3u8?token=sportmir
-#EXTINF:-1,Матч! Арена HD
-http://195.144.21.159:8080/match_arena_hd/index.m3u8?token=sportmir
 #EXTINF:-1,Сетанта Спорт HD
 http://195.144.21.159/setanta_sports_hd/index.m3u8?token=sportmir
 #EXTINF:-1,Сетанта Спорт+ HD
