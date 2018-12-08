@@ -9,7 +9,7 @@ http://195.144.21.159/match_hd/index.m3u8?token=sportmir
 http://195.144.21.159/match_arena_hd/index.m3u8?token=sportmir
 #EXTINF:-1,Матч! Игра HD
 http://195.144.21.159/match_igra_hd/index.m3u8?token=sportmir
-#EXTINF:-1,#EXTINF:-1,Матч! КХЛ HD
+#EXTINF:-1,Матч! КХЛ HD
 http://195.144.21.159/khl_hd/index.m3u8?token=sportmir
 #EXTINF:-1,Матч! Футбол 1 HD
 http://195.144.21.159/match_futbol1_hd/index.m3u8?token=sportmir
