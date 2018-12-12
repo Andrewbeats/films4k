@@ -34,6 +34,35 @@ http://91.238.194.116:8030/football_1_hd
 http://91.238.194.116:8030/football_2_hd
 #EXTINF:-1,Ultra Cinema 4K
 http://85.112.114.12:8080/ch799/mpegts
-#EXTINF:-1,FAN HD
-http://5.199.196.75:81/udp/239.255.0.235:1234
-
+#EXTINF:-1,"Долговечные"
+#http://
+#EXTINF:-1,National Geographic HD 
+http://185.162.141.69:9001/natgeo 
+#EXTINF:-1,History HD 
+http://185.162.141.69:9001/history 
+#EXTINF:-1,Киносемья 
+http://185.162.141.69:9004/premiera 
+#EXTINF:-1,Киносерия 
+http://185.162.141.69:9004/mnogotv
+#EXTINF:-1,Киномикс 
+http://185.162.141.69:9004/kinoplus 
+#EXTINF:-1,КиноХит
+http://185.162.141.69:9004/kinohit
+#EXTINF:-1,Авто +
+http://185.162.141.69:9004/avtoplus
+#EXTINF:-1,TV 1000 Action
+http://185.162.141.69:9008/tv1000action
+#EXTINF:-1,Euronews
+http://185.162.141.69:9008/euronews
+#EXTINF:-1,Моя планета
+http://185.162.141.69:9009/planeta
+#EXTINF:-1,Наука 2.0
+http://185.162.141.69:9009/nauka
+#EXTINF:-1,EUROSPORT 1 HD
+http://185.162.141.69:9001/eurosport
+#EXTINF:-1,Матч Футбол 1 HD
+http://185.162.141.69:9012/football
+#EXTINF:-1,Cartoon Network
+http://185.162.141.69:9014/cartoon
+#EXTINF:-1,Disney 
+http://185.162.141.69:9022/disney
