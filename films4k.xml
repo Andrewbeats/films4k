@@ -80,4 +80,10 @@
 <description><![CDATA[<h2><center></center></h2>]]></description>
 </channel>
 
+<channel>
+<title><![CDATA[ООО "ПЕРСПЕКТИВА", г.Санкт-Петербург]]></title>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/Andrewbeats/films4k/master/ООО%20%22ПЕРСПЕКТИВА%22%2C%20г.Санкт-Петербург.m3u]]></playlist_url>
+<description><![CDATA[<h2></center></h2>]]></description>
+</channel>
+
 </items>
